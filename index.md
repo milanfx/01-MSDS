@@ -26,7 +26,7 @@ xxxxx xxxxx xxxxx
 | 04 | Stats Inference    | Probability Theory    | [Link]() |
 | 05 |                    | Parametric Estimation | [Link]() |
 | 06 |                    | Hypothesis Testing    | [Link]() |
-| 07 | Stats Modeling     | Linear Regression     | [Link]() |
+| 07 | Stats Modeling     | Linear Regression     | [Link](07-StatsModeling-LinearRegression) |
 | 08 |                    | ANOVA & Experiment    | [Link]() |
 | 09 |                    | Nonlinear Regression  | [Link] |
 | 10 | Data Mining        | Data Mining Pipeline  | [Link] |
