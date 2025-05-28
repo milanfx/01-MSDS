@@ -1,7 +1,7 @@
 ---
 layout: page
 title: M1 - Regression Introduction
-permalink: /M1-Regression-Introduction//
+permalink: /M1-Regression-Introduction/
 ---
 
 <h3>01 - Statistical Modeling Frameworks</h3>
