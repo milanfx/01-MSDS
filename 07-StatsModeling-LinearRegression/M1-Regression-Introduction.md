@@ -8,51 +8,51 @@ permalink: /M1-Regression-Introduction//
 
 <h4>1. Introduction to Statistical Modeling</h4>
 
-> - Focus: Linear regression models.  
-> - Application: Broad applicability across sciences, business, and other domains.  
-> - Skills: Use data for theory development, predictions, and data-driven decisions.
+- Focus: Linear regression models.  
+- Application: Broad applicability across sciences, business, and other domains.  
+- Skills: Use data for theory development, predictions, and data-driven decisions.
 
 <h4>2. Relevance of Statistical Models</h4> 
 
-> - Example: Predicting wildfire occurrences.  
-> - Inputs: Temperature, relative humidity, fuel density, etc.  
->   - e.g., Similar to an audio mixer with various inputs affecting the output.  
-> - Challenge: Statisticians cannot control inputs like an audio engineer can.  
-> - Determinism vs. Stochasticity: Relationships between inputs and outputs are stochastic, not deterministic.
+- Example: Predicting wildfire occurrences.  
+- Inputs: Temperature, relative humidity, fuel density, etc.  
+  - e.g., Similar to an audio mixer with various inputs affecting the output.  
+- Challenge: Statisticians cannot control inputs like an audio engineer can.  
+- Determinism vs. Stochasticity: Relationships between inputs and outputs are stochastic, not deterministic.
 
 <h4>3. Explanation and Prediction</h4>
 
-> - Tasks: Differentiating between explaining relationships and predicting outcomes.  
-> - Example: Wildfire modeling to predict significant wildfires or understand input-output relationships.
+- Tasks: Differentiating between explaining relationships and predicting outcomes.  
+- Example: Wildfire modeling to predict significant wildfires or understand input-output relationships.
 
 <h4>4. Key Questions in Statistical Modeling</h4>
 
-> - Variable selection: Determining relevant input variables.  
-> - Impact of changes: How changes in one input affect the output.  
->   - e.g., Does a 10-degree increase in temperature have the same effect across different temperature ranges?  
-> - Causal relationships: Exploring if and how inputs cause changes in outputs.
+- Variable selection: Determining relevant input variables.  
+- Impact of changes: How changes in one input affect the output.  
+  - e.g., Does a 10-degree increase in temperature have the same effect across different temperature ranges?  
+- Causal relationships: Exploring if and how inputs cause changes in outputs.
 
 <h4>5. Empirical Questions and Data Collection</h4>
 
-> - Start: With a pertinent empirical question.  
-> - Example 1: Likelihood of large wildfires in Rocky Mountain National Park.  
-> - Example 2: Safety of cycling in different seasons in Boulder.  
-> - Example 3: Impact of social media advertising on product sales.
+- Start: With a pertinent empirical question.  
+- Example 1: Likelihood of large wildfires in Rocky Mountain National Park.  
+- Example 2: Safety of cycling in different seasons in Boulder.  
+- Example 3: Impact of social media advertising on product sales.
 
 <h4>6. Statistical Units and Sampling</h4>
 
-> - Units: Members of the entity set being studied.  
-> - Example: Residents of Boulder, Colorado, with diverse exercise habits.  
-> - Variables: May include exercise type, frequency, age, and pre-existing conditions.  
-> - Sampling: Collecting a representative subset of the population to model relationships.
+- Units: Members of the entity set being studied.  
+- Example: Residents of Boulder, Colorado, with diverse exercise habits.  
+- Variables: May include exercise type, frequency, age, and pre-existing conditions.  
+- Sampling: Collecting a representative subset of the population to model relationships.
 
 <h3>2. Concept Validity Assumption - Operationalization</h3>
 
 <h4>1. Concept Validity and Operationalization</h4>
 
-> - Importance: Fundamental assumptions in statistical modeling.  
-> - Operationalization: Process of defining a concept in measurable terms.  
-> - Validity: Extent to which a dataset or tool measures what it claims.
+- Importance: Fundamental assumptions in statistical modeling.  
+- Operationalization: Process of defining a concept in measurable terms.  
+- Validity: Extent to which a dataset or tool measures what it claims.
 
 > **2. Example of Operationalization**  
 > - Context: Cycling safety during COVID-19 pandemic.  
