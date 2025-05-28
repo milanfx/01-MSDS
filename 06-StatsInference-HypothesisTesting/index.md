@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSDS Courses
+title: Stats Inference - Hypothesis Testing
 permalink: /
 ---
 

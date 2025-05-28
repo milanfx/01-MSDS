@@ -19,8 +19,8 @@ xxxxx xxxxx xxxxx
 
 | ID | Specialization     | Courses            | Link   |
 |:--:|:------------------:|:------------------:|:------:|
-|####|####################|####################|#####|
-| 01 | Data Algorithms    | Searching & Sorting   | [Link]() |
+|####|####################|####################|#####|####################|
+| 01 | Data Algorithms    | Searching & Sorting   |[Link]()|
 | 02 |                    | Trees & Graphs        | [Link]() |
 | 03 |                    | Dynamic Programming   | [Link]() |
 | 04 | Stats Inference    | Probability Theory    | [Link]() |

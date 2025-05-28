@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MSDS Courses
+title: Data Algorithms - Dynamic Programming
 permalink: /
 ---
 
