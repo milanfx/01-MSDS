@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MSDS Courses
-permalink: /03-MSDS-Courses/
+permalink: /
 ---
 
 <h3>Study Notes</h3>
