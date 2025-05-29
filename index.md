@@ -16,51 +16,30 @@ xxxxx xxxxx xxxxx
 
 <!-- Specialization: Data Algorithms -->
 <div>
-  <span class="back-home">Data Algorithms</span>
-  <a href="/03-MSDS-Courses/MSDS01/" class="back-home">Searching & Sorting</a>
-  <a href="/03-MSDS-Courses/MSDS02/" class="back-home">Trees & Graphs</a>
-  <a href="/03-MSDS-Courses/MSDS03/" class="back-home">Dynamic Programming</a>
+  <span class="spci">Data<br>Algorithms</span>
+  <a href="/03-MSDS-Courses/MSDS01/" class="cour">Searching<br>& Sorting</a>
+  <a href="/03-MSDS-Courses/MSDS02/" class="cour">Trees<br>& Graphs</a>
+  <a href="/03-MSDS-Courses/MSDS03/" class="cour">Dynamic<br>Programming</a>
 </div>
 <br>
 
 <!-- Specialization: Stats Inference -->
 <div>
-  <span class="back-home">Stats Inference</span>
-  <a href="/03-MSDS-Courses/MSDS04/" class="back-home">Probability Theory</a>
-  <a href="/03-MSDS-Courses/MSDS05/" class="back-home">Parametric Estimation</a>
-  <a href="/03-MSDS-Courses/MSDS06/" class="back-home">Hypothesis Testing</a>
+  <span class="spci">Stats<br>Inference</span>
+  <a href="/03-MSDS-Courses/MSDS04/" class="cour">Probability<br>Theory</a>
+  <a href="/03-MSDS-Courses/MSDS05/" class="cour">Parametric<br>Estimation</a>
+  <a href="/03-MSDS-Courses/MSDS06/" class="cour">Hypothesis<br>Testing</a>
 </div>
 <br>
 
 <!-- Specialization: Stats Modeling -->
 <div>
-  <span class="back-home">Stats Modeling</span>
-  <a href="/03-MSDS-Courses/MSDS07/" class="back-home">Linear Regression</a>
-  <a href="/03-MSDS-Courses/MSDS08/" class="back-home">ANOVA & Experiment</a>
-  <a href="/03-MSDS-Courses/MSDS09/" class="back-home">Nonlinear Regression</a>
+  <span class="spci">Stats Modeling</span>
+  <a href="/03-MSDS-Courses/MSDS07/" class="cour">Linear<br>Regression</a>
+  <a href="/03-MSDS-Courses/MSDS08/" class="cour">ANOVA<br>& Experiment</a>
+  <a href="/03-MSDS-Courses/MSDS09/" class="cour">Nonlinear<br>Regression</a>
 </div>
 <br>
-
-<!-- Specialization: Data Mining -->
-<div>
-  <span class="back-home">Data Mining</span>
-  <a href="/03-MSDS-Courses/MSDS10/" class="back-home">Data Mining Pipeline</a>
-  <a href="/03-MSDS-Courses/MSDS11/" class="back-home">Data Mining Method</a>
-  <a href="/03-MSDS-Courses/MSDS12/" class="back-home">Data Mining Projects</a>
-</div>
-<br>
-
-<!-- Specialization: Machine Learning -->
-<div>
-  <span class="back-home">Machine Learning</span>
-  <a href="/03-MSDS-Courses/MSDS13/" class="back-home">Supervised Learning</a>
-  <a href="/03-MSDS-Courses/MSDS14/" class="back-home">Unsupervised Learning</a>
-  <a href="/03-MSDS-Courses/MSDS15/" class="back-home">Deep Learning</a>
-</div>
-<br>
-
-<!-- 你可以继续这样加下去…… -->
-
 
 <h3>Study Notes</h3>
 
