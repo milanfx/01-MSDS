@@ -9,6 +9,14 @@ permalink: /
 xxxxx xxxxx xxxxx
 
 <div>
+  <span class="spec">Specialization</span>
+  <a href="/03-MSDS-Courses/MSDS01/" class="cour">Course-1</a>
+  <a href="/03-MSDS-Courses/MSDS02/" class="cour">Course-2</a>
+  <a href="/03-MSDS-Courses/MSDS03/" class="cour">Course-3</a>
+  <a href="/03-MSDS-Courses/MSDS03/" class="cour">Course-4</a>
+</div>
+
+<div>
   <span class="spec">Data<br>Algorithms</span>
   <a href="/03-MSDS-Courses/MSDS01/" class="cour">Searching<br>& Sorting</a>
   <a href="/03-MSDS-Courses/MSDS02/" class="cour">Trees<br>& Graphs</a>
