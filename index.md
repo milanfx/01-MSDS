@@ -10,10 +10,9 @@ xxxxx xxxxx xxxxx
 
 <div>
   <span class="cour">Specialization</span>
-  <a href="/03-MSDS-Courses/MSDS01/" class="spec">Course-1</a>
-  <a href="/03-MSDS-Courses/MSDS02/" class="spec">Course-2</a>
-  <a href="/03-MSDS-Courses/MSDS03/" class="spec">Course-3</a>
-  <a href="/03-MSDS-Courses/MSDS03/" class="spec">Course-4</a>
+  <span class="spec">Course-1</span>
+  <span class="spec">Course-2</span>
+  <span class="spec">Course-3</span>
 </div>
 
 <div>
