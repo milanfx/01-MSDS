@@ -8,41 +8,28 @@ permalink: /
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
+<h3>Study Notes</h3>
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<!-- Specialization: Data Algorithms -->
 <div>
   <span class="spci">Data<br>Algorithms</span>
   <a href="/03-MSDS-Courses/MSDS01/" class="cour">Searching<br>& Sorting</a>
   <a href="/03-MSDS-Courses/MSDS02/" class="cour">Trees<br>& Graphs</a>
   <a href="/03-MSDS-Courses/MSDS03/" class="cour">Dynamic<br>Programming</a>
 </div>
-<br>
 
-<!-- Specialization: Stats Inference -->
 <div>
   <span class="spci">Stats<br>Inference</span>
   <a href="/03-MSDS-Courses/MSDS04/" class="cour">Probability<br>Theory</a>
   <a href="/03-MSDS-Courses/MSDS05/" class="cour">Parametric<br>Estimation</a>
   <a href="/03-MSDS-Courses/MSDS06/" class="cour">Hypothesis<br>Testing</a>
 </div>
-<br>
 
-<!-- Specialization: Stats Modeling -->
 <div>
   <span class="spci">Stats Modeling</span>
   <a href="/03-MSDS-Courses/MSDS07/" class="cour">Linear<br>Regression</a>
   <a href="/03-MSDS-Courses/MSDS08/" class="cour">ANOVA<br>& Experiment</a>
   <a href="/03-MSDS-Courses/MSDS09/" class="cour">Nonlinear<br>Regression</a>
 </div>
-<br>
-
-<h3>Study Notes</h3>
-
 
 | ID | Specialization     | Courses            | Link   |
 |:--:|:------------------:|:------------------:|:------:|
