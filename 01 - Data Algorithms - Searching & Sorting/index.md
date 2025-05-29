@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CCCCC
-permalink: /03-MSDS-Courses/MSDS01/
+permalink: /MSDS01/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
