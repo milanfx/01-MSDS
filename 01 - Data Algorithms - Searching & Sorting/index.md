@@ -16,12 +16,12 @@ xxxxx xxxxx xxxxx
 
 <h3>Study Notes</h3>
 
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS01/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS01/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS01/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS01/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Searching & Sorting        |[Link](/03-MSDS-Courses/MSDS01/M1/)|
+| M2 | Heaps & Hashtable          |[Link](/03-MSDS-Courses/MSDS01/M2/)|
+| M3 | Quicksort & Quickselect    |[Link](/03-MSDS-Courses/MSDS01/M3/)|
+| M4 | Hashtable Applications     |[Link](/03-MSDS-Courses/MSDS01/M4/)|
+|####|############################|####|
 
