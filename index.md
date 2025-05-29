@@ -25,7 +25,7 @@ xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <span class="spci">Stats Modeling</span>
+  <span class="spci">Stats<br>Modeling</span>
   <a href="/03-MSDS-Courses/MSDS07/" class="cour">Linear<br>Regression</a>
   <a href="/03-MSDS-Courses/MSDS08/" class="cour">ANOVA<br>& Experiment</a>
   <a href="/03-MSDS-Courses/MSDS09/" class="cour">Nonlinear<br>Regression</a>
