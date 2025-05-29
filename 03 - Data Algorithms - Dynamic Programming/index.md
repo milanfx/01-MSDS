@@ -8,20 +8,12 @@ permalink: /MSDS03/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS03/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS03/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS03/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS03/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Divide & Conquer           |[Link](/03-MSDS-Courses/MSDS03/M1/)|
+| M2 | Dynamic Programming        |[Link](/03-MSDS-Courses/MSDS03/M2/)|
+| M3 | Greedy Algorithms          |[Link](/03-MSDS-Courses/MSDS03/M3/)|
+| M4 | Quantum Computing          |[Link](/03-MSDS-Courses/MSDS03/M4/)|
+|####|############################|####|
 

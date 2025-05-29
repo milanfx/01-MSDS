@@ -8,14 +8,6 @@ permalink: /MSDS01/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
