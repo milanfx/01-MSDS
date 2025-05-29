@@ -38,7 +38,7 @@ xxxxx xxxxx xxxxx
 | 16 | Database Query     | Relational Database   |[Link](/03-MSDS-Courses/MSDS16/)|
 | 17 |                    | SQL Language          |[Link](/03-MSDS-Courses/MSDS17/)|
 | 18 |                    | Advanced Database     |[Link](/03-MSDS-Courses/MSDS18/)|
-| 19 | Vital Skills       | Data Science Field    |[Link](/03-MSDS-Courses/MSDS19/)|
+| 19 | DS Vital Skills    | Data Science Field    |[Link](/03-MSDS-Courses/MSDS19/)|
 | 20 |                    | Cybersecurity         |[Link](/03-MSDS-Courses/MSDS20/)|
 | 21 |                    | Ethical Issues        |[Link](/03-MSDS-Courses/MSDS21/)|
 | 22 |                    | Data Visualization    |[Link](/03-MSDS-Courses/MSDS22/)|

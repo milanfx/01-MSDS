@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 01 - Data Algorithms - Searching & Sorting
-permalink: /MSDS01/
+title: 03 - Data Algorithms - Dynamic Programming
+permalink: /MSDS03/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -19,9 +19,9 @@ xxxxx xxxxx xxxxx
 | ID  | Module                       |Link|
 |:---:|:----------------------------:|:--:|
 |#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS01/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS01/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS01/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS01/M4/)|
+| M1  |   |[Link](/03-MSDS-Courses/MSDS03/M1/)|
+| M2  |   |[Link](/03-MSDS-Courses/MSDS03/M2/)|
+| M3  |   |[Link](/03-MSDS-Courses/MSDS03/M3/)|
+| M4  |   |[Link](/03-MSDS-Courses/MSDS03/M4/)|
 |#####|##############################|####|
 
