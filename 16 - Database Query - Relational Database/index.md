@@ -23,7 +23,5 @@ xxxxx xxxxx xxxxx
 | M2  |   |[Link](/03-MSDS-Courses/MSDS16/M2/)|
 | M3  |   |[Link](/03-MSDS-Courses/MSDS16/M3/)|
 | M4  |   |[Link](/03-MSDS-Courses/MSDS16/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS16/M5/)|
-| M6  |   |[Link](/03-MSDS-Courses/MSDS16/M6/)|
 |#####|##############################|####|
 
