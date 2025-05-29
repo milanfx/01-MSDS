@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 18 - Database Query - Advanced DatabaseC
+title: 18 - Database Query - Advanced Database
 permalink: /MSDS18/
 ---
 
