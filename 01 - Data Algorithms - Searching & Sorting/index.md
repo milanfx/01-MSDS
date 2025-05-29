@@ -4,7 +4,7 @@ title: xxxxx
 permalink: /MSDS01/
 ---
 
-<h3>Study Notes</h3>
+<h3>S1S1S1S1S1S1S1S1S1</h3>
 
 xxxxx xxxxx xxxxx
 
@@ -19,6 +19,6 @@ xxxxx xxxxx xxxxx
 | ID  | Module                       |Link|
 |:---:|:----------------------------:|:--:|
 |#####|##############################|####|
-| M1  |   |[Link](/MSDS01M1/)|
+| M1  |   |[Link](/MSDS01/M1/)|
 |#####|##############################|####|
 
