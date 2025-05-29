@@ -9,21 +9,21 @@ permalink: /
 xxxxx xxxxx xxxxx
 
 <div>
-  <span class="spci">Data<br>Algorithms</span>
+  <span class="spec">Data<br>Algorithms</span>
   <a href="/03-MSDS-Courses/MSDS01/" class="cour">Searching<br>& Sorting</a>
   <a href="/03-MSDS-Courses/MSDS02/" class="cour">Trees<br>& Graphs</a>
   <a href="/03-MSDS-Courses/MSDS03/" class="cour">Dynamic<br>Programming</a>
 </div>
 
 <div>
-  <span class="spci">Stats<br>Inference</span>
+  <span class="spec">Stats<br>Inference</span>
   <a href="/03-MSDS-Courses/MSDS04/" class="cour">Probability<br>Theory</a>
   <a href="/03-MSDS-Courses/MSDS05/" class="cour">Parametric<br>Estimation</a>
   <a href="/03-MSDS-Courses/MSDS06/" class="cour">Hypothesis<br>Testing</a>
 </div>
 
 <div>
-  <span class="spci">Stats<br>Modeling</span>
+  <span class="spec">Stats<br>Modeling</span>
   <a href="/03-MSDS-Courses/MSDS07/" class="cour">Linear<br>Regression</a>
   <a href="/03-MSDS-Courses/MSDS08/" class="cour">ANOVA<br>& Experiment</a>
   <a href="/03-MSDS-Courses/MSDS09/" class="cour">Nonlinear<br>Regression</a>
