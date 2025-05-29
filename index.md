@@ -8,8 +8,6 @@ permalink: /
 
 xxxxx xxxxx xxxxx
 
-<h3>Study Notes</h3>
-
 <div>
   <span class="spci">Data<br>Algorithms</span>
   <a href="/03-MSDS-Courses/MSDS01/" class="cour">Searching<br>& Sorting</a>
