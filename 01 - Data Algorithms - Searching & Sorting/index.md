@@ -1,7 +1,7 @@
 ---
 layout: page
-title: xxxxx
-permalink: /MSDS01/
+title: CCCCC
+permalink: /03-MSDS-Courses/MSDS01/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -19,6 +19,6 @@ xxxxx xxxxx xxxxx
 | ID  | Module                       |Link|
 |:---:|:----------------------------:|:--:|
 |#####|##############################|####|
-| M1  |   |[Link](/MSDS01/M1/)|
+| M1  |   |[Link](/03-MSDS-Courses/MSDS01/M1/)|
 |#####|##############################|####|
 
