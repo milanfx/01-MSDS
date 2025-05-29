@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Algorithms - Searching & Sorting
+title: MSDS Courses
 permalink: /
 ---
 
