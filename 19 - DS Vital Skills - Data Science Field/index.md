@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CCCCC
-permalink: /MSDS01/
+title: 19 - DS Vital Skills - Data Science Field
+permalink: /MSDS19/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -19,11 +19,9 @@ xxxxx xxxxx xxxxx
 | ID  | Module                       |Link|
 |:---:|:----------------------------:|:--:|
 |#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS01/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS01/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS01/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS01/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS01/M5/)|
-| M6  |   |[Link](/03-MSDS-Courses/MSDS01/M6/)|
+| M1  |   |[Link](/03-MSDS-Courses/MSDS19/M1/)|
+| M2  |   |[Link](/03-MSDS-Courses/MSDS19/M2/)|
+| M3  |   |[Link](/03-MSDS-Courses/MSDS19/M3/)|
+| M4  |   |[Link](/03-MSDS-Courses/MSDS19/M4/)|
 |#####|##############################|####|
 

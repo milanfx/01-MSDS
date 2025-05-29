@@ -1,7 +1,7 @@
 ---
 layout: page
-title: CCCCC
-permalink: /MSDS01/
+title: 12 - Data Mining - Data Mining Projects
+permalink: /MSDS12/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
@@ -19,11 +19,11 @@ xxxxx xxxxx xxxxx
 | ID  | Module                       |Link|
 |:---:|:----------------------------:|:--:|
 |#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS01/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS01/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS01/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS01/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS01/M5/)|
-| M6  |   |[Link](/03-MSDS-Courses/MSDS01/M6/)|
+| M1  |   |[Link](/03-MSDS-Courses/MSDS12/M1/)|
+| M2  |   |[Link](/03-MSDS-Courses/MSDS12/M2/)|
+| M3  |   |[Link](/03-MSDS-Courses/MSDS12/M3/)|
+| M4  |   |[Link](/03-MSDS-Courses/MSDS12/M4/)|
+| M5  |   |[Link](/03-MSDS-Courses/MSDS12/M5/)|
+| M6  |   |[Link](/03-MSDS-Courses/MSDS12/M6/)|
 |#####|##############################|####|
 
