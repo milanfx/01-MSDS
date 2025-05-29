@@ -8,12 +8,11 @@ permalink: /MSDS10/
 
 xxxxx xxxxx xxxxx
 
-| ID | Module                     |Link|
-|:--:|----------------------------|:--:|
-|####|############################|####|
-| M1 | Pipeline Introduction      |[Link](/03-MSDS-Courses/MSDS10/M1/)|
-| M2 | Data Understanding         |[Link](/03-MSDS-Courses/MSDS10/M2/)|
-| M3 | Data Preprocessing         |[Link](/03-MSDS-Courses/MSDS10/M3/)|
-| M4 | Data Warehousing           |[Link](/03-MSDS-Courses/MSDS10/M4/)|
-|####|############################|####|
-
+| ID  | Module                     | Note                                                      | Notebook                                                                                              |
+|:---:|----------------------------|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
+| #### | ############################| ####                                                      | ####                                                                                                   |
+| M1  | Pipeline Introduction      | [Note](/03-MSDS-Courses/MSDS10/M1/)                       |                                                                                                        |
+| M2  | Data Understanding         | [Note](/03-MSDS-Courses/MSDS10/M2/)                       |                                                                                                        |
+| M3  | Data Preprocessing         | [Note](/03-MSDS-Courses/MSDS10/M3/)                       |                                                                                                        |
+| M4  | Data Warehousing           | [Note](/03-MSDS-Courses/MSDS10/M4/)                       |                                                                                                        |
+| NB  | XGB Feature Selection Notebook |                                                          | [Notebook](https://github.com/milanfx/03-MSDS-Courses/blob/main/10%20-%20Data%20Mining%20-%20Data%20Mining%20Pipeline/xgb-feature-selection.ipynb) |
