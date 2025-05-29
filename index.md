@@ -20,7 +20,7 @@ xxxxx xxxxx xxxxx
 | ID | Specialization     | Courses            | Link   |
 |:--:|:------------------:|:------------------:|:------:|
 |####|####################|####################|#####|
-| 01 | Data Algorithms    | Searching & Sorting   |[Link](/03-MSDS-Courses/MSDS01/)|
+| 01 | Data Algorithms    | Searching & Sorting   |[Link](/MSDS01/)|
 | 02 |                    | Trees & Graphs        |[Link](/MSDS02/)|
 | 03 |                    | Dynamic Programming   |[Link](/MSDS03/)|
 | 04 | Stats Inference    | Probability Theory    |[Link](/MSDS04/)|
