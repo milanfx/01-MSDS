@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: xxxxx
 permalink: /MSDS01/
 ---
 
@@ -16,8 +16,8 @@ xxxxx xxxxx xxxxx
 
 <h3>Study Notes</h3>
 
-| ID  | Module                       | Link |
-|:---:|:----------------------------:|:----:|
+| ID  | Module                       |Link|
+|:---:|:----------------------------:|:--:|
 |#####|##############################|####|
 | M1  |   |[Link](/MSDS01M1/)|
 | M2  |   |[Link](/MSDS01M2/)|
