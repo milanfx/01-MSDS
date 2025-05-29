@@ -8,20 +8,12 @@ permalink: /MSDS19/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS19/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS19/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS19/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS19/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Data Science Introduction  |[Link](/03-MSDS-Courses/MSDS19/M1/)|
+| M2 | Data Science Applications  |[Link](/03-MSDS-Courses/MSDS19/M2/)|
+| M3 | Data Science Process       |[Link](/03-MSDS-Courses/MSDS19/M3/)|
+| M4 | Data Science Communication |[Link](/03-MSDS-Courses/MSDS19/M4/)|
+|####|############################|####|
 

@@ -8,22 +8,14 @@ permalink: /MSDS07/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS07/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS07/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS07/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS07/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS07/M5/)|
-| M6  |   |[Link](/03-MSDS-Courses/MSDS07/M6/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Regression Introduction    |[Link](/03-MSDS-Courses/MSDS07/M1/)|
+| M2 | Parameter Estimation       |[Link](/03-MSDS-Courses/MSDS07/M2/)|
+| M3 | Regression Inference       |[Link](/03-MSDS-Courses/MSDS07/M3/)|
+| M4 | Prediction & Explanation   |[Link](/03-MSDS-Courses/MSDS07/M4/)|
+| M5 | Regression Diagnostics     |[Link](/03-MSDS-Courses/MSDS07/M5/)|
+| M6 | Model Selection            |[Link](/03-MSDS-Courses/MSDS07/M6/)|
+|####|############################|####|
 

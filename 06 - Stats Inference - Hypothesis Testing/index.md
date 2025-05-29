@@ -8,21 +8,13 @@ permalink: /MSDS06/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS06/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS06/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS06/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS06/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS06/M5/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Hypothesis Testing         |[Link](/03-MSDS-Courses/MSDS06/M1/)|
+| M2 | One Sample Test            |[Link](/03-MSDS-Courses/MSDS06/M2/)|
+| M3 | Two Sample Test            |[Link](/03-MSDS-Courses/MSDS06/M3/)|
+| M4 | Non-normal Test            |[Link](/03-MSDS-Courses/MSDS06/M4/)|
+| M5 | Chi-Squared Test           |[Link](/03-MSDS-Courses/MSDS06/M5/)|
+|####|############################|####|
 

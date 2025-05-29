@@ -8,20 +8,12 @@ permalink: /MSDS16/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS16/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS16/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS16/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS16/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 |Entity Relationship         |[Link](/03-MSDS-Courses/MSDS16/M1/)|
+| M2 |Relational Models           |[Link](/03-MSDS-Courses/MSDS16/M2/)|
+| M3 |Normalization Forms         |[Link](/03-MSDS-Courses/MSDS16/M3/)|
+| M4 |Relational Case             |[Link](/03-MSDS-Courses/MSDS16/M4/)|
+|####|############################|####|
 

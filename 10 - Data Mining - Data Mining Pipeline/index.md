@@ -8,20 +8,12 @@ permalink: /MSDS10/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS10/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS10/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS10/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS10/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Pipeline Introduction      |[Link](/03-MSDS-Courses/MSDS10/M1/)|
+| M2 | Data Understanding         |[Link](/03-MSDS-Courses/MSDS10/M2/)|
+| M3 | Data Preprocessing         |[Link](/03-MSDS-Courses/MSDS10/M3/)|
+| M4 | Data Warehousing           |[Link](/03-MSDS-Courses/MSDS10/M4/)|
+|####|############################|####|
 

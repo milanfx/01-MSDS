@@ -8,20 +8,12 @@ permalink: /MSDS09/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS09/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS09/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS09/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS09/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Binomial Regression        |[Link](/03-MSDS-Courses/MSDS09/M1/)|
+| M2 | Poisson Regression         |[Link](/03-MSDS-Courses/MSDS09/M2/)|
+| M3 | Nonparametric Regression   |[Link](/03-MSDS-Courses/MSDS09/M3/)|
+| M4 | Generalized Additive Models|[Link](/03-MSDS-Courses/MSDS09/M4/)|
+|####|############################|####|
 

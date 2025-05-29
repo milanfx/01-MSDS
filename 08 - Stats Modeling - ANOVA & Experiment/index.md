@@ -8,20 +8,12 @@ permalink: /MSDS08/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS08/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS08/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS08/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS08/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | ANOVA Introduction         |[Link](/03-MSDS-Courses/MSDS08/M1/)|
+| M2 | Hypothesis Testing         |[Link](/03-MSDS-Courses/MSDS08/M2/)|
+| M3 | Two-Way ANOVA              |[Link](/03-MSDS-Courses/MSDS08/M3/)|
+| M4 | Experimental Design        |[Link](/03-MSDS-Courses/MSDS08/M4/)|
+|####|############################|####|
 

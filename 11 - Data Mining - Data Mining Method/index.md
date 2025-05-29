@@ -8,20 +8,12 @@ permalink: /MSDS11/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS11/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS11/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS11/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS11/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Frequent Pattern Analysis  |[Link](/03-MSDS-Courses/MSDS11/M1/)|
+| M2 | Classification Analysis    |[Link](/03-MSDS-Courses/MSDS11/M2/)|
+| M3 | Clustering Analysis        |[Link](/03-MSDS-Courses/MSDS11/M3/)|
+| M4 | Anomaly Detection          |[Link](/03-MSDS-Courses/MSDS11/M4/)|
+|####|############################|####|
 

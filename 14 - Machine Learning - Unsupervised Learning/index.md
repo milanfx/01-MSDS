@@ -8,20 +8,12 @@ permalink: /MSDS14/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS14/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS14/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS14/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS14/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Principal Component Analysis|[Link](/03-MSDS-Courses/MSDS14/M1/)|
+| M2 | Clustering Methods          |[Link](/03-MSDS-Courses/MSDS14/M2/)|
+| M3 | Recommender System          |[Link](/03-MSDS-Courses/MSDS14/M3/)|
+| M4 | Matrix Factorization        |[Link](/03-MSDS-Courses/MSDS14/M4/)|
+|####|############################|####|
 

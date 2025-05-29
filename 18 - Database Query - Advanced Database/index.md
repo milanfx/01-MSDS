@@ -8,20 +8,12 @@ permalink: /MSDS18/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS18/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS18/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS18/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS18/M4/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | DBMS Essentials            |[Link](/03-MSDS-Courses/MSDS18/M1/)|
+| M2 | Data Warehousing           |[Link](/03-MSDS-Courses/MSDS18/M2/)|
+| M3 | Big Data Challenges        |[Link](/03-MSDS-Courses/MSDS18/M3/)|
+| M4 | NoSQL Systems              |[Link](/03-MSDS-Courses/MSDS18/M4/)|
+|####|############################|####|
 

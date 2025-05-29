@@ -8,21 +8,13 @@ permalink: /MSDS05/
 
 xxxxx xxxxx xxxxx
 
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-xxxxx xxxxx xxxxx
-
-<h3>Study Notes</h3>
-
-| ID  | Module                       |Link|
-|:---:|:----------------------------:|:--:|
-|#####|##############################|####|
-| M1  |   |[Link](/03-MSDS-Courses/MSDS05/M1/)|
-| M2  |   |[Link](/03-MSDS-Courses/MSDS05/M2/)|
-| M3  |   |[Link](/03-MSDS-Courses/MSDS05/M3/)|
-| M4  |   |[Link](/03-MSDS-Courses/MSDS05/M4/)|
-| M5  |   |[Link](/03-MSDS-Courses/MSDS05/M5/)|
-|#####|##############################|####|
+| ID | Module                     |Link|
+|:--:|----------------------------|:--:|
+|####|############################|####|
+| M1 | Method of Moments Estimators |[Link](/03-MSDS-Courses/MSDS05/M1/)|
+| M2 | Maximum Likelihood Estimation|[Link](/03-MSDS-Courses/MSDS05/M2/)|
+| M3 | Large Sample Theory          |[Link](/03-MSDS-Courses/MSDS05/M3/)|
+| M4 | Normal Confidence Intervals  |[Link](/03-MSDS-Courses/MSDS05/M4/)|
+| M5 | Other Confidence Intervals   |[Link](/03-MSDS-Courses/MSDS05/M5/)|
+|####|############################|####|
 
