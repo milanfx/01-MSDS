@@ -94,9 +94,11 @@ xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <span class="spec">Business<br>Communication</span>
+  <span class="spec">Effective<br>Communication</span>
   <a href="/03-MSDS-Courses/MSDS35/" class="cour">Business<br>Writing</a>
   <a href="/03-MSDS-Courses/MSDS36/" class="cour">Graphic<br>Design</a>
-  <a href="/03-MSDS-Courses/MSDS37/" class="cour">Presentation</a>
+  <a href="/03-MSDS-Courses/MSDS37/" class="cour">Public<br>Presentation</a>
   <a href="/03-MSDS-Courses/MSDS38/" class="cour">Capstone<br>Project</a>
 </div>
+
+<h3>Milanfx</h3>
