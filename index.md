@@ -31,7 +31,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 </div>
 
 <div>
-  <span class="btn ccour0">Stats<br>Modeling</span>
+  <span class="btn cour0">Stats<br>Modeling</span>
   <a href="/03-MSDS-Courses/MSDS07/" class="btn cour1">Linear<br>Regression</a>
   <a href="/03-MSDS-Courses/MSDS08/" class="btn cour2">ANOVA<br>& Experiment</a>
   <a href="/03-MSDS-Courses/MSDS09/" class="btn cour3">Nonlinear<br>Regression</a>
