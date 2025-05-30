@@ -4,9 +4,9 @@ title: 01 - Data Algorithms - Searching & Sorting
 permalink: /MSDS01/
 ---
 
-<h3>S1S1S1S1S1S1S1S1S1</h3>
+<h3>Study Notes</h3>
 
-xxxxx xxxxx xxxxx
+xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
@@ -17,3 +17,12 @@ xxxxx xxxxx xxxxx
 | M4 | Hashtable Applications     |[Link](/03-MSDS-Courses/MSDS01/M4/)|
 |####|############################|####|
 
+<div>
+  <span class="spec">M1 Searching<br>Sorting</span>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="cour">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="cour">NoteBook</a>
+  <a href="/03-MSDS-Courses/MSDS37/" class="cour">Public<br>Presentation</a>
+  <a href="/03-MSDS-Courses/MSDS38/" class="cour">Capstone<br>Project</a>
+</div>
+
+<h3>Milanfx</h3>
