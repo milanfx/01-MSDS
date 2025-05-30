@@ -14,6 +14,7 @@ xxxxx xxxxx xxxxx
   <span class="spec">Course-2</span>
   <span class="spec">Course-3</span>
   <span class="spec">Course-4</span>
+  <span class="spec">Course-5</span>
 </div>
 
 <div>
