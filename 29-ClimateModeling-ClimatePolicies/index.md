@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Data Visualization
-permalink: /MSDS22/
+title: 29 - Climate Modeling - Climate Policies
+permalink: /MSDS29/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

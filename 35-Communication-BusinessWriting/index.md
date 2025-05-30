@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 38 - Effective Communication - Communication Project
-permalink: /MSDS38/
+title: 35 - Communication - Business Writing
+permalink: /MSDS35/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

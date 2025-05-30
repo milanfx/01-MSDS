@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Data Visualization
-permalink: /MSDS22/
+title: 25 - Quality Control - Measurement System
+permalink: /MSDS25/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Data Visualization
-permalink: /MSDS22/
+title: 32 - Text Marketing - Supervised Analysis
+permalink: /MSDS32/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

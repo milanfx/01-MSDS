@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Data Visualization
-permalink: /MSDS22/
+title: 38 - Communication - Project Capstone
+permalink: /MSDS38/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
