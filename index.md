@@ -75,9 +75,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="spec">Stats<br>Learning</span>
-  <a href="/03-MSDS-Courses/MSDS26/" class="cour">Fundamental<br>Models</a>
+  <a href="/03-MSDS-Courses/MSDS26/" class="cour">Model<br>Fundamentals</a>
   <a href="/03-MSDS-Courses/MSDS27/" class="cour">Model<br>Optimization</a>
-  <a href="/03-MSDS-Courses/MSDS28/" class="cour">Advanced<br>Models</a>
+  <a href="/03-MSDS-Courses/MSDS28/" class="cour">Model<br>Advanced</a>
 </div>
 
 <div>
