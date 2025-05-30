@@ -6,13 +6,14 @@ permalink: /
 
 <h3>Study Notes</h3>
 
-xxxxx xxxxx xxxxx
+xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="cour">Specialization</span>
   <span class="spec">Course-1</span>
   <span class="spec">Course-2</span>
   <span class="spec">Course-3</span>
+  <span class="spec">Course-4</span>
 </div>
 
 <div>
