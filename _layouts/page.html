@@ -16,125 +16,90 @@
       font-size: 1rem;
     }
 
-    h2 {
+    h2, h3, h4 {
       background-color: Ivory;
-      color: #33691e;
+      color: #1b5e20;
       text-align: left;
       font-family: 'Roboto Condensed', sans-serif;
-      font-size: 24px;
       font-weight: bold;
       margin: 0;
       overflow: hidden;
       padding: 5px;
     }
-
+    h2 { font-size: 24px; }
     h3 {
-      background-color: Ivory;
-      color: #33691e;
-      text-align: left;
-      font-family: 'Roboto Condensed', sans-serif;
       font-size: 16px;
-      font-weight: bold;
-      margin: 0;
-      overflow: hidden;
-      padding: 5px;
-      border-top: 2px solid #33691e;
-      border-bottom: 2px solid #33691e;
+      border-top: 2px solid #1b5e20;
+      border-bottom: 2px solid #1b5e20;
     }
+    h4 { font-size: 16px; }
 
-    h4 {
-      background-color: Ivory;
-      color: #33691e;
-      text-align: left;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-size: 16px;
-      font-weight: bold;
-      margin: 0;
-      overflow: hidden;
-      padding: 5px;
-    }
-
-    .back {
-      display: inline-block;
-      background-color: #33691e;
+    .title {
+      background-color: #1b5e20;
       color: Ivory;
       text-align: center;
       font-family: 'Roboto Condensed', sans-serif;
-      font-size: 14px;
-      font-weight: normal;
-      line-height: 1;
-      margin: 5px;
+      font-size: 40px;
+      margin: 0;
       overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 90px;
-      border-radius: 5px;
+      padding: 10px 0;
     }
-
-      .spec {
+    .btn {
       display: inline-block;
-      background-color: Ivory;
-      color: #33691e;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-weight: bold;
-      font-size: 16px;
-      line-height: 1;
-      margin: 5px;
-      overflow: hidden;
-      text-decoration: none;
-      padding: 5px;
-      width: 135px;
-      border-radius: 5px;
-      border: 2px solid #33691e;
-    }
-
-      .cour {
-      display: inline-block;
-      background-color: #33691e;
+      background-color: #1b5e20;
       color: Ivory;
       text-align: center;
       font-family: 'Roboto Condensed', sans-serif;
-      font-weight: normal;
       font-size: 16px;
       line-height: 1;
       margin: 5px;
       overflow: hidden;
       text-decoration: none;
       padding: 5px;
-      width: 135px;
       border-radius: 5px;
-      border: 2px solid #33691e;
+      border: 2px solid #1b5e20;
+      width: 110px;
     }
 
+    .btn.back { font-size: 14px; width: 90px; }
+    .btn.cour0 {
+      background-color: Ivory;
+      color: #1b5e20;
+      font-weight: bold;
+      width: 135px;
+    }
+    .btn.cour1 { background-color: #1b5e20; width: 135px; }
+    .btn.cour2 { background-color: #2e7d32; width: 135px; }
+    .btn.cour3 { background-color: #388e3c; width: 135px; }
+    .btn.cour4 { background-color: #43a047; width: 135px; }
+    .btn.modu0 {
+      background-color: Ivory;
+      color: #1b5e20;
+      font-weight: bold;
+    }
+    .btn.modu1 {background-color: #1b5e20;}
+    .btn.modu2 {background-color: #2e7d32;}
+    .btn.modu3 {background-color: #388e3c;}
+    .btn.modu4 {background-color: #43a047;}
   </style>
 </head>
 <body>
-  <div style="border-top: 5px solid #33691e;"></div>
+  <div style="border-top: 5px solid #1b5e20;"></div>
   <div style="border-top: 3px solid Ivory;"></div>
-  <div style="
-    background-color: #33691e;
-    color: Ivory;
-    text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 40px;
-    margin: 0;
-    overflow: hidden;
-    padding: 10px 0;
-  ">
+  <div class="title">
     {{ page.title }}
   </div>
   <div style="border-bottom: 3px solid Ivory;"></div>
-  <div style="border-bottom: 5px solid #33691e;"></div>
+  <div style="border-bottom: 5px solid #1b5e20;"></div>
   <br>
-  <a href="/" class="back">Go Home</a>
-  <a href="javascript:history.back()" class="back">Go Back</a>
+  <a href="/" class="btn back">Go Home</a>
+  <a href="javascript:history.back()" class="btn back">Go Back</a>
   <br>
   <div>
     {{ content }}
   </div>
   <br>
-  <a href="/" class="back">Go Home</a>
-  <a href="javascript:history.back()" class="back">Go Back</a>
+  <a href="/" class="btn back">Go Home</a>
+  <a href="javascript:history.back()" class="btn back">Go Back</a>
 </body>
 </html>

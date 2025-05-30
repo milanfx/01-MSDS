@@ -8,21 +8,58 @@ permalink: /MSDS01/
 
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
-| ID | Module                     |Link|
-|:--:|----------------------------|:--:|
-|####|############################|####|
-| M1 | Searching & Sorting        |[Link](/03-MSDS-Courses/MSDS01/M1/)|
-| M2 | Heaps & Hashtable          |[Link](/03-MSDS-Courses/MSDS01/M2/)|
-| M3 | Quicksort & Quickselect    |[Link](/03-MSDS-Courses/MSDS01/M3/)|
-| M4 | Hashtable Applications     |[Link](/03-MSDS-Courses/MSDS01/M4/)|
-|####|############################|####|
+<div>
+  <span class="btn modu0">Module-1</span>
+  <span class="btn modu0">Module-2</span>
+  <span class="btn modu0">Module-3</span>
+  <span class="btn modu0">Module-4</span>
+  <span class="btn modu0">Module-5</span>
+  <span class="btn modu0">Module-6</span>
+</div>
 
 <div>
-  <span class="spec">M1 Searching<br>Sorting</span>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="cour">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="cour">NoteBook</a>
-  <a href="/03-MSDS-Courses/MSDS37/" class="cour">Public<br>Presentation</a>
-  <a href="/03-MSDS-Courses/MSDS38/" class="cour">Capstone<br>Project</a>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+  <span class="btn modu1">Convolutional<br>NeuralNetworks</span>
+</div>
+
+<div>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn modu2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn modu2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M5/" class="btn modu2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M6/" class="btn modu2">Notes</a>
+</div>
+
+<div>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu3">Notebooks<br>CNN</a>
+</div>
+
+<div>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>RNN</a>
+</div>
+
+<div>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>Transformer</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>Transformer</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>Transformer</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>Transformer</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn modu4">Notebooks<br>Transformer</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn modu4">Notebooks<br>Transformer</a>
 </div>
 
 <h3>Milanfx</h3>
