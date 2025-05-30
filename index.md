@@ -13,8 +13,6 @@ xxxxx xxxxx xxxxx
   <span class="spec">Course-1</span>
   <span class="spec">Course-2</span>
   <span class="spec">Course-3</span>
-  <span class="spec">Course-4</span>
-  <span class="spec">Course-5</span>
 </div>
 
 <div>
@@ -38,45 +36,67 @@ xxxxx xxxxx xxxxx
   <a href="/03-MSDS-Courses/MSDS09/" class="cour">Nonlinear<br>Regression</a>
 </div>
 
-| ID | Specialization     | Courses            | Link   |
-|:--:|:------------------:|:------------------:|:------:|
-|####|####################|####################|#####|
-| 01 | Data Algorithms    | Searching & Sorting   |[Link](/03-MSDS-Courses/MSDS01/)|
-| 02 |                    | Trees & Graphs        |[Link](/03-MSDS-Courses/MSDS02/)|
-| 03 |                    | Dynamic Programming   |[Link](/03-MSDS-Courses/MSDS03/)|
-| 04 | Stats Inference    | Probability Theory    |[Link](/03-MSDS-Courses/MSDS04/)|
-| 05 |                    | Parametric Estimation |[Link](/03-MSDS-Courses/MSDS05/)|
-| 06 |                    | Hypothesis Testing    |[Link](/03-MSDS-Courses/MSDS06/)|
-| 07 | Stats Modeling     | Linear Regression     |[Link](/03-MSDS-Courses/MSDS07/)|
-| 08 |                    | ANOVA & Experiment    |[Link](/03-MSDS-Courses/MSDS08/)|
-| 09 |                    | Nonlinear Regression  |[Link](/03-MSDS-Courses/MSDS09/)|
-| 10 | Data Mining        | Data Mining Pipeline  |[Link](/03-MSDS-Courses/MSDS10/)|
-| 11 |                    | Data Mining Method    |[Link](/03-MSDS-Courses/MSDS11/)|
-| 12 |                    | Data Mining Projects  |[Link](/03-MSDS-Courses/MSDS12/)|
-| 13 | Machine Learning   | Supervised Learning   |[Link](/03-MSDS-Courses/MSDS13/)|
-| 14 |                    | Unsupervised Learning |[Link](/03-MSDS-Courses/MSDS14/)|
-| 15 |                    | Deep Learning         |[Link](/03-MSDS-Courses/MSDS15/)|
-| 16 | Database Query     | Relational Database   |[Link](/03-MSDS-Courses/MSDS16/)|
-| 17 |                    | SQL Language          |[Link](/03-MSDS-Courses/MSDS17/)|
-| 18 |                    | Advanced Database     |[Link](/03-MSDS-Courses/MSDS18/)|
-| 19 | DS Vital Skills    | Data Science Field    |[Link](/03-MSDS-Courses/MSDS19/)|
-| 20 |                    | Cybersecurity         |[Link](/03-MSDS-Courses/MSDS20/)|
-| 21 |                    | Ethical Issues        |[Link](/03-MSDS-Courses/MSDS21/)|
-| 22 |                    | Data Visualization    |[Link](/03-MSDS-Courses/MSDS22/)|
-| 23 | Quality Control    | Quality Statistics    |[Link](/03-MSDS-Courses/MSDS23/)|
-| 24 |                    | Stability & Capability|[Link](/03-MSDS-Courses/MSDS24/)|
-| 25 |                    | Measurement System    |[Link](/03-MSDS-Courses/MSDS25/)|
-| 26 | Stats Learning     | Fundamental Models    |[Link](/03-MSDS-Courses/MSDS26/)|
-| 27 |                    | Model Optimization    |[Link](/03-MSDS-Courses/MSDS27/)|
-| 28 |                    | Advanced Models       |[Link](/03-MSDS-Courses/MSDS28/)|
-| 29 | Climate Modeling   | Climate Policies      |[Link](/03-MSDS-Courses/MSDS29/)|
-| 30 |                    | Climate Visualization |[Link](/03-MSDS-Courses/MSDS30/)|
-| 31 |                    | Climate Prediction    |[Link](/03-MSDS-Courses/MSDS31/)|
-| 32 | Text Marketing     | Supervised Analysis   |[Link](/03-MSDS-Courses/MSDS32/)|
-| 33 |                    | Unsupervised Analysis |[Link](/03-MSDS-Courses/MSDS33/)|
-| 34 |                    | Network Analysis      |[Link](/03-MSDS-Courses/MSDS34/)|
-| 35 | Communication      | Business Writing      |[Link](/03-MSDS-Courses/MSDS35/)|
-| 36 |                    | Graphic Design        |[Link](/03-MSDS-Courses/MSDS36/)|
-| 37 |                    | Presentation          |[Link](/03-MSDS-Courses/MSDS37/)|
-| 38 |                    | Capstone Project      |[Link](/03-MSDS-Courses/MSDS38/)|
-|####|####################|####################|#####|
+<div>
+  <span class="spec">Data<br>Mining</span>
+  <a href="/03-MSDS-Courses/MSDS10/" class="cour">Data Mining<br>Pipeline</a>
+  <a href="/03-MSDS-Courses/MSDS11/" class="cour">Data Mining<br>Method</a>
+  <a href="/03-MSDS-Courses/MSDS12/" class="cour">Data Mining<br>Projects</a>
+</div>
+
+<div>
+  <span class="spec">Machine<br>Learning</span>
+  <a href="/03-MSDS-Courses/MSDS13/" class="cour">Supervised<br>Learning</a>
+  <a href="/03-MSDS-Courses/MSDS14/" class="cour">Unsupervised<br>Learning</a>
+  <a href="/03-MSDS-Courses/MSDS15/" class="cour">Deep<br>Learning</a>
+</div>
+
+<div>
+  <span class="spec">Database<br>Query</span>
+  <a href="/03-MSDS-Courses/MSDS16/" class="cour">Relational<br>Database</a>
+  <a href="/03-MSDS-Courses/MSDS17/" class="cour">SQL<br>Language</a>
+  <a href="/03-MSDS-Courses/MSDS18/" class="cour">Advanced<br>Database</a>
+</div>
+
+<div>
+  <span class="spec">DS Vital<br>Skills</span>
+  <a href="/03-MSDS-Courses/MSDS19/" class="cour">Data Science<br>Field</a>
+  <a href="/03-MSDS-Courses/MSDS20/" class="cour">Cyber<br>Security</a>
+  <a href="/03-MSDS-Courses/MSDS21/" class="cour">Ethical<br>Issues</a>
+  <a href="/03-MSDS-Courses/MSDS22/" class="cour">Data<br>Visualization</a>
+</div>
+
+<div>
+  <span class="spec">Quality<br>Control</span>
+  <a href="/03-MSDS-Courses/MSDS23/" class="cour">Quality<br>Statistics</a>
+  <a href="/03-MSDS-Courses/MSDS24/" class="cour">Stability<br>& Capability</a>
+  <a href="/03-MSDS-Courses/MSDS25/" class="cour">Measurement<br>System</a>
+</div>
+
+<div>
+  <span class="spec">Stats<br>Learning</span>
+  <a href="/03-MSDS-Courses/MSDS26/" class="cour">Fundamental<br>Models</a>
+  <a href="/03-MSDS-Courses/MSDS27/" class="cour">Model<br>Optimization</a>
+  <a href="/03-MSDS-Courses/MSDS28/" class="cour">Advanced<br>Models</a>
+</div>
+
+<div>
+  <span class="spec">Climate<br>Modeling</span>
+  <a href="/03-MSDS-Courses/MSDS29/" class="cour">Climate<br>Policies</a>
+  <a href="/03-MSDS-Courses/MSDS30/" class="cour">Climate<br>Visualization</a>
+  <a href="/03-MSDS-Courses/MSDS31/" class="cour">Climate<br>Prediction</a>
+</div>
+
+<div>
+  <span class="spec">Text<br>Marketing</span>
+  <a href="/03-MSDS-Courses/MSDS32/" class="cour">Supervised<br>Analysis</a>
+  <a href="/03-MSDS-Courses/MSDS33/" class="cour">Unsupervised<br>Analysis</a>
+  <a href="/03-MSDS-Courses/MSDS34/" class="cour">Network<br>Analysis</a>
+</div>
+
+<div>
+  <span class="spec">Business<br>Communication</span>
+  <a href="/03-MSDS-Courses/MSDS35/" class="cour">Business<br>Writing</a>
+  <a href="/03-MSDS-Courses/MSDS36/" class="cour">Graphic<br>Design</a>
+  <a href="/03-MSDS-Courses/MSDS37/" class="cour">Presentation</a>
+  <a href="/03-MSDS-Courses/MSDS38/" class="cour">Capstone<br>Project</a>
+</div>
