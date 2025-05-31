@@ -10,10 +10,10 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="btn cour1">Specialization</span>
-  <span class="btn cour0">Course-1</span>
-  <span class="btn cour0">Course-2</span>
-  <span class="btn cour0">Course-3</span>
-  <span class="btn cour0">Course-4</span>
+  <span class="btn cour0">Course 01</span>
+  <span class="btn cour0">Course 02</span>
+  <span class="btn cour0">Course 03</span>
+  <span class="btn cour0">Course 04</span>
 </div>
 
 <div>
