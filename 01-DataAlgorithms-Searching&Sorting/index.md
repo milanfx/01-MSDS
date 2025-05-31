@@ -9,7 +9,7 @@ permalink: /MSDS01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour0">Module 01<br><br>Searching<br>& Sorting</span>
+  <span class="btn cour0"><span class="btn cour1">Module 01</span><br><br>Searching<br>& Sorting</span>
   <span class="btn cour0">Module 02<br><br>Heaps<br>& Hashtable</span>
   <span class="btn cour0">Module 03<br><br>Quicksort<br>& Quickselect</span>
   <span class="btn cour0">Module 04<br><br>Hashtable<br>Applications</span>
