@@ -10,7 +10,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="btn cour4"><span class="btn cour0">Module 01</span><br>Searching<br>& Sorting</span>
-  <span class="btn cour4"><span class="btn cour0">Module 02</span><br>Heaps<br>& Hashtable</span>
+  <span class="btn cour4"><span class="btn cour0">Module 02</span><br>Heaps    <br>& Hashtable</span>
   <span class="btn cour4"><span class="btn cour0">Module 03</span><br>Quicksort<br>& Quickselect</span>
   <span class="btn cour4"><span class="btn cour0">Module 04</span><br>Hashtable<br>Applications</span>
 </div>
