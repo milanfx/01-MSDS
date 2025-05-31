@@ -9,10 +9,10 @@ permalink: /MSDS01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour0">Module 01<br>Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour0">Module 02<br>Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour0">Module 03<br>Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour0">Module 04<br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour0">Module<br>01<br>Searching<br>& Sorting</span>
+  <span class="btn cour0">Module<br>02<br>Heaps<br>& Hashtable</span>
+  <span class="btn cour0">Module<br>03<br>Quicksort<br>& Quickselect</span>
+  <span class="btn cour0">Module<br>04<br>Hashtable<br>Applications</span>
 </div>
 
 <div>
