@@ -9,10 +9,10 @@ permalink: /MSDS01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour0">courle-1</span>
-  <span class="btn cour0">courle-2</span>
-  <span class="btn cour0">courle-3</span>
-  <span class="btn cour0">courle-4</span>
+  <span class="btn cour0">Module-1</span>
+  <span class="btn cour0">Module-2</span>
+  <span class="btn cour0">Module-3</span>
+  <span class="btn cour0">Module-4</span>
 </div>
 
 <div>
