@@ -9,45 +9,38 @@ permalink: /MSDS01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour0">Module-1</span>
-  <span class="btn cour0">Module-2</span>
-  <span class="btn cour0">Module-3</span>
-  <span class="btn cour0">Module-4</span>
+  <span class="btn cour0">Module 01<br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour0">Module 02<br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour0">Module 03<br>Convolutional<br>NeuralNetworks</span>
+  <span class="btn cour0">Module 04<br>Convolutional<br>NeuralNetworks</span>
 </div>
 
 <div>
-  <span class="btn cour1">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour1">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour1">Convolutional<br>NeuralNetworks</span>
-  <span class="btn cour1">Convolutional<br>NeuralNetworks</span>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour1">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour1">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn cour1">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn cour1">Notes</a>
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour2">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour2">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn cour2">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn cour2">Notes</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour2">Assignment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour2">Assignment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour2">Assignment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour2">Assignment</a>
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Notebooks<br>CNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Notebooks<br>CNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Lab<br>RNN</a>
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Notebooks<br>RNN</a>
-</div>
-
-<div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Notebooks<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Notebooks<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Lab<br>RNN</a>
+  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Lab<br>RNN</a>
 </div>
 
 <h3>Milanfx</h3>
