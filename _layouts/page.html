@@ -9,11 +9,15 @@
   <style>
     body {
       font-family: 'Roboto Condensed', sans-serif;
-      padding: 40px;
       background-color: Ivory;
       color: DarkSlateGray;
       line-height: 1.5;
       font-size: 1rem;
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 40px;
     }
 
     h2, h3, h4 {
@@ -72,44 +76,37 @@
     .btn.cour2 { background-color: #2e7d32; width: 135px; }
     .btn.cour3 { background-color: #388e3c; width: 135px; }
     .btn.cour4 { background-color: #43a047; width: 135px; }
-    .btn.modu0 {
+    .btn.cour5 {
       background-color: Ivory;
       color: #1b5e20;
       font-weight: bold;
+      width: 110px; 
     }
-    .btn.modu1 { background-color: #1b5e20;}
-    .btn.modu2 { background-color: #2e7d32;}
-    .btn.modu3 { background-color: #388e3c;}
-    .btn.modu4 { background-color: #43a047;}
-    .btn.modu5 {
-      background-color: Ivory;
-      color: #1b5e20;
-      font-weight: bold;
-      width: 135px; 
-    }
-    .btn.modu6 { background-color: #1b5e20; width: 135px; }
-    .btn.modu7 { background-color: #2e7d32; width: 135px; }
-    .btn.modu8 { background-color: #388e3c; width: 135px; }
-    .btn.modu9 { background-color: #43a047; width: 135px; }
+    .btn.cour6 { background-color: #1b5e20; width: 110px; }
+    .btn.cour7 { background-color: #2e7d32; width: 110px; }
+    .btn.cour8 { background-color: #388e3c; width: 110px; }
+    .btn.cour9 { background-color: #43a047; width: 110px; }
   </style>
 </head>
 <body>
-  <div style="border-top: 5px solid #1b5e20;"></div>
-  <div style="border-top: 3px solid Ivory;"></div>
-  <div class="title">
-    {{ page.title }}
+  <div class="container">
+    <div style="border-top: 5px solid #1b5e20;"></div>
+    <div style="border-top: 3px solid Ivory;"></div>
+    <div class="title">
+      {{ page.title }}
+    </div>
+    <div style="border-bottom: 3px solid Ivory;"></div>
+    <div style="border-bottom: 5px solid #1b5e20;"></div>
+    <br>
+    <a href="/" class="btn back">Go Home</a>
+    <a href="javascript:history.back()" class="btn back">Go Back</a>
+    <br>
+    <div>
+      {{ content }}
+    </div>
+    <br>
+    <a href="/" class="btn back">Go Home</a>
+    <a href="javascript:history.back()" class="btn back">Go Back</a>
   </div>
-  <div style="border-bottom: 3px solid Ivory;"></div>
-  <div style="border-bottom: 5px solid #1b5e20;"></div>
-  <br>
-  <a href="/" class="btn back">Go Home</a>
-  <a href="javascript:history.back()" class="btn back">Go Back</a>
-  <br>
-  <div>
-    {{ content }}
-  </div>
-  <br>
-  <a href="/" class="btn back">Go Home</a>
-  <a href="javascript:history.back()" class="btn back">Go Back</a>
 </body>
 </html>
