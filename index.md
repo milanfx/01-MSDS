@@ -66,6 +66,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/03-MSDS-Courses/MSDS23/" class="btn cour1">Quality<br>Statistics</a>
   <a href="/03-MSDS-Courses/MSDS24/" class="btn cour2">Stability<br>& Capability</a>
   <a href="/03-MSDS-Courses/MSDS25/" class="btn cour3">Measurement<br>System</a>
+  </span>
 </div>
 
 <div>
@@ -96,6 +97,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/03-MSDS-Courses/MSDS36/" class="btn icon2">Graphic<br>Design</a>
   <a href="/03-MSDS-Courses/MSDS37/" class="btn icon3">Public<br>Presentation</a>
   <a href="/03-MSDS-Courses/MSDS38/" class="btn icon4">Capstone<br>Project</a>
+  </span>
 </div>
 
 <h3>Milanfx</h3>
