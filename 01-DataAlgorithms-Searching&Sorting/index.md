@@ -9,38 +9,57 @@ permalink: /MSDS01/
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
-  <span class="btn cour4"><span class="btn cour0">Module 01</span><br>Searching<br>& Sorting</span>
-  <span class="btn cour4"><span class="btn cour0">Module 02</span><br>Heaps    <br>& Hashtable</span>
-  <span class="btn cour4"><span class="btn cour0">Module 03</span><br>Quicksort<br>& Quickselect</span>
-  <span class="btn cour4"><span class="btn cour0">Module 04</span><br>Hashtable<br>Applications</span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour1">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour1">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M3/" class="btn cour1">Notes</a>
-  <a href="/03-MSDS-Courses/MSDS01/M4/" class="btn cour1">Notes</a>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
 </div>
 
 <div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour2">Assignment</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour2">Assignment</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour2">Assignment</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour2">Assignment</a>
-</div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
 
-<div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour3">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour3">Lab<br>RNN</a>
-</div>
-
-<div>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn cour4">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Lab<br>RNN</a>
-  <a href="/03-MSDS-Courses/MSDS01/M2/" class="btn cour4">Lab<br>RNN</a>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/03-MSDS-Express/EXPR01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/EXPR01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
 </div>
 
 <h3>Milanfx</h3>
