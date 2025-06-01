@@ -56,7 +56,7 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 07 - DS Vital Skills</span>
   <br>
-  <a href="/03-MSDS-Courses/MSDS19/" class="btn icon1">Data Science<br>Field</a>
+  <a href="/03-MSDS-Courses/MSDS19/" class="btn icon1">DataScience<br>Field</a>
   <a href="/03-MSDS-Courses/MSDS20/" class="btn icon2">Cyber<br>Security</a>
   <a href="/03-MSDS-Courses/MSDS21/" class="btn icon3">Ethical<br>Issues</a>
   <a href="/03-MSDS-Courses/MSDS22/" class="btn icon4">Data<br>Visualization</a>
