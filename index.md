@@ -104,15 +104,15 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <span class="btn spec1"><span class="btn spec2">Specialization 13 - Bayesian Stats</span>
   <br>
   <a href="/03-MSDS-Courses/MSDS32/" class="btn cour1">Bayesian<br>Introduction</a>
-  <a href="/03-MSDS-Courses/MSDS33/" class="btn cour2"><br></a>
-  <a href="/03-MSDS-Courses/MSDS34/" class="btn cour3"><br></a>
+  <a href="/03-MSDS-Courses/MSDS33/" class="btn cour2"> <br> </a>
+  <a href="/03-MSDS-Courses/MSDS34/" class="btn cour3"> <br> </a>
   </span>
-  <span class="btn spec1"><span class="btn spec2"></span>
+  <span class="btn spec1"><span class="btn spec2">Specialization</span>
   <br>
-  <a href="/03-MSDS-Courses/MSDS35/" class="btn icon1"><br></a>
-  <a href="/03-MSDS-Courses/MSDS36/" class="btn icon2"><br></a>
-  <a href="/03-MSDS-Courses/MSDS37/" class="btn icon3"><br></a>
-  <a href="/03-MSDS-Courses/MSDS38/" class="btn icon4"><br></a>
+  <a href="/03-MSDS-Courses/MSDS35/" class="btn icon1"> <br> </a>
+  <a href="/03-MSDS-Courses/MSDS36/" class="btn icon2"> <br> </a>
+  <a href="/03-MSDS-Courses/MSDS37/" class="btn icon3"> <br> </a>
+  <a href="/03-MSDS-Courses/MSDS38/" class="btn icon4"> <br> </a>
   </span>
 </div>
 
