@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 22 - DS Vital Skills - Cybersecurity
+title: 22 - DS Vital Skills - Cyber Security
 permalink: /DS22/
 ---
 
