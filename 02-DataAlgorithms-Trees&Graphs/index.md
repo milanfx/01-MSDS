@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 02 - Data Algorithms - Trees & Graphs
-permalink: /MSDS02/
+permalink: /DS02/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

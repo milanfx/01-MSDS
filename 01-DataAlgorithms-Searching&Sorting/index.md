@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 01 - Data Algorithms - Searching & Sorting
-permalink: /MSDS01/
+permalink: /DS01/
 ---
 
 <h3>Study Notes</h3>
