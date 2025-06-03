@@ -32,9 +32,9 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   </span>
   <span class="btn spec1"><span class="btn spec2">Specialization 04 - Data Mining</span>
   <br>
-  <a href="/03-MSDS-Courses/MSDS10/" class="btn cour1">Data Mining<br>Pipeline</a>
-  <a href="/03-MSDS-Courses/MSDS11/" class="btn cour2">Data Mining<br>Method</a>
-  <a href="/03-MSDS-Courses/MSDS12/" class="btn cour3">Data Mining<br>Projects</a>
+  <a href="/03-MSDS-Courses/MSDS10/" class="btn cour1">DataMining<br>Pipeline</a>
+  <a href="/03-MSDS-Courses/MSDS11/" class="btn cour2">DataMining<br>Method</a>
+  <a href="/03-MSDS-Courses/MSDS12/" class="btn cour3">DataMining<br>Projects</a>
   </span>
 </div>
 
@@ -91,12 +91,28 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/03-MSDS-Courses/MSDS33/" class="btn cour2">Unsupervised<br>Analysis</a>
   <a href="/03-MSDS-Courses/MSDS34/" class="btn cour3">Network<br>Analysis</a>
   </span>
-  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Effective Communication</span>
+  <span class="btn spec1"><span class="btn spec2">Specialization 12 - Communication</span>
   <br>
   <a href="/03-MSDS-Courses/MSDS35/" class="btn icon1">Business<br>Writing</a>
   <a href="/03-MSDS-Courses/MSDS36/" class="btn icon2">Graphic<br>Design</a>
   <a href="/03-MSDS-Courses/MSDS37/" class="btn icon3">Public<br>Presentation</a>
   <a href="/03-MSDS-Courses/MSDS38/" class="btn icon4">Capstone<br>Project</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Specialization 13 - Bayesian Stats</span>
+  <br>
+  <a href="/03-MSDS-Courses/MSDS32/" class="btn cour1">Bayesian<br>Introduction</a>
+  <a href="/03-MSDS-Courses/MSDS33/" class="btn cour2"><br></a>
+  <a href="/03-MSDS-Courses/MSDS34/" class="btn cour3"><br></a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2"></span>
+  <br>
+  <a href="/03-MSDS-Courses/MSDS35/" class="btn icon1"><br></a>
+  <a href="/03-MSDS-Courses/MSDS36/" class="btn icon2"><br></a>
+  <a href="/03-MSDS-Courses/MSDS37/" class="btn icon3"><br></a>
+  <a href="/03-MSDS-Courses/MSDS38/" class="btn icon4"><br></a>
   </span>
 </div>
 
