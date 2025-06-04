@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 03 - MSDS Courses
+title: MSDS Courses
 permalink: /
 ---
 

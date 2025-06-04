@@ -4,16 +4,59 @@ title: 02 - Data Algorithms - Trees & Graphs
 permalink: /DS02/
 ---
 
-<h3>S1S1S1S1S1S1S1S1S1</h3>
+<h3>Study Notes</h3>
 
-xxxxx xxxxx xxxxx
+xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
-| ID | Module                     |Link|
-|:--:|----------------------------|:--:|
-|####|############################|####|
-| M1 | Binary Search Trees        |[Link](/03-MSDS-Courses/MSDS02/M1/)|
-| M2 | Graphs Traversals          |[Link](/03-MSDS-Courses/MSDS02/M2/)|
-| M3 | Spanning Tree              |[Link](/03-MSDS-Courses/MSDS02/M3/)|
-| M4 | Shortest Path              |[Link](/03-MSDS-Courses/MSDS02/M4/)|
-|####|############################|####|
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
 
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/DS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/03-MSDS-Courses/DS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
+
+<h3>Milanfx</h3>
