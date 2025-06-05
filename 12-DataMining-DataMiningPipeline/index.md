@@ -4,7 +4,7 @@ title: 12 - Data Mining - Data Mining Pipeline
 permalink: /MSDS12/
 ---
 
-xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
+1xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>

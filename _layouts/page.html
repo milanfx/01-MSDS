@@ -27,36 +27,13 @@
       margin: 0 auto;
       padding: 10px;
     }
-    h2, h3, h4 {
-      background-color: Ivory;
-      color: var(--c1);
-      text-align: left;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-weight: bold;
-      margin: 0;
-      overflow: hidden;
-      padding: 5px;
-    }
-    h2 {
-      background-color: var(--c1);
-      color: Ivory;
-      font-size: 24px;
-      font-weight: normal;
-      margin: 5px;
-    }
-    h3 {
-      font-size: 16px;
-      border-top: 2px solid var(--c1);
-      border-bottom: 2px solid var(--c1);
-    }
-    h4 { font-size: 16px; }
     .title {
       background-color: var(--c1);
       color: Ivory;
       text-align: center;
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 40px;
-      margin: 0;
+      margin: 5px;
       overflow: hidden;
       padding: 10px 0;
     }
@@ -103,6 +80,29 @@
     .btn.icon2 { background-color: var(--c2); width: 75px; }
     .btn.icon3 { background-color: var(--c3); width: 75px; }
     .btn.icon4 { background-color: var(--c4); width: 75px; }
+
+    h2, h3, h4 {
+      background-color: Ivory;
+      color: var(--c1);
+      text-align: left;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-weight: bold;
+      margin: 5px;
+      overflow: hidden;
+      padding: 5px;
+    }
+    h2 {
+      background-color: var(--c1);
+      color: Ivory;
+      font-size: 24px;
+      font-weight: normal;
+    }
+    h3 {
+      font-size: 16px;
+      border-top: 2px solid var(--c1);
+      border-bottom: 2px solid var(--c1);
+    }
+    h4 { font-size: 16px; }
   </style>
 </head>
 <body>
@@ -118,11 +118,11 @@
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
     <br>
+    <h3>Study Notes</h3>
     <div>
-      <h3>Study Notes</h3>
       {{ content }}
-      <h3>Milanfx</h3>
     </div>
+    <h3>Milanfx</h3>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
   </div>
