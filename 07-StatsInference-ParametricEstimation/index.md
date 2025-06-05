@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 07 - Stats Inference - Parametric Estimation
-permalink: /DS07/
+permalink: /MSDS07/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

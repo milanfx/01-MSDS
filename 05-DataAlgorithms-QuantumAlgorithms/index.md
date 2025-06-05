@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 05 - Data Algorithms - Quantum Algorithms
-permalink: /DS05/
+permalink: /MSDS05/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

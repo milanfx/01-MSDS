@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 15 - Machine Learning - Supervised Learning
-permalink: /DS15/
+permalink: /MSDS15/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 44 - Bayesian Stats - Bayesian Introduction
-permalink: /DS44/
+permalink: /MSDS44/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

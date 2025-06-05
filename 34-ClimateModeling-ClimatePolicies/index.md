@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 34 - Climate Modeling - Climate Policies
-permalink: /DS34/
+permalink: /MSDS34/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

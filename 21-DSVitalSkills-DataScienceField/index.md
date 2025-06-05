@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 21 - DS Vital Skills - Data Science Field
-permalink: /DS21/
+permalink: /MSDS21/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

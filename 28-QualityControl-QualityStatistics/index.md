@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 28 - Quality Control - Quality Statistics
-permalink: /DS28/
+permalink: /MSDS28/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 17 - Machine Learning - Deep Learning
-permalink: /DS17/
+permalink: /MSDS17/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

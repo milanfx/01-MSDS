@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 04 - Data Algorithms - Linear Programming
-permalink: /DS04/
+permalink: /MSDS04/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

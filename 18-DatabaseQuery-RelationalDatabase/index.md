@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 18 - Database Query - Relational Database
-permalink: /DS18/
+permalink: /MSDS18/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

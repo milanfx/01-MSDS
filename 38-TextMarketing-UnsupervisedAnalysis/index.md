@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 38 - Text Marketing - Unsupervised Analysis
-permalink: /DS38/
+permalink: /MSDS38/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

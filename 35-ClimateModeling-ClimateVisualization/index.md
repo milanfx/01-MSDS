@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 35 - Climate Modeling - Climate Visualization
-permalink: /DS35/
+permalink: /MSDS35/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 12 - Data Mining - Data Mining Pipeline
-permalink: /DS12/
+permalink: /MSDS12/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

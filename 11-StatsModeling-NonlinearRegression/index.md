@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 11 - Stats Modeling - Nonlinear Regression
-permalink: /DS11/
+permalink: /MSDS11/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

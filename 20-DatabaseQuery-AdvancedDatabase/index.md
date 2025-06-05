@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 20 - Database Query - Advanced Database
-permalink: /DS20/
+permalink: /MSDS20/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

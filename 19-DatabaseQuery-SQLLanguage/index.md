@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 19 - Database Query - SQL Language
-permalink: /DS19/
+permalink: /MSDS19/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

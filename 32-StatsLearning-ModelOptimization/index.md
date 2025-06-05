@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 32 - Stats Learning - Model Optimization
-permalink: /DS32/
+permalink: /MSDS32/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

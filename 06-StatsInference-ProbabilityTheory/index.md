@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 06 - Stats Inference - Probability Theory
-permalink: /DS06/
+permalink: /MSDS06/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

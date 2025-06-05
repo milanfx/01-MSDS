@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 24 - DS Vital Skills - Data Visualization
-permalink: /DS24/
+permalink: /MSDS24/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

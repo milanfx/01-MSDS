@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 41 - Communication - Graphic Design
-permalink: /DS41/
+permalink: /MSDS41/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

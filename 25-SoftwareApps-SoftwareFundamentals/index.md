@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 25 - Software Apps - Software Fundamentals
-permalink: /DS25/
+permalink: /MSDS25/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

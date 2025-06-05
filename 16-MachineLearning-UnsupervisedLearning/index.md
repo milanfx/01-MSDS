@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 16 - Machine Learning - Unsupervised Learning
-permalink: /DS16/
+permalink: /MSDS16/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

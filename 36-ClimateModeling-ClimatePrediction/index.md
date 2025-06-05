@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 36 - Climate Modeling - Climate Prediction
-permalink: /DS36/
+permalink: /MSDS36/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

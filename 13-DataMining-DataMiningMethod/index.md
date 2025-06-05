@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 13 - Data Mining - Data Mining Method
-permalink: /DS13/
+permalink: /MSDS13/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

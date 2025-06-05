@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 26 - Software Apps - Software Patterns
-permalink: /DS26/
+permalink: /MSDS26/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

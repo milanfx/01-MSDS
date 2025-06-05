@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 29 - Quality Control - Stability & Capability
-permalink: /DS29/
+permalink: /MSDS29/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

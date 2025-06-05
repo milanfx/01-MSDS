@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 39 - Text Marketing - Network Analysis
-permalink: /DS39/
+permalink: /MSDS39/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

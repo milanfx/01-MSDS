@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 22 - DS Vital Skills - Cyber Security
-permalink: /DS22/
+permalink: /MSDS22/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 14 - Data Mining - Data Mining Projects
-permalink: /DS14/
+permalink: /MSDS14/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

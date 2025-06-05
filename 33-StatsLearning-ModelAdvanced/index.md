@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 33 - Stats Learning - Model Advanced
-permalink: /DS33/
+permalink: /MSDS33/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

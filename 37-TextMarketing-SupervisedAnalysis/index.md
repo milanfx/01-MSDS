@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 37 - Text Marketing - Supervised Analysis
-permalink: /DS37/
+permalink: /MSDS37/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

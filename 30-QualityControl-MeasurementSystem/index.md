@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 30 - Quality Control - Measurement System
-permalink: /DS30/
+permalink: /MSDS30/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

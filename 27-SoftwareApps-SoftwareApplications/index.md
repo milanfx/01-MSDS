@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 27 - Software Apps - Software Applications
-permalink: /DS27/
+permalink: /MSDS27/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 08 - Stats Inference - Hypothesis Testing
-permalink: /DS08/
+permalink: /MSDS08/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

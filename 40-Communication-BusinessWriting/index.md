@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 40 - Communication - Business Writing
-permalink: /DS40/
+permalink: /MSDS40/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

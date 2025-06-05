@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 42 - Communication - Public Presentation
-permalink: /DS42/
+permalink: /MSDS42/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

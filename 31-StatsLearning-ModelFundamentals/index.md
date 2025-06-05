@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 31 - Stats Learning - Model Fundamentals
-permalink: /DS31/
+permalink: /MSDS31/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

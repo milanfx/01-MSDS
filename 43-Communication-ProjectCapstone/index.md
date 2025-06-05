@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 43 - Communication - Project Capstone
-permalink: /DS43/
+permalink: /MSDS43/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

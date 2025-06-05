@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 10 - Stats Modeling - ANOVA & Experiment
-permalink: /DS10/
+permalink: /MSDS10/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

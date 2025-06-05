@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 03 - Data Algorithms - Dynamic Programming
-permalink: /DS03/
+permalink: /MSDS03/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

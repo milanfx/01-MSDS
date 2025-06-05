@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 23 - DS Vital Skills - Ethical Issues
-permalink: /DS23/
+permalink: /MSDS23/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>

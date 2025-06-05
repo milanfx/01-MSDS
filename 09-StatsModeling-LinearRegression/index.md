@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 09 - Stats Modeling - Linear Regression
-permalink: /DS09/
+permalink: /MSDS09/
 ---
 
 <h3>S1S1S1S1S1S1S1S1S1</h3>
