@@ -58,5 +58,3 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
   </span>
 </div>
-
-<h3>Milanfx</h3>
