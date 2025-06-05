@@ -4,8 +4,6 @@ title: 12 - Data Mining - Data Mining Pipeline
 permalink: /MSDS12/
 ---
 
-<h3>Study Notes</h3>
-
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
