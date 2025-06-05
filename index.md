@@ -129,5 +129,3 @@ xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
   <a href="" class="btn icon4">C4<br>_</a>
   </span>
 </div>
-
-<h3>Milanfx</h3>
