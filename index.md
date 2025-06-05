@@ -4,8 +4,6 @@ title: MSDS Courses
 permalink: /
 ---
 
-<h3>Study Notes</h3>
-
 xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
 <div>
