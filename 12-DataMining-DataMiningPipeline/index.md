@@ -4,16 +4,57 @@ title: 12 - Data Mining - Data Mining Pipeline
 permalink: /MSDS12/
 ---
 
-<h3>S1S1S1S1S1S1S1S1S1</h3>
+<h3>Study Notes</h3>
 
-xxxxx xxxxx xxxxx
+xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
 
-| ID  | Module                     | Note                                                      | Notebook                                                                                              |
-|:---:|----------------------------|:----------------------------------------------------------:|:------------------------------------------------------------------------------------------------------:|
-| #### | ############################| ####                                                      | ####                                                                                                   |
-| M1  | Pipeline Introduction      | [Note](/02-MSDS-Courses/MSDS10/M1/)                       |                                                                                                        |
-| M2  | Data Understanding         | [Note](/02-MSDS-Courses/MSDS10/M2/)                       |                                                                                                        |
-| M3  | Data Preprocessing         | [Note](/02-MSDS-Courses/MSDS10/M3/)                       |                                                                                                        |
-| M4  | Data Warehousing           | [Note](/02-MSDS-Courses/MSDS10/M4/)                       |                                                                                                        |
-| NB  | XGB Feature Selection Notebook  |                                                          | <a href="https://github.com/milanfx/02-MSDS-Courses/blob/main/10-DataMining-DataMiningPipeline/xgb-feature-selection.ipynb" target="_blank">Notebook</a> |
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
 
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
+
+<div>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+  <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
+  <br>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon1">📝<br>Summary</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon2">📖<br>Assignment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon3">⏰<br>Accessment</a>
+  <a href="/02-MSDS-Courses/MSDS01/M1/" class="btn icon4">📂<br>Laboratory</a>
+  </span>
+</div>
