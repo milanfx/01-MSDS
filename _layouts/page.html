@@ -53,18 +53,30 @@
       border: 2px solid var(--c1);
     }
     .btn.back { font-size: 14px; width: 90px; }
+    .btn.note { 
+      background-color: Ivory; 
+      color: var(--c1);
+      font-weight: bold;
+      text-align: left; 
+      width: 875px; 
+      border-top: 2px solid var(--c1);
+      border-bottom: 2px solid var(--c1);
+      border-left: none;
+      border-right: none;
+      border-radius: 0px;
+    }
 
     .btn.spec1 { 
       background-color: var(--c6); 
-      width: 420px; 
       text-align: left; 
+      width: 420px; 
     }
     .btn.spec2 {
       background-color: Ivory;
       color: var(--c1);
+      text-align: left;
       font-weight: bold;
       width: 330px;
-      text-align: left;
     }
 
     .btn.cour1 { background-color: var(--c1); width: 110px; }
@@ -77,32 +89,18 @@
     .btn.icon4 { background-color: var(--c4); width: 75px; }
 
     .btn.note1 { 
-      background-color: Ivory; 
-      color: var(--c1);
-      font-size: 16px;
-      font-weight: bold;
+      font-size: 20px;
       text-align: left; 
       width: 875px; 
-      border-top: 2px solid var(--c1);
-      border-bottom: 2px solid var(--c1);
-      border-left: none;
-      border-right: none;
-      border-radius: 0px;
     }
     .btn.note2 { 
-      font-size: 24px;
-      text-align: left; 
-      width: 875px; 
-    }
-    .btn.note3 { 
       background-color: var(--c6); 
       color: var(--c1);
-      font-size: 16px;
       text-align: left; 
       width: 875px; 
       line-height: 1.5;
     }
-    .btn.note4 { 
+    .btn.note3 { 
       background-color: Ivory; 
       color: var(--c1);
       font-size: 20px;
@@ -123,16 +121,13 @@
       text-align: left;
       font-family: 'Roboto Condensed', sans-serif;
       font-weight: bold;
+      font-size: 16px;
       margin: 5px;
       overflow: hidden;
       padding: 5px;
     }
-    h2 {font-size: 24px; }
-    h3 {
-      font-size: 16px;
-      border-top: 2px solid var(--c1);
-      border-bottom: 2px solid var(--c1);
-    }
+    h2 { font-size: 24px; }
+    h3 { border-top: 2px solid var(--c1); border-bottom: 2px solid var(--c1); }
     h4 { font-size: 16px; }
   </style>
 </head>
@@ -145,11 +140,11 @@
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
-    <div class="btn note1">Study Notes</div>
+    <div class="btn note">Study Notes</div>
     <div>
       {{ content }}
     </div>
-    <div class="btn note1">MilanFX</div>
+    <div class="btn note">MilanFX</div>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
   </div>
