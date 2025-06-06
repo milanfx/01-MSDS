@@ -75,18 +75,26 @@
     .btn.icon3 { background-color: var(--c3); width: 75px; }
     .btn.icon4 { background-color: var(--c4); width: 75px; }
 
-    .btn.note0 { 
+    .btn.note1 { 
       background-color: var(--c6); 
       color: var(--c1);
       text-align: left; 
       width: 875px; 
+      border-top: 2px solid var(--c1);
+      border-bottom: 2px solid var(--c1);
+      border-left: none;
+      border-right: none;
+      border-radius: 5px;
     }
-    .btn.note1 { 
-      background-color: Ivory;
+    .btn.note2 { 
+      text-align: left; 
+      width: 875px; 
+    }
+    .btn.note3 { 
+      background-color: var(--c6); 
       color: var(--c1);
-      font-weight: bold;
-      width: 450px;
-      text-align: left;
+      text-align: left; 
+      width: 875px; 
     }
 
     h2, h3, h4 {
@@ -99,12 +107,7 @@
       overflow: hidden;
       padding: 5px;
     }
-    h2 {
-      background-color: var(--c1);
-      color: Ivory;
-      font-size: 24px;
-      font-weight: normal;
-    }
+    h2 {font-size: 24px; }
     h3 {
       font-size: 16px;
       border-top: 2px solid var(--c1);
@@ -122,11 +125,11 @@
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
-    <div class="btn note0">Study Notes</div>
+    <div class="btn note1">Study Notes</div>
     <div>
       {{ content }}
     </div>
-    <div class="btn note0">MilanFX</div>
+    <div class="btn note1">MilanFX</div>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
   </div>
