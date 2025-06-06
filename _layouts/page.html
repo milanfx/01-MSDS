@@ -27,17 +27,6 @@
       margin: 0 auto;
       padding: 10px;
     }
-    .title {
-      background-color: var(--c1);
-      color: Ivory;
-      text-align: center;
-      font-family: 'Roboto Condensed', sans-serif;
-      font-size: 40px;
-      margin: 5px;
-      overflow: hidden;
-      padding: 10px 0;
-      line-height: 1.5;
-    }
     .btn {
       display: inline-block;
       background-color: var(--c1);
@@ -52,13 +41,17 @@
       border-radius: 5px;
       border: 2px solid var(--c1);
     }
-
+    .btn.head {
+      font-size: 40px;
+      padding: 10px;
+      line-height: 1.5;
+    }
     .btn.back { font-size: 14px; width: 90px; }
     .btn.note { 
       background-color: Ivory; 
       color: var(--c1);
       font-weight: bold;
-      width: 860px; 
+      width: 660px; 
       border-top: 2px solid var(--c1);
       border-bottom: 2px solid var(--c1);
       border-left: none;
@@ -134,14 +127,13 @@
 <body>
   <div class="container">
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
-    <div class="title">
+    <div class="btn head">
       {{ page.title }}
     </div>
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
     <a href="/" class="btn back">Go Home</a>
     <span class="btn note">Study Notes</span>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
-
     <div>
       {{ content }}
     </div>
