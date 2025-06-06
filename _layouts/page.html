@@ -52,19 +52,19 @@
       border-radius: 5px;
       border: 2px solid var(--c1);
     }
-    .btn.back { font-size: 14px; width: 90px; }
     .btn.note { 
       background-color: Ivory; 
       color: var(--c1);
       font-weight: bold;
       text-align: left; 
-      width: 875px; 
+      width: 675px; 
       border-top: 2px solid var(--c1);
       border-bottom: 2px solid var(--c1);
       border-left: none;
       border-right: none;
       border-radius: 0px;
     }
+    .btn.back { font-size: 14px; width: 90px; }
 
     .btn.spec1 { 
       background-color: var(--c6); 
@@ -138,9 +138,10 @@
       {{ page.title }}
     </div>
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
+    <span class="btn note">Study Notes</span>
     <a href="/" class="btn back">Go Home</a>
     <a href="javascript:history.back()" class="btn back">Go Back</a>
-    <div class="btn note">Study Notes</div>
+
     <div>
       {{ content }}
     </div>
