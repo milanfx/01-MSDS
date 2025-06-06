@@ -4,10 +4,6 @@ title: 01 - Data Algorithms - Searching & Sorting
 permalink: /MSDS01/
 ---
 
-<h3>Study Notes</h3>
-
-xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-
 <div>
   <span class="btn spec1"><span class="btn spec2">Module 01 - Convolutional Neural Networks</span>
   <br>
