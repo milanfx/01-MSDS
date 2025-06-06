@@ -27,6 +27,16 @@
       margin: 0 auto;
       padding: 10px;
     }
+    .title {
+      background-color: var(--c1);
+      color: Ivory;
+      text-align: center;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 40px;
+      margin: 0;
+      overflow: hidden;
+      padding: 10px 0;
+    }
     .btn {
       display: inline-block;
       background-color: var(--c1);
@@ -41,11 +51,6 @@
       border-radius: 5px;
       border: 2px solid var(--c1);
     }
-    .btn.head {
-      font-size: 40px;
-      padding: 10px;
-      line-height: 1.5;
-    }
     .btn.back { font-size: 14px; width: 90px; }
     .btn.note { 
       background-color: Ivory; 
@@ -58,7 +63,6 @@
       border-right: none;
       border-radius: 0px;
     }
-
     .btn.spec1 { 
       background-color: var(--c6); 
       text-align: left; 
@@ -71,7 +75,6 @@
       font-weight: bold;
       width: 330px;
     }
-
     .btn.cour1 { background-color: var(--c1); width: 110px; }
     .btn.cour2 { background-color: var(--c2); width: 110px; }
     .btn.cour3 { background-color: var(--c3); width: 110px; }
@@ -127,7 +130,7 @@
 <body>
   <div class="container">
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
-    <div class="btn head">
+    <div class="title">
       {{ page.title }}
     </div>
     <div style="border-top: 5px solid var(--c1); margin: 5px;"></div>
