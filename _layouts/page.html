@@ -24,13 +24,11 @@
     }
     .container {
       max-width: 900px;
-      margin: 0 auto;
       padding: 10px;
     }
-    .row {
-      display: flex;
-      flex-wrap: nowrap;
-      align-items: center;
+    .line {
+      border-top: 5px solid var(--c1);
+      width: 880px; 
     }
     .btn {
       display: inline-block;
@@ -113,15 +111,20 @@
       border-radius: 0px;
       line-height: 1;
     }
+    .row {
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <div style="border-top: 5px solid var(--c1); margin: 0px;"></div>
+    <div class="line"></div>
     <div class="btn head">
       {{ page.title }}
     </div>
-    <div style="border-top: 5px solid var(--c1); margin: 0px;"></div>
+    <div class="line"></div>
     <div class="row">
       <a href="/" class="btn back">Go Home</a>
       <span class="btn note">Study Notes</span>
