@@ -4,8 +4,6 @@ title: MSDS Courses
 permalink: /
 ---
 
-1xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-
 <div>
   <span class="btn spec1"><span class="btn spec2">Specialization 01 - Data Algorithms</span>
   <br>
