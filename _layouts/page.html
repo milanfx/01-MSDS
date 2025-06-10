@@ -4,7 +4,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>{{ page.title }}</title>
-  <link href="style.css" rel="stylesheet" type="text/css" />
   <style>
     :root {
       --c0: #ede7f6;
@@ -73,9 +72,21 @@
       font-weight: bold;
       border-radius: 0px;
       border: 2px solid var(--c1);
+      white-space: nowrap;
+      line-height: 1;
+    }
+
+    .btn.sign {
+      background-color: Ivory;
+      color: var(--c1);
+      font-size: 14px;
+      font-weight: bold;
+      border-radius: 0px;
+      border: 2px solid var(--c1);
       border-left: none;
       border-right: none;
       white-space: nowrap;
+      line-height: 1;
     }
 
     .btn.name {
@@ -148,7 +159,7 @@
     </div>
     <div class="row" style="grid-template-columns: 1fr 6fr 1fr;">
       <a href="/" class="btn back">Go Home</a>
-      <a href="#" class="btn back">Study Notes</a>
+      <a href="#" class="btn sign">Study Notes</a>
       <a href="javascript:history.back()" class="btn back">Go Back</a>
     </div>
     <div>
@@ -156,7 +167,7 @@
     </div>
     <div class="row" style="grid-template-columns: 1fr 6fr 1fr;">
       <a href="/" class="btn back">Go Home</a>
-      <a href="#" class="btn back">MilanFX</a>
+      <a href="#" class="btn sign">MilanFX</a>
       <a href="javascript:history.back()" class="btn back">Go Back</a>
     </div>
   </div>
