@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 01 - Data Algorithms - Searching & Sorting
+title: 01 - Searching & Sorting
 permalink: /MSDS01/
 ---
 
