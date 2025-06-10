@@ -15,7 +15,7 @@ permalink: /MSDS01/
       <a href="" class="btn empty">-<br>-</a>
       <a href="" class="btn empty">-<br>-</a>
   </div>
-
+</div>
 
 <div class="row">
   <div class="btn text">
@@ -28,6 +28,7 @@ permalink: /MSDS01/
       <a href="" class="btn empty">-<br>-</a>
       <a href="" class="btn empty">-<br>-</a>
   </div>
+</div>
 
 <div class="row">
   <div class="btn text">
@@ -40,6 +41,7 @@ permalink: /MSDS01/
       <a href="" class="btn empty">-<br>-</a>
       <a href="" class="btn empty">-<br>-</a>
   </div>
+</div>
 
 <div class="row">
   <div class="btn text">
@@ -52,5 +54,4 @@ permalink: /MSDS01/
       <a href="" class="btn empty">-<br>-</a>
       <a href="" class="btn empty">-<br>-</a>
   </div>
-
 </div>
