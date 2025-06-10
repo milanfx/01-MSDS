@@ -8,8 +8,8 @@ permalink: /
   <div class="btn text">
     <div class="btn name">Specialization 01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/02-MSDS-Courses/MSDS01/" class="btn box1">Searching<br>& Sorting</a>
-      <a href="/02-MSDS-Courses/MSDS02/" class="btn box2">Trees<br>& Graphs</a>
+      <a href="/02-MSDS-Courses/MSDS01/" class="btn box1">Searching<br>Sorting</a>
+      <a href="/02-MSDS-Courses/MSDS02/" class="btn box2">Trees<br>Graphs</a>
       <a href="/02-MSDS-Courses/MSDS03/" class="btn box3">Dynamic<br>Programming</a>
     </div>
   </div>
@@ -36,7 +36,7 @@ permalink: /
     <div class="btn name">Specialization 04 - Stats Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSDS-Courses/MSDS09/" class="btn box1">Linear<br>Regression</a>
-      <a href="/02-MSDS-Courses/MSDS10/" class="btn box2">ANOVA<br>& Experiment</a>
+      <a href="/02-MSDS-Courses/MSDS10/" class="btn box2">ANOVA<br>Experiment</a>
       <a href="/02-MSDS-Courses/MSDS11/" class="btn box3">Nonlinear<br>Regression</a>
     </div>
   </div>
@@ -94,7 +94,7 @@ permalink: /
     <div class="btn name">Specialization 10 - Quality Control</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSDS-Courses/MSDS28/" class="btn box1">Quality<br>Statistics</a>
-      <a href="/02-MSDS-Courses/MSDS29/" class="btn box2">Stability<br>& Capability</a>
+      <a href="/02-MSDS-Courses/MSDS29/" class="btn box2">Stability<br>Capability</a>
       <a href="/02-MSDS-Courses/MSDS30/" class="btn box3">Measurement<br>System</a>
     </div>
   </div>
@@ -104,7 +104,7 @@ permalink: /
   <div class="btn text">
     <div class="btn name">Specialization 11 - Stats Learning</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/02-MSDS-Courses/MSDS31/" class="btn box1">Model<br>Fundamentals</a>
+      <a href="/02-MSDS-Courses/MSDS31/" class="btn box1">Regression<br>Classification</a>
       <a href="/02-MSDS-Courses/MSDS32/" class="btn box2">Model<br>Optimization</a>
       <a href="/02-MSDS-Courses/MSDS33/" class="btn box3">Model<br>Advanced</a>
     </div>
