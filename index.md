@@ -4,21 +4,26 @@ title: MSDS Courses
 permalink: /
 ---
 
-<div class="row">
-  <div class="btn spec1"><div class="btn spec2">Specialization 01 - Data Algorithms</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS01/" class="btn cour1">Searching<br>& Sorting</a>
-  <a href="/02-MSDS-Courses/MSDS02/" class="btn cour2">Trees<br>& Graphs</a>
-  <a href="/02-MSDS-Courses/MSDS03/" class="btn cour3">Dynamic<br>Programming</a>
+<div class="row" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text">
+    <div class="btn name">Specialization 01 - Data Algorithms</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS01/" class="btn box1">Searching<br>& Sorting</a>
+      <a href="/02-MSDS-Courses/MSDS02/" class="btn box2">Trees<br>& Graphs</a>
+      <a href="/02-MSDS-Courses/MSDS03/" class="btn box3">Dynamic<br>Programming</a>
+    </div>
   </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization 02 - Advanced Algorithms</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS04/" class="btn cour1">Linear<br>Programming</a>
-  <a href="/02-MSDS-Courses/MSDS05/" class="btn cour2">Quantum<br>Algorithms</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 02 - Advanced Algorithms</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS04/" class="btn box1">Linear<br>Programming</a>
+      <a href="/02-MSDS-Courses/MSDS05/" class="btn box2">Quantum<br>Algorithms</a>
+      <a href="//" class="btn empty">-<br>-</a>
+    </div>
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 03 - Stats Inference</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS06/" class="btn cour1">Probability<br>Theory</a>
@@ -33,7 +38,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 05 - Data Mining</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS12/" class="btn cour1">DataMining<br>Pipeline</a>
@@ -48,7 +53,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 07 - Database Query</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS18/" class="btn cour1">Relational<br>Database</a>
@@ -64,7 +69,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 09 - Software Apps</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS25/" class="btn cour1">Software<br>Fundamentals</a>
@@ -79,7 +84,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 11 - Stats Learning</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS31/" class="btn cour1">Model<br>Fundamentals</a>
@@ -94,7 +99,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 13 - Text Marketing</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS37/" class="btn cour1">Supervised<br>Analysis</a>
@@ -110,7 +115,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row">
+<div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn spec1"><div class="btn spec2">Specialization 15 - Bayesian Stats</div>
   <br>
   <a href="/02-MSDS-Courses/MSDS44/" class="btn cour1">Bayesian<br>Introduction</a>
