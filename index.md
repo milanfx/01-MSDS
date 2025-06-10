@@ -18,7 +18,7 @@ permalink: /
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSDS-Courses/MSDS04/" class="btn box1">Linear<br>Programming</a>
       <a href="/02-MSDS-Courses/MSDS05/" class="btn box2">Quantum<br>Algorithms</a>
-      <a href="//" class="btn empty">-<br>-</a>
+      <a href="" class="btn empty">-<br>-</a>
     </div>
   </div>
 </div>
@@ -82,79 +82,78 @@ permalink: /
 </div>
 
 <div class="row" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn spec1"><div class="btn spec2">Specialization 07 - Database Query</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS18/" class="btn cour1">Relational<br>Database</a>
-  <a href="/02-MSDS-Courses/MSDS19/" class="btn cour2">SQL<br>Language</a>
-  <a href="/02-MSDS-Courses/MSDS20/" class="btn cour3">Advanced<br>Database</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 09 - Software Apps</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS25/" class="btn box1">Software<br>Fundamentals</a>
+      <a href="/02-MSDS-Courses/MSDS26/" class="btn box2">Software<br>Patterns</a>
+      <a href="/02-MSDS-Courses/MSDS27/" class="btn box3">Software<br>Applications</a>
+    </div>
   </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization 08 - DS Vital Skills</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS21/" class="btn icon1">DataScience<br>Field</a>
-  <a href="/02-MSDS-Courses/MSDS22/" class="btn icon2">Cyber<br>Security</a>
-  <a href="/02-MSDS-Courses/MSDS23/" class="btn icon3">Ethical<br>Issues</a>
-  <a href="/02-MSDS-Courses/MSDS24/" class="btn icon4">Data<br>Visualization</a>
-  </div>
-</div>
-
-<div class="row" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn spec1"><div class="btn spec2">Specialization 09 - Software Apps</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS25/" class="btn cour1">Software<br>Fundamentals</a>
-  <a href="/02-MSDS-Courses/MSDS26/" class="btn cour2">Software<br>Patterns</a>
-  <a href="/02-MSDS-Courses/MSDS27/" class="btn cour3">Software<br>Applications</a>
-  </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization 10 - Quality Control</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS28/" class="btn cour1">Quality<br>Statistics</a>
-  <a href="/02-MSDS-Courses/MSDS29/" class="btn cour2">Stability<br>& Capability</a>
-  <a href="/02-MSDS-Courses/MSDS30/" class="btn cour3">Measurement<br>System</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 10 - Quality Control</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS28/" class="btn box1">Quality<br>Statistics</a>
+      <a href="/02-MSDS-Courses/MSDS29/" class="btn box2">Stability<br>& Capability</a>
+      <a href="/02-MSDS-Courses/MSDS30/" class="btn box3">Measurement<br>System</a>
+    </div>
   </div>
 </div>
 
 <div class="row" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn spec1"><div class="btn spec2">Specialization 11 - Stats Learning</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS31/" class="btn cour1">Model<br>Fundamentals</a>
-  <a href="/02-MSDS-Courses/MSDS32/" class="btn cour2">Model<br>Optimization</a>
-  <a href="/02-MSDS-Courses/MSDS33/" class="btn cour3">Model<br>Advanced</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 11 - Stats Learning</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS31/" class="btn box1">Model<br>Fundamentals</a>
+      <a href="/02-MSDS-Courses/MSDS32/" class="btn box2">Model<br>Optimization</a>
+      <a href="/02-MSDS-Courses/MSDS33/" class="btn box3">Model<br>Advanced</a>
+    </div>
   </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization 12 - Climate Modeling</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS34/" class="btn cour1">Climate<br>Policies</a>
-  <a href="/02-MSDS-Courses/MSDS35/" class="btn cour2">Climate<br>Visualization</a>
-  <a href="/02-MSDS-Courses/MSDS36/" class="btn cour3">Climate<br>Prediction</a>
-  </div>
-</div>
-
-<div class="row" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn spec1"><div class="btn spec2">Specialization 13 - Text Marketing</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS37/" class="btn cour1">Supervised<br>Analysis</a>
-  <a href="/02-MSDS-Courses/MSDS38/" class="btn cour2">Unsupervised<br>Analysis</a>
-  <a href="/02-MSDS-Courses/MSDS39/" class="btn cour3">Network<br>Analysis</a>
-  </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization 14 - Communication</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS40/" class="btn icon1">Business<br>Writing</a>
-  <a href="/02-MSDS-Courses/MSDS41/" class="btn icon2">Graphic<br>Design</a>
-  <a href="/02-MSDS-Courses/MSDS42/" class="btn icon3">Public<br>Presentation</a>
-  <a href="/02-MSDS-Courses/MSDS43/" class="btn icon4">Capstone<br>Project</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 12 - Climate Modeling</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS34/" class="btn box1">Climate<br>Policies</a>
+      <a href="/02-MSDS-Courses/MSDS35/" class="btn box2">Climate<br>Visualization</a>
+      <a href="/02-MSDS-Courses/MSDS36/" class="btn box3">Climate<br>Prediction</a>
+    </div>
   </div>
 </div>
 
 <div class="row" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn spec1"><div class="btn spec2">Specialization 15 - Bayesian Stats</div>
-  <br>
-  <a href="/02-MSDS-Courses/MSDS44/" class="btn cour1">Bayesian<br>Introduction</a>
-  <a href="" class="btn cour2">Bayesian<br>Applications</a>
-  <a href="" class="btn cour3">Bayesian<br>Models</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 13 - Text Marketing</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS37/" class="btn box1">Supervised<br>Analysis</a>
+      <a href="/02-MSDS-Courses/MSDS38/" class="btn box2">Unsupervised<br>Analysis</a>
+      <a href="/02-MSDS-Courses/MSDS39/" class="btn box3">Network<br>Analysis</a>
+    </div>
   </div>
-  <div class="btn spec1"><div class="btn spec2">Specialization</div>
-  <br>
-  <a href="" class="btn icon1">C1<br>_</a>
-  <a href="" class="btn icon2">C2<br>_</a>
-  <a href="" class="btn icon3">C3<br>_</a>
-  <a href="" class="btn icon4">C4<br>_</a>
+  <div class="btn text">
+    <div class="btn name">Specialization 14 - Communication</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS40/" class="btn box1">Business<br>Writing</a>
+      <a href="/02-MSDS-Courses/MSDS41/" class="btn box2">Graphic<br>Design</a>
+      <a href="/02-MSDS-Courses/MSDS42/" class="btn box3">Public<br>Presentation</a>
+      <a href="/02-MSDS-Courses/MSDS43/" class="btn box4">Capstone<br>Project</a>
+    </div>
+  </div>
+</div>
+
+<div class="row" style="grid-template-columns: 1fr 1fr;">
+  <div class="btn text">
+    <div class="btn name">Specialization 11 - Stats Learning</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/02-MSDS-Courses/MSDS44/" class="btn box1">Bayesian<br>Introduction</a>
+      <a href="" class="btn box2">Bayesian<br>Applications</a>
+      <a href="" class="btn box3">Bayesian<br>Models</a>
+    </div>
+  </div>
+  <div class="btn text">
+    <div class="btn name">Specialization 12</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="" class="btn box1">-<br>-</a>
+      <a href="" class="btn box1">-<br>-</a>
+      <a href="" class="btn box1">-<br>-</a>
+    </div>
   </div>
 </div>
