@@ -141,7 +141,7 @@ permalink: /
 
 <div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">Specialization 11 - Stats Learning</div>
+    <div class="btn name">Specialization 11 - Bayesian Stats</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/02-MSDS-Courses/MSDS44/" class="btn box1">Bayesian<br>Introduction</a>
       <a href="" class="btn box2">Bayesian<br>Applications</a>
