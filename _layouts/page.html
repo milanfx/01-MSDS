@@ -29,7 +29,7 @@
 
   .container {
     max-width: 930px;
-    min-width: 650px;
+    min-width: 600px;
     padding: 5px;
   }
 
@@ -59,9 +59,10 @@
     border-left: none;
     border-right: none;
     line-height: 1.2;
+    white-space: nowrap;
   }
 
-  .btn.note {
+  .btn.back {
     background-color: var(--c6);
     color: var(--c1);
     font-size: 14px;
@@ -70,12 +71,7 @@
     border: 2px solid var(--c1);
     border-left: none;
     border-right: none;
-  }
-
-  .btn.text {
-    background-color: var(--c6);
-    color: var(--c1);
-    text-align: left;
+    white-space: nowrap;
   }
 
   .btn.name {
@@ -86,12 +82,20 @@
     text-align: left;
     border-left: none;
     border-right: none;
+    white-space: nowrap;
   }
 
   .btn.topic {
     background-color: var(--c2);
     font-size: 24px;
     line-height: 1.2;
+    white-space: nowrap;
+  }
+
+  .btn.text {
+    background-color: var(--c6);
+    color: var(--c1);
+    text-align: left;
   }
 
   .btn.box1 {
