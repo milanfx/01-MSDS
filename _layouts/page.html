@@ -55,7 +55,7 @@
   .btn.title {
     font-size: 40px;
     border-radius: 0px;
-    border: 10px solid var(--c1);
+    border: 0px solid var(--c2);
     border-left: none;
     border-right: none;
     line-height: 1.2;
@@ -135,9 +135,11 @@
 
 <body>
   <div class="container">
+    <div style="border-top: 5px solid var(--c1);"></style>
     <div class="btn title">
       {{ page.title }}
     </div>
+    <div style="border-bottom: 5px solid var(--c1);"></style>
     <div class="row" style="grid-template-columns: 1fr 6fr 1fr;">
       <a href="/" class="btn back">Go Home</a>
       <a href="#" class="btn back">Study Notes</a>
