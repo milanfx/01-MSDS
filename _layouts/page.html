@@ -4,142 +4,151 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
-  <title>replit</title>
+  <title>{{ page.title }}</title>
   <link href="style.css" rel="stylesheet" type="text/css" />
 </head>
 
+  <style>
+    :root {
+      --c1: #311b92;
+      --c2: #4527a0;
+      --c3: #512da8;
+      --c4: #5e35b1;
+      --c5: #673ab7;
+      --c6: #ede7f6;
+    }
 
-<style>
-  :root {
-    --c1: #311b92;
-    --c2: #4527a0;
-    --c3: #512da8;
-    --c4: #5e35b1;
-    --c5: #673ab7;
-    --c6: #ede7f6;
-  }
+    body {
+      background-color: Ivory;
+      color: DarkSlateGray;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 16px;
+      line-height: 1;
+    }
 
-  body {
-    background-color: Ivory;
-    color: DarkSlateGray;
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 16px;
-    line-height: 1;
-  }
+    .container {
+      max-width: 930px;
+      min-width: 600px;
+      padding: 5px;
+    }
 
-  .container {
-    max-width: 930px;
-    min-width: 600px;
-    padding: 5px;
-  }
+    .btn {
+      display: block;
+      background-color: var(--c2);
+      color: Ivory;
+      text-align: center;
+      font-family: 'Roboto Condensed', sans-serif;
+      font-size: 16px;
+      overflow: hidden;
+      margin: 5px 0px;
+      padding: 5px;
+      border-radius: 5px;
+      border: 2px solid var(--c1);
+      box-sizing: border-box;
+      text-decoration: none;
+      flex-shrink: 0;
+      width: 100%;
+    }
 
-  .btn {
-    display: block;
-    background-color: var(--c2);
-    color: Ivory;
-    text-align: center;
-    font-family: 'Roboto Condensed', sans-serif;
-    font-size: 16px;
-    overflow: hidden;
-    margin: 5px 0px;
-    padding: 5px;
-    border-radius: 5px;
-    border: 2px solid var(--c1);
-    box-sizing: border-box;
-    text-decoration: none;
-    flex-shrink: 0;
-    width: 100%;
-    box-sizing: border-box;
-  }
+    .btn.title {
+      font-size: 40px;
+      border-radius: 0px;
+      border: 0px solid var(--c2);
+      line-height: 1.2;
+      white-space: nowrap;
+      margin: 0px 0px;
+    }
 
-  .btn.title {
-    font-size: 40px;
-    border-radius: 0px;
-    border: 0px solid var(--c2);
-    border-left: none;
-    border-right: none;
-    line-height: 1.2;
-    white-space: nowrap;
-  }
+    .btn.line {
+      background-color: Ivory;
+      border-radius: 0px;
+      border: 5px solid var(--c1);
+      padding: 3px 0px;
+      border-left: none;
+      border-right: none;
+    }
 
-  .btn.back {
-    background-color: var(--c6);
-    color: var(--c1);
-    font-size: 14px;
-    font-weight: bold;
-    border-radius: 0px;
-    border: 2px solid var(--c1);
-    border-left: none;
-    border-right: none;
-    white-space: nowrap;
-  }
+    .btn.back {
+      background-color: var(--c6);
+      color: var(--c1);
+      font-size: 14px;
+      font-weight: bold;
+      border-radius: 0px;
+      border: 2px solid var(--c1);
+      border-left: none;
+      border-right: none;
+      white-space: nowrap;
+    }
 
-  .btn.name {
-    background-color: Ivory;
-    color: var(--c1);
-    font-weight: bold;
-    border-radius: 0px;
-    text-align: left;
-    border-left: none;
-    border-right: none;
-    white-space: nowrap;
-  }
+    .btn.name {
+      background-color: Ivory;
+      color: var(--c1);
+      font-weight: bold;
+      border-radius: 0px;
+      text-align: left;
+      border-left: none;
+      border-right: none;
+      white-space: nowrap;
+    }
 
-  .btn.topic {
-    background-color: var(--c2);
-    font-size: 24px;
-    line-height: 1.2;
-    white-space: nowrap;
-  }
+    .btn.topic {
+      background-color: var(--c2);
+      font-size: 24px;
+      line-height: 1.2;
+      white-space: nowrap;
+    }
 
-  .btn.text {
-    background-color: var(--c6);
-    color: var(--c1);
-    text-align: left;
-  }
+    .btn.text {
+      background-color: var(--c6);
+      color: var(--c1);
+      text-align: left;
+    }
 
-  .btn.box1 {
-    background-color: var(--c1);
-  }
+    .btn.box1 {
+      background-color: var(--c1);
+    }
 
-  .btn.box2 {
-    background-color: var(--c2);
-  }
+    .btn.box2 {
+      background-color: var(--c2);
+    }
 
-  .btn.box3 {
-    background-color: var(--c3);
-  }
+    .btn.box3 {
+      background-color: var(--c3);
+    }
 
-  .btn.box4 {
-    background-color: var(--c4);
-  }
+    .btn.box4 {
+      background-color: var(--c4);
+    }
 
-  .btn.box5 {
-    background-color: var(--c5);
-  }
+    .btn.box5 {
+      background-color: var(--c5);
+    }
 
-  .btn.empty {
-    background-color: var(--c6);
-    color: var(--c6);
-    border: 2px solid var(--c6);
-  }
+    .btn.empty {
+      background-color: var(--c6);
+      color: var(--c6);
+      border: 2px solid var(--c6);
+    }
 
-  .row {
-    display: grid;
-    gap: 10px;
-    width: 100%;
-    box-sizing: border-box;
-  }
-</style>
+    .row {
+      display: grid;
+      gap: 10px;
+      width: 100%;
+      box-sizing: border-box;
+    }
+  </style>
 </head>
+
 
 <body>
   <div class="container">
-    <div style="border-top: 5px solid var(--c1);"></div>
-    <div class="btn title">
-      {{ page.title }}
+    <div class="row">
+      <div class="btn line">
+        <div class="btn title">
+          {{ page.title }}
+        </div>
+      </div>
     </div>
-    <div style="border-bottom: 5px solid var(--c1);"></div>
     <div class="row" style="grid-template-columns: 1fr 6fr 1fr;">
       <a href="/" class="btn back">Go Home</a>
       <a href="#" class="btn back">Study Notes</a>
@@ -154,7 +163,5 @@
       <a href="javascript:history.back()" class="btn back">Go Back</a>
     </div>
   </div>
-
 </body>
-
 </html>
