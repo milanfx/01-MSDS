@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Divide & Conquer           |[Link](/02-MSDS-Courses/MSDS03/M1/)|
-| M2 | Dynamic Programming        |[Link](/02-MSDS-Courses/MSDS03/M2/)|
-| M3 | Greedy Algorithms          |[Link](/02-MSDS-Courses/MSDS03/M3/)|
-| M4 | Quantum Computing          |[Link](/02-MSDS-Courses/MSDS03/M4/)|
+| M1 | Divide & Conquer           |[Link](/01-MSDS/MSDS03/M1/)|
+| M2 | Dynamic Programming        |[Link](/01-MSDS/MSDS03/M2/)|
+| M3 | Greedy Algorithms          |[Link](/01-MSDS/MSDS03/M3/)|
+| M4 | Quantum Computing          |[Link](/01-MSDS/MSDS03/M4/)|
 |####|############################|####|
 

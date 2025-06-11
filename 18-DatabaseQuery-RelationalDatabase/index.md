@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 |Entity Relationship         |[Link](/02-MSDS-Courses/MSDS16/M1/)|
-| M2 |Relational Models           |[Link](/02-MSDS-Courses/MSDS16/M2/)|
-| M3 |Normalization Forms         |[Link](/02-MSDS-Courses/MSDS16/M3/)|
-| M4 |Relational Case             |[Link](/02-MSDS-Courses/MSDS16/M4/)|
+| M1 |Entity Relationship         |[Link](/01-MSDS/MSDS16/M1/)|
+| M2 |Relational Models           |[Link](/01-MSDS/MSDS16/M2/)|
+| M3 |Normalization Forms         |[Link](/01-MSDS/MSDS16/M3/)|
+| M4 |Relational Case             |[Link](/01-MSDS/MSDS16/M4/)|
 |####|############################|####|
 

@@ -11,9 +11,9 @@ xxxxx xxxxx xxxxx
 | ID | Module                     |Link|
 |:--:|----------------------------|:--:|
 |####|############################|####|
-| M1 | Binomial Regression        |[Link](/02-MSDS-Courses/MSDS09/M1/)|
-| M2 | Poisson Regression         |[Link](/02-MSDS-Courses/MSDS09/M2/)|
-| M3 | Nonparametric Regression   |[Link](/02-MSDS-Courses/MSDS09/M3/)|
-| M4 | Generalized Additive Models|[Link](/02-MSDS-Courses/MSDS09/M4/)|
+| M1 | Binomial Regression        |[Link](/01-MSDS/MSDS09/M1/)|
+| M2 | Poisson Regression         |[Link](/01-MSDS/MSDS09/M2/)|
+| M3 | Nonparametric Regression   |[Link](/01-MSDS/MSDS09/M3/)|
+| M4 | Generalized Additive Models|[Link](/01-MSDS/MSDS09/M4/)|
 |####|############################|####|
 
