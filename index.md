@@ -7,7 +7,7 @@ permalink: /
 <div class="row" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 01 - Data Algorithms</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
       <a href="/01-MSDS/MSDS01/" class="btn box1">Searching<br>Sorting</a>
       <a href="/01-MSDS/MSDS02/" class="btn box2">Trees<br>Graphs</a>
       <a href="/01-MSDS/MSDS03/" class="btn box3">Dynamic<br>Programming</a>
@@ -20,7 +20,6 @@ permalink: /
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/MSDS04/" class="btn box2">Linear<br>Programming</a>
       <a href="/01-MSDS/MSDS05/" class="btn box3">Quantum<br>Algorithms</a>
-      <a href="" class="btn empty">-<br>-</a>
     </div>
   </div>
 </div>
