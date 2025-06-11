@@ -4,7 +4,7 @@ title: MSDS Courses
 permalink: /
 ---
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
@@ -26,7 +26,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 03 - Stats Inference</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -45,7 +45,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 05 - Data Mining</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -64,7 +64,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 07 - Database Query</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -84,7 +84,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 09 - Software Apps</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -103,13 +103,13 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 11 - Stats Learning</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/MSDS35/" class="btn box1">Regression<br>Classification</a>
       <a href="/01-MSDS/MSDS36/" class="btn box2">Model<br>Optimization</a>
-      <a href="/01-MSDS/MSDS37/" class="btn box3">Model<br>Advanced</a>
+      <a href="/01-MSDS/MSDS37/" class="btn box3">Advanced<br>Model</a>
     </div>
   </div>
   <div class="btn text">
@@ -122,7 +122,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 13 - Text Marketing</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
@@ -141,7 +141,7 @@ permalink: /
   </div>
 </div>
 
-<div class="row" style="grid-template-columns: 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
     <div class="btn name">Specialization 15</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
