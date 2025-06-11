@@ -59,6 +59,3 @@ permalink: /MSDS01/
     </div>
   </div>
 </div>
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
