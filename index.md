@@ -11,6 +11,8 @@ permalink: /
       <a href="/01-MSDS/MSDS01/" class="btn box1">Searching<br>Sorting</a>
       <a href="/01-MSDS/MSDS02/" class="btn box2">Trees<br>Graphs</a>
       <a href="/01-MSDS/MSDS03/" class="btn box3">Dynamic<br>Programming</a>
+      <a href="/01-MSDS/MSDS04/" class="btn box4">Linear<br>Programming</a>
+      <a href="/01-MSDS/MSDS05/" class="btn box5">Quantum<br>Algorithms</a>
     </div>
   </div>
   <div class="btn text">
