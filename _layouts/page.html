@@ -1,22 +1,19 @@
 <!DOCTYPE html>
 <html>
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>{{ page.title }}</title>
   <style>
     :root {
-      --c1: #880e4f;
-      --c2: #ad1457;
-      --c3: #c2185b;
-      --c4: #d81b60;
-      --c5: #e91e63;
-      --c0: #f8bbd0;
+      --1: #FFCB05;
+      --2: #00274C;
     }
 
     body {
-      background-color: Ivory;
-      color: DarkSlateGray;
+      background-color: var(--2);
+      color: var(--1);
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 16px;
       line-height: 1;
@@ -31,93 +28,53 @@
 
     .btn {
       display: block;
-      background-color: var(--c1);
-      color: Ivory;
-      text-align: center;
+      background-color: var(--2);
+      color: var(--1);
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 16px;
+      line-height: 1;
+      text-align: center;
       overflow: hidden;
       margin: 5px 0px;
       padding: 5px;
-      border-radius: 5px;
-      border: 2px solid var(--c1);
-      box-sizing: border-box;
       text-decoration: none;
+      box-sizing: border-box;
       flex-shrink: 0;
-      width: 100%;
+      white-space: nowrap;
     }
 
     .btn.title {
       font-size: 40px;
-      border-radius: 0px;
       border: 0px;
-      line-height: 1.2;
-      white-space: nowrap;
-      margin: 0px 0px;
+      line-height: 1.5;
+      margin: 0px;
     }
 
     .btn.line {
-      background-color: Ivory;
-      border-radius: 0px;
-      border: 5px solid var(--c1);
-      padding: 3px 0px;
-      border-left: none;
-      border-right: none;
-    }
-
-    .btn.back {
-      background-color: Ivory;
-      color: var(--c1);
-      font-size: 14px;
-      font-weight: bold;
-      border-radius: 0px;
-      white-space: nowrap;
-      line-height: 1;
-    }
-
-    .btn.sign {
-      background-color: Ivory;
-      color: var(--c1);
-      font-size: 14px;
-      font-weight: bold;
-      border-radius: 0px;
-      border: 2px solid var(--c1);
-      border-left: none;
-      border-right: none;
-      white-space: nowrap;
-      line-height: 1;
-    }
-
-    .btn.name {
-      background-color: Ivory;
-      color: var(--c1);
-      font-weight: bold;
-      border-radius: 0px;
-      text-align: left;
-      border-left: none;
-      border-right: none;
-      white-space: nowrap;
-    }
-
-    .btn.topic {
-      background-color: var(--c2);
-      font-size: 24px;
-      line-height: 1.2;
-      white-space: nowrap;
+      border-bottom: 5px solid var(--1);
+      padding: 0px 0px;
     }
 
     .btn.text {
-      background-color: var(--c0);
-      color: var(--c1);
+      background-color: var(--2);
+      color: var(--1);
       text-align: left;
     }
 
-    .btn.box1 { background-color: var(--c1); }
-    .btn.box2 { background-color: var(--c2); }
-    .btn.box3 { background-color: var(--c3); }
-    .btn.box4 { background-color: var(--c4); }
-    .btn.box5 { background-color: var(--c5); }
+    .btn.name {
+      font-size: 24px;
+      font-weight: bold;
+      text-align: left;
+      border-bottom: 2px solid var(--1);
+    }
 
+    .btn.box {
+      background-color: var(--2);
+      color: var(--1);
+      border-radius: 5px;
+      border: 2px solid var(--1);
+    }
+    
     .block {
       display: grid;
       gap: 10px;
