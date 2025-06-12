@@ -17,7 +17,6 @@ permalink: /MSDS01/
         <a href="/01-MSDS/MSDS01/M1/" class="btn box1">📂<br>Laboratory</a>
       </div>
     </div>
-    </div>
   </div>
 </div>
 
