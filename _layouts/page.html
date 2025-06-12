@@ -7,16 +7,15 @@
   <title>{{ page.title }}</title>
   <style>
     :root {
-      --1: #FFCB05;
-      --2: #00274C;
+      --word: #FFCB05;
+      --back: #00274C;
     }
 
     body {
-      background-color: var(--2);
-      color: var(--1);
+      background-color: var(--back);
+      color: var(--word);
       font-family: 'Roboto Condensed', sans-serif;
       font-size: 16px;
-      line-height: 1;
     }
 
     .container {
@@ -28,19 +27,25 @@
 
     .btn {
       display: block;
-      background-color: var(--2);
-      color: var(--1);
+      box-sizing: border-box;
+      background-color: var(--back);
+      color: var(--word);
       font-family: 'Roboto Condensed', sans-serif;
-      font-size: 16px;
-      line-height: 1;
+      font-size: 14px;
+      font-weight: bold;
       text-align: center;
-      overflow: hidden;
+      text-decoration: none;
+      line-height: 1;
       margin: 5px 0px;
       padding: 5px;
-      text-decoration: none;
-      box-sizing: border-box;
       flex-shrink: 0;
+      overflow: hidden;
       white-space: nowrap;
+    }
+
+    .btn.line {
+      border-bottom: 2px solid var(--word);
+      padding: 0px 0px;
     }
 
     .btn.title {
@@ -50,14 +55,9 @@
       margin: 0px;
     }
 
-    .btn.line {
-      border-bottom: 5px solid var(--1);
-      padding: 0px 0px;
-    }
-
     .btn.text {
-      background-color: var(--2);
-      color: var(--1);
+      background-color: var(--back);
+      color: var(--word);
       text-align: left;
     }
 
@@ -65,16 +65,23 @@
       font-size: 24px;
       font-weight: bold;
       text-align: left;
-      border-bottom: 2px solid var(--1);
+      border-bottom: 2px solid var(--word);
     }
 
-    .btn.box {
-      background-color: var(--2);
-      color: var(--1);
+    .btn.box1 {
+      background-color: var(--word);
+      color: var(--back);
       border-radius: 5px;
-      border: 2px solid var(--1);
+      border: 2px solid var(--word);
+      font-weight: bold;
     }
-    
+
+    .btn.box2 {
+      border-radius: 5px;
+      border: 2px solid var(--word);
+      font-weight: bold;
+    }
+
     .block {
       display: grid;
       gap: 10px;
