@@ -8,11 +8,10 @@ permalink: /MSDS01/
   <div class="btn text">
     <div class="btn name">Module 01 - Convolutional Neural Networks</div>
     <div class="block" style="grid-template-columns: 1fr 2fr;">
-      <div class="btn text" markdown="1">
-- summary: xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-- summary: xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-- summary: xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
-- summary: xxxxx xxxxx xxxxx xxxxx xxxxx xxxxx
+      <div class="btn text">
+      01 - <br>
+      02 - <br>
+      03 - <br>
       </div>
       <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
         <a href="/01-MSDS/MSDS01/M1/" class="btn box1">📝<br>Note</a>
