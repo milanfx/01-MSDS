@@ -14,7 +14,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M1/" class="btn box2">📚<br>Assignment</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">🚀<br>PeerReview</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔐<br>Laboratory</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
@@ -27,7 +27,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M1/" class="btn box2">📚<br>Assignment</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">🚀<br>PeerReview</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔐<br>Laboratory</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
@@ -40,7 +40,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M1/" class="btn box2">📚<br>Assignment</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">🚀<br>PeerReview</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔐<br>Laboratory</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
@@ -53,6 +53,6 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M1/" class="btn box2">📚<br>Assignment</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">🚀<br>PeerReview</a>
   <a href="/01-MSDS/DS01/M1/" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔐<br>Laboratory</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
