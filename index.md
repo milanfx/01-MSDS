@@ -18,10 +18,10 @@ permalink: /
   <div class="btn text">
     <div class="btn name">02 - Vital Skills for Data Science</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS06/" class="btn box2">DataScience<br>Field</a>
-      <a href="/01-MSDS/MSDS07/" class="btn box2">Cyber<br>Security</a>
-      <a href="/01-MSDS/MSDS08/" class="btn box2">Ethical<br>Issues</a>
-      <a href="/01-MSDS/MSDS09/" class="btn box2">Data<br>Visualization</a>
+      <a href="/01-MSDS/MSDS06/" class="btn box1">DataScience<br>Field</a>
+      <a href="/01-MSDS/MSDS07/" class="btn box1">Cyber<br>Security</a>
+      <a href="/01-MSDS/MSDS08/" class="btn box1">Ethical<br>Issues</a>
+      <a href="/01-MSDS/MSDS09/" class="btn box1">Data<br>Visualization</a>
     </div>
   </div>
 </div>
@@ -38,9 +38,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">04 - Statistical Modeling for Data Science</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS13/" class="btn box1">Linear<br>Regression</a>
-      <a href="/01-MSDS/MSDS14/" class="btn box1">ANOVA<br>Experiment</a>
-      <a href="/01-MSDS/MSDS15/" class="btn box1">Nonlinear<br>Regression</a>
+      <a href="/01-MSDS/MSDS13/" class="btn box2">Linear<br>Regression</a>
+      <a href="/01-MSDS/MSDS14/" class="btn box2">ANOVA<br>Experiment</a>
+      <a href="/01-MSDS/MSDS15/" class="btn box2">Nonlinear<br>Regression</a>
     </div>
   </div>
 </div>
@@ -57,9 +57,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">06 - Machine Learning Theory & Practice</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS19/" class="btn box2">Supervised<br>Learning</a>
-      <a href="/01-MSDS/MSDS20/" class="btn box2">Unsupervised<br>Learning</a>
-      <a href="/01-MSDS/MSDS21/" class="btn box2">Deep<br>Learning</a>
+      <a href="/01-MSDS/MSDS19/" class="btn box1">Supervised<br>Learning</a>
+      <a href="/01-MSDS/MSDS20/" class="btn box1">Unsupervised<br>Learning</a>
+      <a href="/01-MSDS/MSDS21/" class="btn box1">Deep<br>Learning</a>
     </div>
   </div>
 </div>
@@ -76,10 +76,10 @@ permalink: /
   <div class="btn text">
     <div class="btn name">08 - Effective Communication</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS25/" class="btn box1">Business<br>Writing</a>
-      <a href="/01-MSDS/MSDS26/" class="btn box1">Graphic<br>Design</a>
-      <a href="/01-MSDS/MSDS27/" class="btn box1">Public<br>Presentation</a>
-      <a href="/01-MSDS/MSDS28/" class="btn box1">Capstone<br>Project</a>
+      <a href="/01-MSDS/MSDS25/" class="btn box2">Business<br>Writing</a>
+      <a href="/01-MSDS/MSDS26/" class="btn box2">Graphic<br>Design</a>
+      <a href="/01-MSDS/MSDS27/" class="btn box2">Public<br>Presentation</a>
+      <a href="/01-MSDS/MSDS28/" class="btn box2">Capstone<br>Project</a>
     </div>
   </div>
 </div>
@@ -96,9 +96,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">10 - Data Science Methods for Quality Improvement</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS32/" class="btn box2">Quality<br>Statistics</a>
-      <a href="/01-MSDS/MSDS33/" class="btn box2">Stability<br>Capability</a>
-      <a href="/01-MSDS/MSDS34/" class="btn box2">Measurement<br>System</a>
+      <a href="/01-MSDS/MSDS32/" class="btn box1">Quality<br>Statistics</a>
+      <a href="/01-MSDS/MSDS33/" class="btn box1">Stability<br>Capability</a>
+      <a href="/01-MSDS/MSDS34/" class="btn box1">Measurement<br>System</a>
     </div>
   </div>
 </div>
@@ -115,9 +115,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">12 - Modeling and Predicting Climate Anomalies</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS38/" class="btn box1">Climate<br>Policies</a>
-      <a href="/01-MSDS/MSDS39/" class="btn box1">Climate<br>Visualization</a>
-      <a href="/01-MSDS/MSDS40/" class="btn box1">Climate<br>Prediction</a>
+      <a href="/01-MSDS/MSDS38/" class="btn box2">Climate<br>Policies</a>
+      <a href="/01-MSDS/MSDS39/" class="btn box2">Climate<br>Visualization</a>
+      <a href="/01-MSDS/MSDS40/" class="btn box2">Climate<br>Prediction</a>
     </div>
   </div>
 </div>
@@ -134,9 +134,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">14 - Bayesian Statistics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/MSDS44/" class="btn box2">Bayesian<br>Introduction</a>
-      <a href=""                 class="btn box2">Bayesian<br>Applications</a>
-      <a href=""                 class="btn box2">Bayesian<br>Models</a>
+      <a href="/01-MSDS/MSDS44/" class="btn box1">Bayesian<br>Introduction</a>
+      <a href=""                 class="btn box1">Bayesian<br>Applications</a>
+      <a href=""                 class="btn box1">Bayesian<br>Models</a>
     </div>
   </div>
 </div>
@@ -153,9 +153,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">16</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href=""                 class="btn box1">-<br>-</a>
-      <a href=""                 class="btn box1">-<br>-</a>
-      <a href=""                 class="btn box1">-<br>-</a>
+      <a href=""                 class="btn box2">-<br>-</a>
+      <a href=""                 class="btn box2">-<br>-</a>
+      <a href=""                 class="btn box2">-<br>-</a>
     </div>
   </div>
 </div>
