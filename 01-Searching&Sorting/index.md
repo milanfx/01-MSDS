@@ -10,9 +10,9 @@ permalink: /DS01/
 - 02 - xxx
 - 03 - xxx
 <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M1/" class="btn box1">📝Note</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box1">📖Task</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box1">⏰Work</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box1">📂Lab</a>
-  <a href="/01-MSDS/DS01/M1/" class="btn box1">📂Lab</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">📝<br>Note</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">📖<br>Task</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">⏰<br>Work</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">📂<br>Lab</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">📂<br>Lab</a>
 </div></div></div>
