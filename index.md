@@ -72,10 +72,10 @@ permalink: /
   <div class="btn text">
     <div class="btn name">08 - Vital Skills for Data Science</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS21/" class="btn box1">DataScience<br>Field</a>
-      <a href="/01-MSDS/DS22/" class="btn box1">Cyber<br>Security</a>
-      <a href="/01-MSDS/DS23/" class="btn box1">Ethical<br>Issues</a>
-      <a href="/01-MSDS/DS24/" class="btn box1">Data<br>Visualization</a>
+      <a href="/01-MSDS/DS21/" class="btn box2">DataScience<br>Field</a>
+      <a href="/01-MSDS/DS22/" class="btn box2">Cyber<br>Security</a>
+      <a href="/01-MSDS/DS23/" class="btn box2">Ethical<br>Issues</a>
+      <a href="/01-MSDS/DS24/" class="btn box2">Data<br>Visualization</a>
     </div>
   </div>
 </div>
