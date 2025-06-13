@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 01 - Searching & Sorting
-permalink: /MSDS01/
+permalink: /DS01/
 ---
 
 <div class="row">
