@@ -10,13 +10,13 @@ permalink: /
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS01/" class="btn box1">Searching<br>Sorting</a>
       <a href="/01-MSDS/DS02/" class="btn box1">Trees<br>Graphs</a>
-      <a href="/01-MSDS/DS03/" class="btn box1">Dynamic<br>Program</a>
+      <a href="/01-MSDS/DS03/" class="btn box1">Dynamic<br>Programming</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">02 - Advanced Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS04/" class="btn box1">Linear<br>Program</a>
+      <a href="/01-MSDS/DS04/" class="btn box1">Linear<br>Programming</a>
       <a href="/01-MSDS/DS05/" class="btn box1">Quantum<br>Algorithms</a>
     </div>
   </div>

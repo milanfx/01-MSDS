@@ -1,18 +1,57 @@
 ---
 layout: page
-title: 44 - Bayesian Stats - Bayesian Introduction
+title: 44 - xxxxxxxxxxxxxxxxxx
 permalink: /DS44/
 ---
 
-<h3>S1S1S1S1S1S1S1S1S1</h3>
+<div class="row"><div class="btn text" markdown="1">
+<div class="btn name">Module 01 - </div>
+- 01 - xxx
+- 02 - xxx
+- 03 - xxx
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯<br>Summary</a>
+  <a href="//" class="btn box2">📚<br>Assignment</a>
+  <a href="//" class="btn box2">🚀<br>PeerReview</a>
+  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
+  <a href="//" class="btn box2">🔔<br>Laboratory</a>
+</div></div></div>
 
-xxxxx xxxxx xxxxx
+<div class="row"><div class="btn text" markdown="1">
+<div class="btn name">Module 01 - </div>
+- 01 - xxx
+- 02 - xxx
+- 03 - xxx
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M2/" class="btn box2">🎯<br>Summary</a>
+  <a href="//" class="btn box2">📚<br>Assignment</a>
+  <a href="//" class="btn box2">🚀<br>PeerReview</a>
+  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
+  <a href="//" class="btn box2">🔔<br>Laboratory</a>
+</div></div></div>
 
-| ID | Module                     |Link|
-|:--:|----------------------------|:--:|
-|####|############################|####|
-| M1 | Visual Design Basics       |[Link](/01-MSDS/DS22/M1/)|
-| M2 | Visual Design Methods      |[Link](/01-MSDS/DS22/M2/)|
-| M3 | Visual Design Evaluation   |[Link](/01-MSDS/DS22/M3/)|
-|####|############################|####|
+<div class="row"><div class="btn text" markdown="1">
+<div class="btn name">Module 01 - </div>
+- 01 - xxx
+- 02 - xxx
+- 03 - xxx
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M3/" class="btn box2">🎯<br>Summary</a>
+  <a href="//" class="btn box2">📚<br>Assignment</a>
+  <a href="//" class="btn box2">🚀<br>PeerReview</a>
+  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
+  <a href="//" class="btn box2">🔔<br>Laboratory</a>
+</div></div></div>
 
+<div class="row"><div class="btn text" markdown="1">
+<div class="btn name">Module 01 - </div>
+- 01 - xxx
+- 02 - xxx
+- 03 - xxx
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M4/" class="btn box2">🎯<br>Summary</a>
+  <a href="//" class="btn box2">📚<br>Assignment</a>
+  <a href="//" class="btn box2">🚀<br>PeerReview</a>
+  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
+  <a href="//" class="btn box2">🔔<br>Laboratory</a>
+</div></div></div>

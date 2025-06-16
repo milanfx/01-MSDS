@@ -5,53 +5,49 @@ permalink: /DS01/
 ---
 
 <div class="row"><div class="btn text" markdown="1">
-<div class="btn name">Module 01 - </div>
-- 01 - xxx
-- 02 - xxx
-- 03 - xxx
-<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯<br>Summary</a>
+<div class="btn name">Module 01 - Searching & Sorting Basic Algorithms</div>
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M101/" class="btn box2">Insertion <br>Sort</a>
+  <a href="/01-MSDS/DS01/M102/" class="btn box2">Asymptotic<br>Notation</a>
+  <a href="/01-MSDS/DS01/M103/" class="btn box2">Binary    <br>Search</a>
+  <a href="/01-MSDS/DS01/M104/" class="btn box2">Merge     <br>Sort</a>
+  <a href="/01-MSDS/DS01/M105/" class="btn box2">Logarithms<br>Asymptotic</a>
+  <br>
   <a href="//" class="btn box2">📚<br>Assignment</a>
-  <a href="//" class="btn box2">🚀<br>PeerReview</a>
-  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="//" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
-<div class="btn name">Module 01 - </div>
-- 01 - xxx
-- 02 - xxx
-- 03 - xxx
-<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M2/" class="btn box2">🎯<br>Summary</a>
+<div class="btn name">Module 02 - Heaps & Hashtable Data Structures</div>
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M201/" class="btn box2">Dynamic   <br>Array</a>
+  <a href="/01-MSDS/DS01/M202/" class="btn box2">Heap      <br>Structure</a>
+  <a href="/01-MSDS/DS01/M203/" class="btn box2">Heap      <br>Primitives</a>
+  <a href="/01-MSDS/DS01/M204/" class="btn box2">Heap      <br>Sort</a>
+  <a href="/01-MSDS/DS01/M205/" class="btn box2">Hashtables<br>Introduction</a>
+  <br>
   <a href="//" class="btn box2">📚<br>Assignment</a>
-  <a href="//" class="btn box2">🚀<br>PeerReview</a>
-  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="//" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
-<div class="btn name">Module 01 - </div>
-- 01 - xxx
-- 02 - xxx
-- 03 - xxx
-<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M3/" class="btn box2">🎯<br>Summary</a>
+<div class="btn name">Module 03 - Quicksort & Quickselect Randomization</div>
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M301/" class="btn box2">Randomization <br>Introduction</a>
+  <a href="/01-MSDS/DS01/M302/" class="btn box2">Partition     <br>Schemes</a>
+  <a href="/01-MSDS/DS01/M303/" class="btn box2">Quick         <br>Sort</a>
+  <a href="/01-MSDS/DS01/M304/" class="btn box2">Quick         <br>Select</a>
+  <a href="/01-MSDS/DS01/M305/" class="btn box2">Hash          <br>Functions</a>
+  <br>
   <a href="//" class="btn box2">📚<br>Assignment</a>
-  <a href="//" class="btn box2">🚀<br>PeerReview</a>
-  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="//" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
-<div class="btn name">Module 01 - </div>
-- 01 - xxx
-- 02 - xxx
-- 03 - xxx
-<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M4/" class="btn box2">🎯<br>Summary</a>
+<div class="btn name">Module 04 - Hashtable Applications</div>
+<div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
+  <a href="/01-MSDS/DS01/M401/" class="btn box2">Open     <br>Address</a>
+  <a href="/01-MSDS/DS01/M402/" class="btn box2">Cuckoo   <br>Hashing</a>
+  <a href="/01-MSDS/DS01/M403/" class="btn box2">Bloom    <br>Filters</a>
+  <a href="/01-MSDS/DS01/M404/" class="btn box2">Count-Min<br>Sketching</a>
+  <a href="/01-MSDS/DS01/M405/" class="btn box2">String   <br>Matching</a>
+  <br>
   <a href="//" class="btn box2">📚<br>Assignment</a>
-  <a href="//" class="btn box2">🚀<br>PeerReview</a>
-  <a href="//" class="btn box2">💻️<br>AutoGrade</a>
-  <a href="//" class="btn box2">🔔<br>Laboratory</a>
 </div></div></div>
