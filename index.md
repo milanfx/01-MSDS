@@ -26,17 +26,17 @@ permalink: /
   <div class="btn text">
     <div class="btn name">03 - Statistical Inference</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS06/" class="btn box2">Probability<br>Theory</a>
-      <a href="/01-MSDS/DS07/" class="btn box2">Parametric<br>Estimation</a>
-      <a href="/01-MSDS/DS08/" class="btn box2">Hypothesis<br>Testing</a>
+      <a href="/01-MSDS/DS06/" class="btn box2"><span class="btn box22">03</span>Probability<br>Theory</a>
+      <a href="/01-MSDS/DS07/" class="btn box2"><span class="btn box22">04</span>Parametric<br>Estimation</a>
+      <a href="/01-MSDS/DS08/" class="btn box2"><span class="btn box22">05</span>Hypothesis<br>Testing</a>
     </div>
   </div>
   <div class="btn text">
     <div class="btn name">04 - Statistical Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS09/" class="btn box2">Linear<br>Regression</a>
-      <a href="/01-MSDS/DS10/" class="btn box2">ANOVA<br>Experiment</a>
-      <a href="/01-MSDS/DS11/" class="btn box2">Nonlinear<br>Regression</a>
+      <a href="/01-MSDS/DS09/" class="btn box2"><span class="btn box22">06</span>Linear<br>Regression</a>
+      <a href="/01-MSDS/DS10/" class="btn box2"><span class="btn box22">07</span>ANOVA<br>Experiment</a>
+      <a href="/01-MSDS/DS11/" class="btn box2"><span class="btn box22">08</span>Nonlinear<br>Regression</a>
     </div>
   </div>
 </div>

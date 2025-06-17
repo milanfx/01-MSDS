@@ -7,7 +7,7 @@ permalink: /DS01/
 <div class="row"><div class="btn text" markdown="1">
 <div class="btn name">Module 01 - Searching & Sorting Basic Algorithms</div>
 <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M101/" class="btn box1"><span class="btn box11">01</span>Insertion <br>Sort</a>
+  <a href="/01-MSDS/DS01/M1/" class="btn box1"><span class="btn box11">01</span>Insertion <br>Sort</a>
   <a href="/01-MSDS/DS01/M102/" class="btn box1"><span class="btn box11">02</span>Asymptotic<br>Notation</a>
   <a href="/01-MSDS/DS01/M103/" class="btn box1"><span class="btn box11">03</span>Binary    <br>Search</a>
   <a href="/01-MSDS/DS01/M104/" class="btn box1"><span class="btn box11">04</span>Merge     <br>Sort</a>
