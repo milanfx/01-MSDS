@@ -130,10 +130,10 @@ permalink: /
   <div class="btn text">
     <div class="btn name">14 - Effective Communication</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS40/" class="btn box2"><span class="btn box22">40</span>Business<br>Writing</a>
-      <a href="/01-MSDS/DS41/" class="btn box2"><span class="btn box22">41</span>Graphic<br>Design</a>
-      <a href="/01-MSDS/DS42/" class="btn box2"><span class="btn box22">42</span>Public<br>Presentation</a>
-      <a href="/01-MSDS/DS43/" class="btn box2"><span class="btn box22">43</span>Communication<br>Project</a>
+      <a href="/01-MSDS/DS40/" class="btn box1"><span class="btn box11">40</span>Business<br>Writing</a>
+      <a href="/01-MSDS/DS41/" class="btn box1"><span class="btn box11">41</span>Graphic<br>Design</a>
+      <a href="/01-MSDS/DS42/" class="btn box1"><span class="btn box11">42</span>Public<br>Presentation</a>
+      <a href="/01-MSDS/DS43/" class="btn box1"><span class="btn box11">43</span>Comm<br>Project</a>
     </div>
   </div>
 </div>
@@ -142,9 +142,9 @@ permalink: /
   <div class="btn text">
     <div class="btn name">15 - Bayesian Statistics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS44/" class="btn box1"><span class="btn box11">44</span>Bayesian<br>Introduction</a>
-      <a href=""               class="btn box1"><span class="btn box11">45</span>Bayesian<br>Applications</a>
-      <a href=""               class="btn box1"><span class="btn box11">46</span>Bayesian<br>Models</a>
+      <a href="/01-MSDS/DS44/" class="btn box2"><span class="btn box22">44</span>Bayesian<br>Introduction</a>
+      <a href=""               class="btn box2"><span class="btn box22">45</span>Bayesian<br>Applications</a>
+      <a href=""               class="btn box2"><span class="btn box22">46</span>Bayesian<br>Models</a>
     </div>
   </div>
   <div class="btn text">
