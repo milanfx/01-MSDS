@@ -35,7 +35,8 @@ permalink: /DS03/
   <a href="/01-MSDS/DS03/M302/" class="btn box1"><span class="btn box11">02</span>Interval  <br>Scheduling</a>
   <a href="/01-MSDS/DS03/M303/" class="btn box1"><span class="btn box11">03</span>Prefix    <br>Codes</a>
   <a href="/01-MSDS/DS03/M304/" class="btn box1"><span class="btn box11">04</span>Huffman   <br>Codes</a>
-  <br><br> 
+  <br>
+  <br>
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
