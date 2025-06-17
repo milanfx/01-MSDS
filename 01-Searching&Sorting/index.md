@@ -7,24 +7,24 @@ permalink: /DS01/
 <div class="row"><div class="btn text" markdown="1">
 <div class="btn name">Module 01 - Searching & Sorting Basic Algorithms</div>
 <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M101/" class="btn box2">Insertion <br>Sort</a>
-  <a href="/01-MSDS/DS01/M102/" class="btn box2">Asymptotic<br>Notation</a>
-  <a href="/01-MSDS/DS01/M103/" class="btn box2">Binary    <br>Search</a>
-  <a href="/01-MSDS/DS01/M104/" class="btn box2">Merge     <br>Sort</a>
-  <a href="/01-MSDS/DS01/M105/" class="btn box2">Logarithms<br>Asymptotic</a>
-  <br>
+  <a href="/01-MSDS/DS01/M101/" class="btn box2"><span class="btn box22">01</span>Insertion <br>Sort</a>
+  <a href="/01-MSDS/DS01/M102/" class="btn box2"><span class="btn box22">02</span>Asymptotic<br>Notation</a>
+  <a href="/01-MSDS/DS01/M103/" class="btn box2"><span class="btn box22">03</span>Binary    <br>Search</a>
+  <a href="/01-MSDS/DS01/M104/" class="btn box2"><span class="btn box22">04</span>Merge     <br>Sort</a>
+  <a href="/01-MSDS/DS01/M105/" class="btn box2"><span class="btn box22">05</span>Logarithms<br>Asymptotic</a>
+
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
 <div class="row"><div class="btn text" markdown="1">
 <div class="btn name">Module 02 - Heaps & Hashtable Data Structures</div>
 <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr 1fr;">
-  <a href="/01-MSDS/DS01/M201/" class="btn box2">Dynamic   <br>Array</a>
-  <a href="/01-MSDS/DS01/M202/" class="btn box2">Heap      <br>Structure</a>
-  <a href="/01-MSDS/DS01/M203/" class="btn box2">Heap      <br>Primitives</a>
-  <a href="/01-MSDS/DS01/M204/" class="btn box2">Heap      <br>Sort</a>
-  <a href="/01-MSDS/DS01/M205/" class="btn box2">Hashtables<br>Introduction</a>
-  <br>
+  <a href="/01-MSDS/DS01/M201/" class="btn box2"><span class="btn box22">01</span>Dynamic   <br>Array</a>
+  <a href="/01-MSDS/DS01/M202/" class="btn box2"><span class="btn box22">02</span>Heap      <br>Structure</a>
+  <a href="/01-MSDS/DS01/M203/" class="btn box2"><span class="btn box22">03</span>Heap      <br>Primitives</a>
+  <a href="/01-MSDS/DS01/M204/" class="btn box2"><span class="btn box22">04</span>Heap      <br>Sort</a>
+  <a href="/01-MSDS/DS01/M205/" class="btn box2"><span class="btn box22">05</span>Hashtables<br>Introduction</a>
+
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
