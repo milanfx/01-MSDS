@@ -32,7 +32,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">04 - Statistical Modeling for Data Science</div>
+    <div class="btn name">04 - Statistical Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS09/" class="btn box2">Linear<br>Regression</a>
       <a href="/01-MSDS/DS10/" class="btn box2">ANOVA<br>Experiment</a>
@@ -43,7 +43,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">05 - Data Mining Foundations & Practice</div>
+    <div class="btn name">05 - Data Mining Foundations</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS12/" class="btn box1">DataMining<br>Pipeline</a>
       <a href="/01-MSDS/DS13/" class="btn box1">DataMining<br>Method</a>
@@ -51,7 +51,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">06 - Machine Learning Theory & Practice</div>
+    <div class="btn name">06 - Machine Learning Theory</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS15/" class="btn box1">Supervised<br>Learning</a>
       <a href="/01-MSDS/DS16/" class="btn box1">Unsupervised<br>Learning</a>
@@ -82,7 +82,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">09 - Software Architecture for Big Data</div>
+    <div class="btn name">09 - Software Architecture</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS25/" class="btn box1">Software<br>Fundamentals</a>
       <a href="/01-MSDS/DS26/" class="btn box1">Software<br>Patterns</a>
@@ -90,7 +90,7 @@ permalink: /
     </div>
   </div>
   <div class="btn text">
-    <div class="btn name">10 - Data Science Methods for Quality Improvement</div>
+    <div class="btn name">10 - Quality Improvement</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS28/" class="btn box1">Quality<br>Statistics</a>
       <a href="/01-MSDS/DS29/" class="btn box1">Stability<br>Capability</a>
@@ -101,7 +101,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text">
-    <div class="btn name">11 - Statistical Learning for Data Science</div>
+    <div class="btn name">11 - Statistical Learning</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS31/" class="btn box2">Regression<br>Classification</a>
       <a href="/01-MSDS/DS32/" class="btn box2">Model<br>Optimization</a>
