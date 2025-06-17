@@ -12,7 +12,8 @@ permalink: /DS03/
   <a href="/01-MSDS/DS03/M103/" class="btn box1"><span class="btn box11">03</span>Karatsuba <br>Algorithm</a>
   <a href="/01-MSDS/DS03/M104/" class="btn box1"><span class="btn box11">04</span>Master    <br>Method</a>
   <a href="/01-MSDS/DS03/M105/" class="btn box1"><span class="btn box11">05</span>Fourier   <br>Transform</a>
-  <br> 
+  <a class="btn empty"></a>
+  
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -24,7 +25,8 @@ permalink: /DS03/
   <a href="/01-MSDS/DS03/M203/" class="btn box1"><span class="btn box11">03</span>Coin      <br>Changing</a>
   <a href="/01-MSDS/DS03/M204/" class="btn box1"><span class="btn box11">04</span>Knapsack  <br>Problem</a>
   <a href="/01-MSDS/DS03/M205/" class="btn box1"><span class="btn box11">05</span>Longest   <br>Subsequence</a>
-  <br> 
+  <a class="btn empty"></a>
+
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -36,7 +38,8 @@ permalink: /DS03/
   <a href="/01-MSDS/DS03/M303/" class="btn box1"><span class="btn box11">03</span>Prefix    <br>Codes</a>
   <a href="/01-MSDS/DS03/M304/" class="btn box1"><span class="btn box11">04</span>Huffman   <br>Codes</a>
   <a class="btn empty"></a>
-  <br>
+  <a class="btn empty"></a>
+
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -48,6 +51,7 @@ permalink: /DS03/
   <a href="/01-MSDS/DS03/M403/" class="btn box1"><span class="btn box11">03</span>NP     <br>Completeness</a>
   <a href="/01-MSDS/DS03/M404/" class="btn box1"><span class="btn box11">04</span>NP     <br>Problems</a>
   <a href="/01-MSDS/DS03/M405/" class="btn box1"><span class="btn box11">05</span>Quantum   <br>Computing</a>
-  <br> 
+  <a class="btn empty"></a>
+
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
