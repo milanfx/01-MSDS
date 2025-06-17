@@ -12,7 +12,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M103/" class="btn box1"><span class="btn box11">03</span>Binary    <br>Search</a>
   <a href="/01-MSDS/DS01/M104/" class="btn box1"><span class="btn box11">04</span>Merge     <br>Sort</a>
   <a href="/01-MSDS/DS01/M105/" class="btn box1"><span class="btn box11">05</span>Logarithms<br>Asymptotic</a>
-
+  <br> 
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -24,7 +24,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M203/" class="btn box1"><span class="btn box11">03</span>Heap      <br>Primitives</a>
   <a href="/01-MSDS/DS01/M204/" class="btn box1"><span class="btn box11">04</span>Heap      <br>Sort</a>
   <a href="/01-MSDS/DS01/M205/" class="btn box1"><span class="btn box11">05</span>Hashtables<br>Intro</a>
-
+  <br> 
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -36,7 +36,7 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M303/" class="btn box1"><span class="btn box11">03</span>Quick     <br>Sort</a>
   <a href="/01-MSDS/DS01/M304/" class="btn box1"><span class="btn box11">04</span>Quick     <br>Select</a>
   <a href="/01-MSDS/DS01/M305/" class="btn box1"><span class="btn box11">05</span>Hash      <br>Functions</a>
-
+  <br> 
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
 
@@ -48,6 +48,6 @@ permalink: /DS01/
   <a href="/01-MSDS/DS01/M403/" class="btn box1"><span class="btn box11">03</span>Bloom     <br>Filters</a>
   <a href="/01-MSDS/DS01/M404/" class="btn box1"><span class="btn box11">04</span>Count-Min <br>Sketching</a>
   <a href="/01-MSDS/DS01/M405/" class="btn box1"><span class="btn box11">05</span>String    <br>Matching</a>
-
+  <br> 
   <a href="//" class="btn box2">📚<br>Assignment</a>
 </div></div></div>
