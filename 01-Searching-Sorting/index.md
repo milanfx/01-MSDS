@@ -13,6 +13,7 @@ permalink: /DS01/
       <a class="btn box2">04</a><a href="/01-MSDS/DS01/M104/" class="btn box1">Merge Sort</a>
       <a class="btn box2">05</a><a href="/01-MSDS/DS01/M105/" class="btn box1">Logarithms Asymptotic</a>
     </div>
+    <br>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="//" class="btn box2">📚<br>Assignment</a>
     </div>
@@ -25,6 +26,7 @@ permalink: /DS01/
       <a class="btn box2">09</a><a href="/01-MSDS/DS01/M104/" class="btn box1">Heap Sort</a>
       <a class="btn box2">10</a><a href="/01-MSDS/DS01/M105/" class="btn box1">HashtablesIntro</a>
     </div>
+    <br>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="//" class="btn box2">📚<br>Assignment</a>
     </div>
