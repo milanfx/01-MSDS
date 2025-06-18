@@ -36,15 +36,17 @@ permalink: /DS01/
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">03 - Quicksort & Quickselect Randomization</div>
     <div class="row" style="grid-template-columns: 2fr 1fr;">
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">01</a><a href="/01-MSDS/DS01/M301/" class="btn box1">Randomization Intro</a>
-      <a class="btn box2">02</a><a href="/01-MSDS/DS01/M302/" class="btn box1">Partition Schemes</a>
-      <a class="btn box2">03</a><a href="/01-MSDS/DS01/M303/" class="btn box1">Quick Sort</a>
-      <a class="btn box2">04</a><a href="/01-MSDS/DS01/M304/" class="btn box1">Quick Select</a>
-      <a class="btn box2">05</a><a href="/01-MSDS/DS01/M305/" class="btn box1">Hash Functions</a>
-    </div>
-    <div class="row" style="grid-template-columns: 1fr;">
-      <a href="//" class="btn box2">📚<br>Assignment</a>
+      <div class="row" style="grid-template-columns: 1fr 5fr;">
+        <a class="btn box2">01</a><a href="/01-MSDS/DS01/M301/" class="btn box1">Randomization Intro</a>
+        <a class="btn box2">02</a><a href="/01-MSDS/DS01/M302/" class="btn box1">Partition Schemes</a>
+        <a class="btn box2">03</a><a href="/01-MSDS/DS01/M303/" class="btn box1">Quick Sort</a>
+        <a class="btn box2">04</a><a href="/01-MSDS/DS01/M304/" class="btn box1">Quick Select</a>
+        <a class="btn box2">05</a><a href="/01-MSDS/DS01/M305/" class="btn box1">Hash Functions</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">📚<br>Assignment</a>
+        <a href="//" class="btn empty"></a><a href="//" class="btn empty"></a><a href="//" class="btn empty"></a>      
+      </div>
     </div>
   </div>
   <div class="btn text"><div class="btn name">04 - Hashtable Applications</div>
