@@ -33,7 +33,7 @@ permalink: /DS01/
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty"></a><a class="btn empty"></a>
+        <a href="//" class="btn box2">📚<br>Assignment</a><a href="//" class="btn box2">📚<br>Assignment</a><a href="//" class="btn box2">📚<br>Assignment</a>
       </div>
     </div>
   </div>
@@ -48,7 +48,7 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M303/" class="btn box1">Quick Sort</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M304/" class="btn box1">Quick Select</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M305/" class="btn box1">Hash Functions</a>
-        <a class="btn empty"></a><a class="btn empty"></a>
+        <a class="btn empty"></a><a class="btn empty"></a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
@@ -64,11 +64,11 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M403/" class="btn box1">Bloom Filters</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M404/" class="btn box1">Count-Min Sketching</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M405/" class="btn box1">String Matching</a>
-        <a class="btn empty"></a><a class="btn empty"></a>
+        <a class="btn empty"></a><a class="btn empty"></a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty"></a><a class="btn empty"></a>
+        <a class="btn empty"></a><a class="btn empty"></a><a class="btn empty"></a>
       </div>
     </div>
   </div>
