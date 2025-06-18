@@ -4,7 +4,6 @@ title: 04 - Linear Programming
 permalink: /DS04/
 ---
 
-
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">01 - Linear Programming</div>
     <div class="row" style="grid-template-columns: 2fr 1fr;">
