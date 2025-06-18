@@ -13,12 +13,14 @@ permalink: /DS04/
         <a class="btn box2">02</a><a href="/01-MSDS/DS04/M102/" class="btn box1">Network Flow</a>
         <a class="btn box2">03</a><a href="/01-MSDS/DS04/M103/" class="btn box1">LP Geometry</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS04/M104/" class="btn box1">LP Algorithms</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -30,11 +32,13 @@ permalink: /DS04/
         <a class="btn box2">03</a><a href="/01-MSDS/DS04/M203/" class="btn box1">Vertex Cover</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS04/M204/" class="btn box1">Approximations LP</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS04/M205/" class="btn box1">Branch&Bound Algorithm</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -48,12 +52,14 @@ permalink: /DS04/
         <a class="btn box2">02</a><a href="/01-MSDS/DS04/M302/" class="btn box1">Jobshop Scheduling</a>
         <a class="btn box2">03</a><a href="/01-MSDS/DS04/M303/" class="btn box1">Vertex Cover</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS04/M304/" class="btn box1">Maximum Satisfiability</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -65,11 +71,13 @@ permalink: /DS04/
         <a class="btn box2">03</a><a href="/01-MSDS/DS04/M403/" class="btn box1">TSP Approximation</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS04/M404/" class="btn box1">TSP Heuristics</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS04/M405/" class="btn box1">Approximation Schemes</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>

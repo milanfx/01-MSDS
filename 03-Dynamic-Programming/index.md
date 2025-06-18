@@ -13,11 +13,13 @@ permalink: /DS03/
         <a class="btn box2">03</a><a href="/01-MSDS/DS03/M103/" class="btn box1">Karatsuba Algorithm</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS03/M104/" class="btn box1">Master Method</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS03/M105/" class="btn box1">Fourier Transform</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -29,11 +31,13 @@ permalink: /DS03/
         <a class="btn box2">03</a><a href="/01-MSDS/DS03/M203/" class="btn box1">Coin Changing</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS03/M204/" class="btn box1">Knapsack Problem</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS03/M205/" class="btn box1">Longest Subsequence</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -47,12 +51,14 @@ permalink: /DS03/
         <a class="btn box2">02</a><a href="/01-MSDS/DS03/M302/" class="btn box1">Interval Scheduling</a>
         <a class="btn box2">03</a><a href="/01-MSDS/DS03/M303/" class="btn box1">Prefix Codes</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS03/M304/" class="btn box1">Huffman Codes</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -64,11 +70,13 @@ permalink: /DS03/
         <a class="btn box2">03</a><a href="/01-MSDS/DS03/M403/" class="btn box1">NP Completeness</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS03/M404/" class="btn box1">NP Problems</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS03/M405/" class="btn box1">Quantum Computing</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>

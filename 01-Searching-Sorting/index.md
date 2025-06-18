@@ -13,11 +13,13 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M103/" class="btn box1">Binary Search</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M104/" class="btn box1">Merge Sort</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M105/" class="btn box1">Logarithms Asymptotic</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -29,11 +31,13 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M203/" class="btn box1">Heap Primitives</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M204/" class="btn box1">Heap Sort</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M205/" class="btn box1">HashtablesIntro</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -48,11 +52,13 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M303/" class="btn box1">Quick Sort</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M304/" class="btn box1">Quick Select</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M305/" class="btn box1">Hash Functions</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -64,11 +70,13 @@ permalink: /DS01/
         <a class="btn box2">03</a><a href="/01-MSDS/DS01/M403/" class="btn box1">Bloom Filters</a>
         <a class="btn box2">04</a><a href="/01-MSDS/DS01/M404/" class="btn box1">Count-Min Sketching</a>
         <a class="btn box2">05</a><a href="/01-MSDS/DS01/M405/" class="btn box1">String Matching</a>
-        <a class="btn empty">-</a><a class="btn empty"></a>
+        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a><a class="btn empty">-<br>-</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
