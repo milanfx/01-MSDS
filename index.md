@@ -7,8 +7,8 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text"><div class="btn name">01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">01</a><a href="/01-MSDS/DS01/" class="btn box1">Searching Sorting</a>
-      <a class="btn box2">02</a><a href="/01-MSDS/DS02/" class="btn box1">Trees Graphs</a>
+      <a class="btn box2">01</a><a href="/01-MSDS/DS01/" class="btn box1">Searching & Sorting</a>
+      <a class="btn box2">02</a><a href="/01-MSDS/DS02/" class="btn box1">Trees & Graphs</a>
       <a class="btn box2">03</a><a href="/01-MSDS/DS03/" class="btn box1">Dynamic Programming</a>
     </div>
   </div>
@@ -38,7 +38,7 @@ permalink: /
   <div class="btn text"><div class="btn name">05 - Statistical Modeling</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
       <a class="btn box2">12</a><a href="/01-MSDS/DS12/" class="btn box1">Linear Regression</a>
-      <a class="btn box2">13</a><a href="/01-MSDS/DS13/" class="btn box1">ANOVA Experiment</a>
+      <a class="btn box2">13</a><a href="/01-MSDS/DS13/" class="btn box1">ANOVA & Experiment</a>
       <a class="btn box2">14</a><a href="/01-MSDS/DS14/" class="btn box1">Nonlinear Regression</a>
     </div>
   </div>
@@ -61,7 +61,7 @@ permalink: /
   </div>
   <div class="btn text"><div class="btn name">08 - Vital Skills for DS</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">21</a><a href="/01-MSDS/DS21/" class="btn box1">DataScience Field</a>
+      <a class="btn box2">21</a><a href="/01-MSDS/DS21/" class="btn box1">Data Science Field</a>
       <a class="btn box2">22</a><a href="/01-MSDS/DS22/" class="btn box1">Cyber Security</a>
       <a class="btn box2">23</a><a href="/01-MSDS/DS23/" class="btn box1">Ethical Issues</a>
       <a class="btn box2">24</a><a href="/01-MSDS/DS24/" class="btn box1">Data Visualization</a>
@@ -95,8 +95,8 @@ permalink: /
   <div class="btn text"><div class="btn name">12 - Statistical Learning</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
       <a class="btn box2">35</a><a href="/01-MSDS/DS35/" class="btn box1">Regression & Classification</a>
-      <a class="btn box2">36</a><a href="/01-MSDS/DS36/" class="btn box1">Model Optimization</a>
-      <a class="btn box2">37</a><a href="/01-MSDS/DS37/" class="btn box1">Advanced Model</a>
+      <a class="btn box2">36</a><a href="/01-MSDS/DS36/" class="btn box1">Optimization Methods</a>
+      <a class="btn box2">37</a><a href="/01-MSDS/DS37/" class="btn box1">Advanced Models</a>
     </div>
   </div>
 </div>
