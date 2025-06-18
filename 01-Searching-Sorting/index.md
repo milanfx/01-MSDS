@@ -30,12 +30,12 @@ permalink: /DS01/
         <a class="btn box2">M22</a><a href="/01-MSDS/DS01/M22/" class="btn box1">Heap Structure</a>
         <a class="btn box2">M23</a><a href="/01-MSDS/DS01/M23/" class="btn box1">Heap Primitives</a>
         <a class="btn box2">M24</a><a href="/01-MSDS/DS01/M24/" class="btn box1">Heap Sort</a>
-        <a class="btn box2">M25</a><a href="/01-MSDS/DS01/M25/" class="btn box1">HashtablesIntro</a>
+        <a class="btn box2">M25</a><a href="/01-MSDS/DS01/M25/" class="btn box1">Hashtables Intro</a>
         <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
@@ -55,8 +55,8 @@ permalink: /DS01/
         <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
@@ -73,8 +73,8 @@ permalink: /DS01/
         <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
