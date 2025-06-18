@@ -8,16 +8,16 @@ permalink: /DS01/
   <div class="btn text"><div class="btn name">M1 - Searching & Sorting Algorithms</div>
     <div class="row" style="grid-template-columns: 2fr 1fr;">
       <div class="row" style="grid-template-columns: 1fr 5fr;">
-        <a class="btn box2">M11</a><a href="/01-MSDS/DS01/M11/" class="btn box1">Insertion Sort</a>
-        <a class="btn box2">M12</a><a href="/01-MSDS/DS01/M12/" class="btn box1">Asymptotic Notation</a>
-        <a class="btn box2">M13</a><a href="/01-MSDS/DS01/M13/" class="btn box1">Binary Search</a>
-        <a class="btn box2">M14</a><a href="/01-MSDS/DS01/M14/" class="btn box1">Merge Sort</a>
-        <a class="btn box2">M15</a><a href="/01-MSDS/DS01/M15/" class="btn box1">Logarithms Asymptotic</a>
+        <a class="btn box2">M11</a><a class="btn box1">Insertion Sort</a>
+        <a class="btn box2">M12</a><a class="btn box1">Asymptotic Notation</a>
+        <a class="btn box2">M13</a><a class="btn box1">Binary Search</a>
+        <a class="btn box2">M14</a><a class="btn box1">Merge Sort</a>
+        <a class="btn box2">M15</a><a class="btn box1">Logarithms Asymptotic</a>
         <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
