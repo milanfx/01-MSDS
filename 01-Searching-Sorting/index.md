@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C01 - Searching & Sorting
+title: 01 - Searching & Sorting
 permalink: /DS01/
 ---
 
