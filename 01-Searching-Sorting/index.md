@@ -33,7 +33,9 @@ permalink: /DS01/
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty"></a><a class="btn empty"></a><a class="btn empty"></a>
+        <a href="//" class="btn box2">📚<br>Assignment</a>
+        <a href="//" class="btn box2">📚<br>Assignment</a>
+        <a href="//" class="btn box2">📚<br>Assignment</a>
       </div>
     </div>
   </div>
