@@ -6,7 +6,7 @@ permalink: /DS01/
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">01 - Searching & Sorting Algorithms</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
+    <div class="row" style="grid-template-columns: 1fr 8fr;">
       <a class="btn box2">01</a><a href="/01-MSDS/DS01/M101/" class="btn box1">Insertion Sort</a>
       <a class="btn box2">02</a><a href="/01-MSDS/DS01/M102/" class="btn box1">Asymptotic Notation</a>
       <a class="btn box2">03</a><a href="/01-MSDS/DS01/M103/" class="btn box1">Binary Search</a>
@@ -18,7 +18,7 @@ permalink: /DS01/
     </div>
   </div>
   <div class="btn text"><div class="btn name">02 - Heaps & Hashtable Data Structures</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
+    <div class="row" style="grid-template-columns: 1fr 8fr;">
       <a class="btn box2">06</a><a href="/01-MSDS/DS01/M101/" class="btn box1">Dynamic Array</a>
       <a class="btn box2">07</a><a href="/01-MSDS/DS01/M102/" class="btn box1">Heap Structure</a>
       <a class="btn box2">08</a><a href="/01-MSDS/DS01/M103/" class="btn box1">Heap Primitives</a>
