@@ -102,7 +102,7 @@ permalink: /
 </div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
-  <div class="btn text"><div class="btn name">13 - Modeling Climate Anomalies</div>
+  <div class="btn text"><div class="btn name">13 - Climate Anomalies Model</div>
     <div class="row" style="grid-template-columns: 1fr 5fr;">
       <a class="btn box2">38</a><a href="/01-MSDS/DS38/" class="btn box1">Climate Policies</a>
       <a class="btn box2">39</a><a href="/01-MSDS/DS39/" class="btn box1">Climate Visualization</a>
