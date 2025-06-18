@@ -120,7 +120,7 @@ permalink: /
     <div class="row" style="grid-template-columns: 1fr 5fr;">
       <a class="btn box2">C44</a><a href="/01-MSDS/DS44/" class="btn box1">Bayesian Introduction</a>
       <a class="btn box2">C45</a><a href="/01-MSDS/DS45/" class="btn box1">Bayesian Applications</a>
-      <a class="btn box2">C46</a><a href="/01-MSDS/DS46/" class="btn box1">Bayesian Models</a>
+      <a class="btn box2">C46</a><a href="/01-MSDS/DSXX/" class="btn box1">Bayesian Models</a>
     </div>
   </div>
 </div>
