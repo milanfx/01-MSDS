@@ -22,14 +22,14 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text"><div class="btn name">S03 - Statistical Inference</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS06/" class="btn box1"><span class="btn box2">C06</span>Probability<br>Theory</a>
       <a href="/01-MSDS/DS07/" class="btn box1"><span class="btn box2">C07</span>Parametric<br>Estimation</a>
       <a href="/01-MSDS/DS08/" class="btn box1"><span class="btn box2">C08</span>Hypothesis<br>Testing</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S04 - Statistical Modeling</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS09/" class="btn box1"><span class="btn box2">C09</span>Linear<br>Regression</a>
       <a href="/01-MSDS/DS10/" class="btn box1"><span class="btn box2">C10</span>ANOVA<br>Experiment</a>
       <a href="/01-MSDS/DS11/" class="btn box1"><span class="btn box2">C11</span>Nonlinear<br>Regression</a>
@@ -39,7 +39,7 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S05 - Data Mining Foundations</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS12/" class="btn box1"><span class="btn box1">C12</span>DataMining<br>Pipeline</a>
       <a href="/01-MSDS/DS13/" class="btn box1"><span class="btn box1">C13</span>DataMining<br>Method</a>
       <a href="/01-MSDS/DS14/" class="btn box1"><span class="btn box1">C14</span>DataMining<br>Projects</a>
