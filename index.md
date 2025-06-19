@@ -20,7 +20,7 @@ permalink: /
   </div>
 </div>
 
-<div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
+<div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S03 - Statistical Inference</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS06/" class="btn box1"><span class="btn box2">C06</span>Probability<br>Theory</a>
