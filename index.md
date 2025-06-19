@@ -64,9 +64,9 @@ permalink: /
   </div>
   <div class="btn text"><div class="btn name">S10 - Software Architecture</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS21/" class="btn box2"><span class="btn box1">C21</span>Software<br>Fundamentals</a>
-      <a href="/01-MSDS/DS22/" class="btn box2"><span class="btn box1">C22</span>Software<br>Patterns</a>
-      <a href="/01-MSDS/DS23/" class="btn box2"><span class="btn box1">C23</span>Software<br>Applications</a>
+      <a href="/01-MSDS/DS21/" class="btn box1"><span class="btn box2">C21</span>Software<br>Fundamentals</a>
+      <a href="/01-MSDS/DS22/" class="btn box1"><span class="btn box2">C22</span>Software<br>Patterns</a>
+      <a href="/01-MSDS/DS23/" class="btn box1"><span class="btn box2">C23</span>Software<br>Applications</a>
     </div>
   </div>
 </div>
@@ -74,10 +74,10 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S08 - Vital Skills for DS</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS24/" class="btn box1"><span class="btn box2">C24</span>DataScience<br>Field</a>
-      <a href="/01-MSDS/DS25/" class="btn box1"><span class="btn box2">C25</span>Cyber<br>Security</a>
-      <a href="/01-MSDS/DS26/" class="btn box1"><span class="btn box2">C26</span>Ethical<br>Issues</a>
-      <a href="/01-MSDS/DS27/" class="btn box1"><span class="btn box2">C27</span>Data<br>Visualization</a>
+      <a href="/01-MSDS/DS24/" class="btn box2"><span class="btn box1">C24</span>DataScience<br>Field</a>
+      <a href="/01-MSDS/DS25/" class="btn box2"><span class="btn box1">C25</span>Cyber<br>Security</a>
+      <a href="/01-MSDS/DS26/" class="btn box2"><span class="btn box1">C26</span>Ethical<br>Issues</a>
+      <a href="/01-MSDS/DS27/" class="btn box2"><span class="btn box1">C27</span>Data<br>Visualization</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S09 - Effective Communication</div>
@@ -110,16 +110,16 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S13 - Climate Anomalies Model</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS38/" class="btn box1"><span class="btn box1">C38</span>Climate<br>Policies</a>
-      <a href="/01-MSDS/DS39/" class="btn box1"><span class="btn box1">C39</span>Climate<br>Visualization</a>
-      <a href="/01-MSDS/DS40/" class="btn box1"><span class="btn box1">C40</span>Climate<br>Prediction</a>
+      <a href="/01-MSDS/DS38/" class="btn box2"><span class="btn box1">C38</span>Climate<br>Policies</a>
+      <a href="/01-MSDS/DS39/" class="btn box2"><span class="btn box1">C39</span>Climate<br>Visualization</a>
+      <a href="/01-MSDS/DS40/" class="btn box2"><span class="btn box1">C40</span>Climate<br>Prediction</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S14 - Text Marketing Analytics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS41/" class="btn box1"><span class="btn box1">C41</span>Supervised<br>Analysis</a>
-      <a href="/01-MSDS/DS42/" class="btn box1"><span class="btn box1">C42</span>Unsupervised<br>Analysis</a>
-      <a href="/01-MSDS/DS43/" class="btn box1"><span class="btn box1">C43</span>Network<br>Analysis</a>
+      <a href="/01-MSDS/DS41/" class="btn box2"><span class="btn box1">C41</span>Supervised<br>Analysis</a>
+      <a href="/01-MSDS/DS42/" class="btn box2"><span class="btn box1">C42</span>Unsupervised<br>Analysis</a>
+      <a href="/01-MSDS/DS43/" class="btn box2"><span class="btn box1">C43</span>Network<br>Analysis</a>
     </div>
   </div>
 </div>
