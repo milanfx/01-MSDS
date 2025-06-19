@@ -88,6 +88,7 @@ permalink: /
       <a href="/01-MSDS/DS31/" class="btn box2"><span class="btn box1">C31</span>Communication<br>Project</a>
     </div>
   </div>
+</div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S11 - Quality Improvement</div>
