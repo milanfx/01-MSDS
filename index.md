@@ -7,15 +7,15 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS01/" class="btn box2"><span class="btn box1">C01</span>Searching<br>Sorting</a>
-      <a href="/01-MSDS/DS02/" class="btn box2"><span class="btn box1">C02</span>Trees<br>Graphs</a>
-      <a href="/01-MSDS/DS03/" class="btn box2"><span class="btn box1">C03</span>Dynamic<br>Program</a>
+      <a href="/01-MSDS/DS01/" class="btn box1"><span class="btn box2">C01</span>Searching<br>Sorting</a>
+      <a href="/01-MSDS/DS02/" class="btn box1"><span class="btn box2">C02</span>Trees<br>Graphs</a>
+      <a href="/01-MSDS/DS03/" class="btn box1"><span class="btn box2">C03</span>Dynamic<br>Program</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S02 - Advanced Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS04/" class="btn box2"><span class="btn box1">C04</span>Linear<br>Program</a>
-      <a href="/01-MSDS/DS05/" class="btn box2"><span class="btn box1">C05</span>Quantum<br>Algorithms</a>
+      <a href="/01-MSDS/DS04/" class="btn box1"><span class="btn box2">C04</span>Linear<br>Program</a>
+      <a href="/01-MSDS/DS05/" class="btn box1"><span class="btn box2">C05</span>Quantum<br>Algorithms</a>
     </div>
   </div>
 </div>
@@ -40,16 +40,16 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S05 - Data Mining Foundations</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS12/" class="btn box2"><span class="btn box1">C12</span>DataMining<br>Pipeline</a>
-      <a href="/01-MSDS/DS13/" class="btn box2"><span class="btn box1">C13</span>DataMining<br>Method</a>
-      <a href="/01-MSDS/DS14/" class="btn box2"><span class="btn box1">C14</span>DataMining<br>Projects</a>
+      <a href="/01-MSDS/DS12/" class="btn box1"><span class="btn box2">C12</span>DataMining<br>Pipeline</a>
+      <a href="/01-MSDS/DS13/" class="btn box1"><span class="btn box2">C13</span>DataMining<br>Method</a>
+      <a href="/01-MSDS/DS14/" class="btn box1"><span class="btn box2">C14</span>DataMining<br>Projects</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S06 - Machine Learning Theory</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS15/" class="btn box2"><span class="btn box1">C15</span>Supervised<br>Learning</a>
-      <a href="/01-MSDS/DS16/" class="btn box2"><span class="btn box1">C16</span>Unsupervised<br>Learning</a>
-      <a href="/01-MSDS/DS17/" class="btn box2"><span class="btn box1">C17</span>Deep<br>Learning</a>
+      <a href="/01-MSDS/DS15/" class="btn box1"><span class="btn box2">C15</span>Supervised<br>Learning</a>
+      <a href="/01-MSDS/DS16/" class="btn box1"><span class="btn box2">C16</span>Unsupervised<br>Learning</a>
+      <a href="/01-MSDS/DS17/" class="btn box1"><span class="btn box2">C17</span>Deep<br>Learning</a>
     </div>
   </div>
 </div>
@@ -62,7 +62,7 @@ permalink: /
       <a href="/01-MSDS/DS20/" class="btn box1"><span class="btn box2">C20</span>Advanced<br>Database</a>
     </div>
   </div>
-  <div class="btn text"><div class="btn name">S10 - Software Architecture</div>
+  <div class="btn text"><div class="btn name">S08 - Software Architecture</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS21/" class="btn box1"><span class="btn box2">C21</span>Software<br>Fundamentals</a>
       <a href="/01-MSDS/DS22/" class="btn box1"><span class="btn box2">C22</span>Software<br>Patterns</a>
@@ -72,20 +72,20 @@ permalink: /
 </div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn text"><div class="btn name">S08 - Vital Skills for DS</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS24/" class="btn box2"><span class="btn box1">C24</span>DataScience<br>Field</a>
-      <a href="/01-MSDS/DS25/" class="btn box2"><span class="btn box1">C25</span>Cyber<br>Security</a>
-      <a href="/01-MSDS/DS26/" class="btn box2"><span class="btn box1">C26</span>Ethical<br>Issues</a>
-      <a href="/01-MSDS/DS27/" class="btn box2"><span class="btn box1">C27</span>Data<br>Visualization</a>
+  <div class="btn text"><div class="btn name">S09 - Vital Skills for DS</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS24/" class="btn box1"><span class="btn box2">C24</span>DataScience<br>Field</a>
+      <a href="/01-MSDS/DS25/" class="btn box1"><span class="btn box2">C25</span>Cyber<br>Security</a>
+      <a href="/01-MSDS/DS26/" class="btn box1"><span class="btn box2">C26</span>Ethical<br>Issues</a>
+      <a href="/01-MSDS/DS27/" class="btn box1"><span class="btn box2">C27</span>Data<br>Visualization</a>
     </div>
   </div>
-  <div class="btn text"><div class="btn name">S09 - Effective Communication</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS28/" class="btn box2"><span class="btn box1">C28</span>Business<br>Writing</a>
-      <a href="/01-MSDS/DS29/" class="btn box2"><span class="btn box1">C29</span>Graphic<br>Design</a>
-      <a href="/01-MSDS/DS30/" class="btn box2"><span class="btn box1">C30</span>Public<br>Presentation</a>
-      <a href="/01-MSDS/DS31/" class="btn box2"><span class="btn box1">C31</span>Communication<br>Project</a>
+  <div class="btn text"><div class="btn name">S10 - Effective Communication</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS28/" class="btn box1"><span class="btn box2">C28</span>Business<br>Writing</a>
+      <a href="/01-MSDS/DS29/" class="btn box1"><span class="btn box2">C29</span>Graphic<br>Design</a>
+      <a href="/01-MSDS/DS30/" class="btn box1"><span class="btn box2">C30</span>Public<br>Presentation</a>
+      <a href="/01-MSDS/DS31/" class="btn box1"><span class="btn box2">C31</span>Project<br>Capstone</a>
     </div>
   </div>
 </div>
@@ -110,16 +110,16 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S13 - Climate Anomalies Model</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS38/" class="btn box2"><span class="btn box1">C38</span>Climate<br>Policies</a>
-      <a href="/01-MSDS/DS39/" class="btn box2"><span class="btn box1">C39</span>Climate<br>Visualization</a>
-      <a href="/01-MSDS/DS40/" class="btn box2"><span class="btn box1">C40</span>Climate<br>Prediction</a>
+      <a href="/01-MSDS/DS38/" class="btn box1"><span class="btn box2">C38</span>Climate<br>Policies</a>
+      <a href="/01-MSDS/DS39/" class="btn box1"><span class="btn box2">C39</span>Climate<br>Visualization</a>
+      <a href="/01-MSDS/DS40/" class="btn box1"><span class="btn box2">C40</span>Climate<br>Prediction</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S14 - Text Marketing Analytics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS41/" class="btn box2"><span class="btn box1">C41</span>Supervised<br>Analysis</a>
-      <a href="/01-MSDS/DS42/" class="btn box2"><span class="btn box1">C42</span>Unsupervised<br>Analysis</a>
-      <a href="/01-MSDS/DS43/" class="btn box2"><span class="btn box1">C43</span>Network<br>Analysis</a>
+      <a href="/01-MSDS/DS41/" class="btn box1"><span class="btn box2">C41</span>Supervised<br>Analysis</a>
+      <a href="/01-MSDS/DS42/" class="btn box1"><span class="btn box2">C42</span>Unsupervised<br>Analysis</a>
+      <a href="/01-MSDS/DS43/" class="btn box1"><span class="btn box2">C43</span>Network<br>Analysis</a>
     </div>
   </div>
 </div>
