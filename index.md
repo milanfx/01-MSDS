@@ -7,22 +7,22 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text"><div class="btn name">S01 - Data Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS01/" class="btn box1">Searching & Sorting</a>
-      <a href="/01-MSDS/DS02/" class="btn box1">Trees & Graphs</a>
-      <a href="/01-MSDS/DS03/" class="btn box1">Dynamic Programming</a>
+      <a href="/01-MSDS/DS01/" class="btn box2">Searching<br>Sorting</a>
+      <a href="/01-MSDS/DS02/" class="btn box2">Trees<br>Graphs</a>
+      <a href="/01-MSDS/DS03/" class="btn box2">Dynamic<br>Program</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S02 - Advanced Algorithms</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS04/" class="btn box1">Linear Programming</a>
-      <a href="/01-MSDS/DS05/" class="btn box1">Quantum Algorithms</a>
+      <a href="/01-MSDS/DS04/" class="btn box1">Linear<br>Program</a>
+      <a href="/01-MSDS/DS05/" class="btn box1">Quantum<br>Algorithms</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S03 - Machine Learning Theory</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS06/" class="btn box1">Supervised Learning</a>
-      <a href="/01-MSDS/DS07/" class="btn box1">Unsupervised Learning</a>
-      <a href="/01-MSDS/DS08/" class="btn box1">Deep Learning</a>
+      <a href="/01-MSDS/DS06/" class="btn box1">Supervised<br>Learning</a>
+      <a href="/01-MSDS/DS07/" class="btn box1">Unsupervised<br>Learning</a>
+      <a href="/01-MSDS/DS08/" class="btn box1">Deep<br>Learning</a>
     </div>
   </div>
 </div>
