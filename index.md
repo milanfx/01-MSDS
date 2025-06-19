@@ -6,23 +6,23 @@ permalink: /
 
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
   <div class="btn text"><div class="btn name">S01 - Data Algorithms</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">01</a><a href="/01-MSDS/DS01/" class="btn box1">Searching & Sorting</a>
-      <a class="btn box2">02</a><a href="/01-MSDS/DS02/" class="btn box1">Trees & Graphs</a>
-      <a class="btn box2">03</a><a href="/01-MSDS/DS03/" class="btn box1">Dynamic Programming</a>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS01/" class="btn box1">Searching & Sorting</a>
+      <a href="/01-MSDS/DS02/" class="btn box1">Trees & Graphs</a>
+      <a href="/01-MSDS/DS03/" class="btn box1">Dynamic Programming</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S02 - Advanced Algorithms</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">04</a><a href="/01-MSDS/DS04/" class="btn box1">Linear Programming</a>
-      <a class="btn box2">05</a><a href="/01-MSDS/DS05/" class="btn box1">Quantum Algorithms</a>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS04/" class="btn box1">Linear Programming</a>
+      <a href="/01-MSDS/DS05/" class="btn box1">Quantum Algorithms</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S03 - Machine Learning Theory</div>
-    <div class="row" style="grid-template-columns: 1fr 5fr;">
-      <a class="btn box2">06</a><a href="/01-MSDS/DS06/" class="btn box1">Supervised Learning</a>
-      <a class="btn box2">07</a><a href="/01-MSDS/DS07/" class="btn box1">Unsupervised Learning</a>
-      <a class="btn box2">08</a><a href="/01-MSDS/DS08/" class="btn box1">Deep Learning</a>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS06/" class="btn box1">Supervised Learning</a>
+      <a href="/01-MSDS/DS07/" class="btn box1">Unsupervised Learning</a>
+      <a href="/01-MSDS/DS08/" class="btn box1">Deep Learning</a>
     </div>
   </div>
 </div>
