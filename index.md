@@ -62,26 +62,26 @@ permalink: /
       <a href="/01-MSDS/DS20/" class="btn box1"><span class="btn box2">C20</span>Advanced<br>Database</a>
     </div>
   </div>
-  <div class="btn text"><div class="btn name">S08 - Vital Skills for DS</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS21/" class="btn box1"><span class="btn box2">C21</span>DataScience<br>Field</a>
-      <a href="/01-MSDS/DS22/" class="btn box1"><span class="btn box2">C22</span>Cyber<br>Security</a>
-      <a href="/01-MSDS/DS23/" class="btn box1"><span class="btn box2">C23</span>Ethical<br>Issues</a>
-      <a href="/01-MSDS/DS24/" class="btn box1"><span class="btn box2">C24</span>Data<br>Visualization</a>
+  <div class="btn text"><div class="btn name">S10 - Software Architecture</div>
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
+      <a href="/01-MSDS/DS21/" class="btn box2"><span class="btn box1">C21</span>Software<br>Fundamentals</a>
+      <a href="/01-MSDS/DS22/" class="btn box2"><span class="btn box1">C22</span>Software<br>Patterns</a>
+      <a href="/01-MSDS/DS23/" class="btn box2"><span class="btn box1">C23</span>Software<br>Applications</a>
     </div>
   </div>
 </div>
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
-  <div class="btn text"><div class="btn name">S10 - Software Architecture</div>
+  <div class="btn text"><div class="btn name">S08 - Vital Skills for DS</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS25/" class="btn box2"><span class="btn box1">C25</span>Software<br>Fundamentals</a>
-      <a href="/01-MSDS/DS26/" class="btn box2"><span class="btn box1">C26</span>Software<br>Patterns</a>
-      <a href="/01-MSDS/DS27/" class="btn box2"><span class="btn box1">C27</span>Software<br>Applications</a>
+      <a href="/01-MSDS/DS24/" class="btn box1"><span class="btn box2">C24</span>DataScience<br>Field</a>
+      <a href="/01-MSDS/DS25/" class="btn box1"><span class="btn box2">C25</span>Cyber<br>Security</a>
+      <a href="/01-MSDS/DS26/" class="btn box1"><span class="btn box2">C26</span>Ethical<br>Issues</a>
+      <a href="/01-MSDS/DS27/" class="btn box1"><span class="btn box2">C27</span>Data<br>Visualization</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S09 - Effective Communication</div>
-    <div class="row" style="grid-template-columns: 1fr 1fr 1fr 1fr;">
+    <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
       <a href="/01-MSDS/DS28/" class="btn box2"><span class="btn box1">C28</span>Business<br>Writing</a>
       <a href="/01-MSDS/DS29/" class="btn box2"><span class="btn box1">C29</span>Graphic<br>Design</a>
       <a href="/01-MSDS/DS30/" class="btn box2"><span class="btn box1">C30</span>Public<br>Presentation</a>
