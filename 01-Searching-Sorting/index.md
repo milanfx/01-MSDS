@@ -25,14 +25,14 @@ permalink: /DS01/
   </div>
   <div class="btn text"><div class="btn name">M2 - Heaps & Hashtable Data Structures</div>
     <div class="row" style="grid-template-columns: 2fr 1fr;">
-      <div class="row" style="grid-template-columns: 1fr 5fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
         <a class="btn box3">
         2.1 Dynamic Array<br>
         2.2 Heap Structure<br>
         2.3 Heap Primitives<br>
         2.4 Heap Sort<br>
         2.5 Hashtables Intro<br>
-        &nbsp;<br></a>
+        </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="/01-MSDS/DS01/M2/" class="btn box2">🎯<br>Summary</a>
