@@ -127,9 +127,9 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S15 - Bayesian Statistics</div>
     <div class="row" style="grid-template-columns: 1fr 1fr 1fr;">
-      <a href="/01-MSDS/DS44/" class="btn box1"><span class="btn box2">C35</span>Bayesian<br>Introduction</a>
-      <a href="/01-MSDS/DS45/" class="btn box1"><span class="btn box2">C35</span>Bayesian<br>Applications</a>
-      <a href="/01-MSDS/DS46/" class="btn box1"><span class="btn box2">C35</span>Bayesian<br>Modeling</a>
+      <a href="/01-MSDS/DS44/" class="btn box1"><span class="btn box2">C44</span>Bayesian<br>Introduction</a>
+      <a href="/01-MSDS/DS45/" class="btn box1"><span class="btn box2">C45</span>Bayesian<br>Applications</a>
+      <a href="/01-MSDS/DS46/" class="btn box1"><span class="btn box2">C46</span>Bayesian<br>Modeling</a>
     </div>
   </div>
   <div class="btn text"><div class="btn name">S16</div>
