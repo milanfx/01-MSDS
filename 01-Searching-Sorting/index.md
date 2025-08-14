@@ -27,11 +27,11 @@ permalink: /DS01/
     <div class="row" style="grid-template-columns: 2fr 1fr;">
       <div class="row" style="grid-template-columns: 1fr;">
         <a class="btn box3">
-        2.1 Dynamic Array<br>
-        2.2 Heap Structure<br>
-        2.3 Heap Primitives<br>
-        2.4 Heap Sort<br>
-        2.5 Hashtables Intro<br>
+        2.1 Dynamic Array<br><br>
+        2.2 Heap Structure<br><br>
+        2.3 Heap Primitives<br><br>
+        2.4 Heap Sort<br><br>
+        2.5 Hashtables Intro<br><br>
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
