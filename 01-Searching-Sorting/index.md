@@ -7,14 +7,13 @@ permalink: /DS01/
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">M1 - Searching & Sorting Algorithms</div>
     <div class="row" style="grid-template-columns: 2fr 1fr;">
-      <div class="row" style="grid-template-columns: 1fr 5fr;">
-        <a class="btn box2">1.1</a><a class="btn box1">Insertion Sort</a>
-        <a class="btn box2">1.2</a><a class="btn box1">Asymptotic Notation</a>
-        <a class="btn box2">1.3</a><a class="btn box1">Binary Search</a>
-        <a class="btn box2">1.4</a><a class="btn box1">Merge Sort</a>
-        <a class="btn box2">1.5</a><a class="btn box1">Logarithms Asymptotic</a>
-        <a class="btn empty">&nbsp;</a><a class="btn empty"></a>
-      </div>
+      <a class="btn box1">1.1 Insertion Sort</a>
+      <a class="btn box1">1.2 Asymptotic Notation</a>
+      <a class="btn box1">1.3 Binary Search</a>
+      <a class="btn box1">1.4 Merge Sort</a>
+      <a class="btn box1">1.5 Logarithms Asymptotic</a>
+      <a class="btn empty"></a>
+    </div>
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
