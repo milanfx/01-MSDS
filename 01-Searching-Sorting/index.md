@@ -20,7 +20,6 @@ permalink: /DS01/
         <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
   </div>
@@ -38,7 +37,6 @@ permalink: /DS01/
       <div class="row" style="grid-template-columns: 1fr;">
         <a href="/01-MSDS/DS01/M2/" class="btn box2">🎯<br>Summary</a>
         <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
         <a class="btn empty">&nbsp;<br>&nbsp;</a>
       </div>
     </div>
