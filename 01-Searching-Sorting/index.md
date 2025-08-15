@@ -17,9 +17,9 @@ permalink: /DS01/
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯<br>Summary</a>
-        <a href="//" class="btn box2">📚<br>Assignment</a>
-        <a class="btn empty">&nbsp;<br>&nbsp;</a>
+        <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯 Note</a>
+        <a href="//"                class="btn box2">🔔 Quiz</a>
+        <a href="//"                class="btn box2">📚 Assignment</a>
       </div>
     </div>
   </div>
