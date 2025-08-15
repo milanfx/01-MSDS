@@ -20,6 +20,7 @@ permalink: /DS01/
         <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯 Note</a>
         <a href="//"                class="btn box2">🔔 Quiz</a>
         <a href="//"                class="btn box2">📚 Assignment</a>
+        <a href="//"                class="btn box2">📐 Assessment;</a>
       </div>
     </div>
   </div>
