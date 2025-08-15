@@ -14,7 +14,7 @@ permalink: /DS01/
         1.3 Binary Search<br>
         1.4 Merge Sort<br>
         1.5 Logarithms Asymptotic<br>
-        1.6 <br>>
+        1.6 <br>
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
