@@ -7,24 +7,34 @@ permalink: /
 <div class="block" style="grid-template-columns: 1fr 1fr;">
   <div class="btn text"><div class="btn name">S01 - Sustainable & Circular Product Development</div>
     <div class="row" style="grid-template-columns: 1fr 9fr;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-    </div><div class="row" style="grid-template-columns: 1fr 9fr;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-        </div><div class="row" style="grid-template-columns: 1fr 9fr;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-        </div><div class="row" style="grid-template-columns: 1fr 9fr;">
-
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-        </div><div class="row" style="grid-template-columns: 1fr 9fr;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-    </div></div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">C1</a>
+        <a href="//" class="btn box2">C2</a>
+        <a href="//" class="btn box2">C3</a>
+        <a href="//" class="btn box2">C4</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+      </div>
+    </div>
   </div>
-  <div class="btn text"><div class="btn name">S02 - Sustainable & Circular Product Development</div>
-    <div class="row" style="display: flex; flex-direction: column;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box11">C1</span>Autonomous Systems Verification & Synthesis</a>
+  <div class="btn text"><div class="btn name">S01 - Sustainable & Circular Product Development</div>
+    <div class="row" style="grid-template-columns: 1fr 9fr;">
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="//" class="btn box2">C1</a>
+        <a href="//" class="btn box2">C2</a>
+        <a href="//" class="btn box2">C3</a>
+        <a href="//" class="btn box2">C4</a>
+      </div>
+      <div class="row" style="grid-template-columns: 1fr;">
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+        <a href="/01-MSDS/DS01/" class="btn box2">Autonomous Systems Verification & Synthesis</a>
+      </div>
     </div>
   </div>
 </div>
