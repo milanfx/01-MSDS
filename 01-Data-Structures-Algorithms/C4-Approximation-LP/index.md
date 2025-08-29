@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C04 - Linear Programming
-permalink: /DS04/
+permalink: /DS01C4/
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">

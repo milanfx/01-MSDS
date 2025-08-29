@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C03 - Dynamic Programming
-permalink: /DS03/
+permalink: /DS01C3/
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">

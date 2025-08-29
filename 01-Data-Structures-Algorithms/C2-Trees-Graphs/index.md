@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C02 - Trees & Graphs
-permalink: /DS02/
+permalink: /DS01C2/
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
