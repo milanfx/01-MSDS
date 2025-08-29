@@ -2,3 +2,5 @@ title: My Site
 description: Just a demo site.
 markdown: kramdown
 theme: minima
+url: "https://milanfx.github.io"
+baseurl: "/01-MSDS"
