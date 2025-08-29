@@ -1,20 +1,20 @@
 ## MSDS
-
-### 01 - Data Structure & Algorithms Foundations
 ---
+### 01 - Data Structure & Algorithms Foundations
+
 - C1 - Searching & Sorting Algorithms
     - C2 - Trees & Graphs Basics
         - C3 - Greedy & Dynamic Programming
             - C4 - Approximation & Linear Programming
                 - C5 - RSA & Quantum Algorithms
-
-### 02 - Probability & Statistics Foundations
 ---
+### 02 - Probability & Statistics Foundations
+
 - C1 - Probability Foundations for Data Science
     - C2 - Statistical Estimation for Data Science
         - C3 - Statistical Inference & Hypothesis Testing
             - C4 - Markov Chains & Monte Carlo Methods
-
+---
 ### 03 - **Data Mining Foundations & Practice**
 
 - C1 - Data Mining Pipeline
