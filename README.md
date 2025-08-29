@@ -91,6 +91,6 @@
 
 ### 15 - Bayesian Statistics for Data Science
 
-- C1 - **Bayesian Statistics Introduction**
-    - C2 - **Bayesian Statistical Computation**
-        - C3 - **Bayesian Statistical Modeling**
+- C1 - Bayesian Statistics Introduction
+    - C2 - Bayesian Statistical Computation
+        - C3 - Bayesian Statistical Modeling
