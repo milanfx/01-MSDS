@@ -1,6 +1,6 @@
 ---
 layout: page
-title: C05 - Quantum Algorithms
+title: C5 - RSA & Quantum Algorithms
 permalink: /DS01C5/
 ---
 
