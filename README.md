@@ -45,8 +45,8 @@
 ### 07 - Vital Skills for Data Scientists
 
 - C1 - Data Science as a field
-- C2 - Ethical issues in Data Science
-- C3 - Cybersecurity for Data Science
+- C2 - Cybersecurity for Data Science
+- C3 - Ethical issues in Data Science
 - C4 - Data Visualization Foundations
 
 ### 08 - Effective Communication
