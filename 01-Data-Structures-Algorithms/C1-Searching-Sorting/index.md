@@ -18,7 +18,7 @@ permalink: /DS01C1/
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01/M1/" class="btn box2">🎯 Note</a>
+        <a href="/01-MSDS/DS01C1/M1/" class="btn box2">🎯 Note</a>
         <a href="//"                class="btn box2">🚖 Quiz</a>
         <a href="//"                class="btn box2">🚀 Assignment</a>
         <a href="//"                class="btn box2">✈️ Assessment</a>
@@ -38,7 +38,7 @@ permalink: /DS01C1/
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01/M2/" class="btn box2">🎯 Note</a>
+        <a href="/01-MSDS/DS01C1/M2/" class="btn box2">🎯 Note</a>
         <a href="//"                class="btn box2">🚖 Quiz</a>
         <a href="//"                class="btn box2">🚀 Assignment</a>
         <a href="//"                class="btn box2">✈️ Assessment</a>
@@ -61,7 +61,7 @@ permalink: /DS01C1/
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01/M3/" class="btn box2">🎯 Note</a>
+        <a href="/01-MSDS/DS01C1/M3/" class="btn box2">🎯 Note</a>
         <a href="//"                class="btn box2">🚖 Quiz</a>
         <a href="//"                class="btn box2">🚀 Assignment</a>
         <a href="//"                class="btn box2">✈️ Assessment</a>
@@ -81,7 +81,7 @@ permalink: /DS01C1/
         </a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01/M4/" class="btn box2">🎯 Note</a>
+        <a href="/01-MSDS/DS01C1/M4/" class="btn box2">🎯 Note</a>
         <a href="//"                class="btn box2">🚖 Quiz</a>
         <a href="//"                class="btn box2">🚀 Assignment</a>
         <a href="//"                class="btn box2">✈️ Assessment</a>
