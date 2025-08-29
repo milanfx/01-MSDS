@@ -1,7 +1,7 @@
 ---
 layout: page
 title: C05 - Quantum Algorithms
-permalink: /DS05C5/
+permalink: /DS01C5/
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
