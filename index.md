@@ -15,7 +15,7 @@ permalink: /
         <a class="btn box2">C5</a>
       </div>
       <div class="row" style="grid-template-columns: 1fr;">
-        <a href="/01-MSDS/DS01C1/" class="btn box1">Searching Sorting & Indexing Algorithms</a>
+        <a href="/01-MSDS/DS01C1/" class="btn box1">Searching & Sorting Algorithms</a>
         <a href="/01-MSDS/DS01C2/" class="btn box1">Trees & Graphs Basics</a>
         <a href="/01-MSDS/DS01C3/" class="btn box1">Greedy & Dynamic Programming</a>
         <a href="/01-MSDS/DS01C4/" class="btn box1">Approximation & Linear Programming</a>
