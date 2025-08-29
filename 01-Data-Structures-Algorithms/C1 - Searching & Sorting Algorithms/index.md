@@ -1,7 +1,7 @@
 ---
 layout: page
-title: C01 - Searching & Sorting
-permalink: /DS01/
+title: C1 - Searching & Sorting Algorithms
+permalink: /01-MSDS/DS01C1/
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr;">
