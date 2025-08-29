@@ -5,28 +5,28 @@ permalink: /
 ---
 
 <div class="block" style="grid-template-columns: 1fr 1fr 1fr;">
-  <div class="btn text"><div class="btn name">S01 - Data Structures & Algorithms</div>
+  <div class="btn text"><div class="btn name">S01 - Sustainable & Circular Product Development</div>
     <div class="row" style="display: flex; flex-direction: column;">
-      <a href="/01-MSDS/DSA1/" class="btn box1"><span class="btn box2">C01</span>Searching Sorting</a>
-      <a href="/01-MSDS/DSA2/" class="btn box1"><span class="btn box2">C02</span>Trees Graphs</a>
-      <a href="/01-MSDS/DSA3/" class="btn box1"><span class="btn box2">C03</span>Dynamic Program</a>
-      <a href="/01-MSDS/DSA4/" class="btn box1"><span class="btn box2">C04</span>Linear Program</a>
-      <a href="/01-MSDS/DSA5/" class="btn box1"><span class="btn box2">C05</span>Quantum Algorithms</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
     </div>
   </div>
-  <div class="btn text"><div class="btn name">S02 - Statistical Inference</div>
+  <div class="btn text"><div class="btn name">S02 - Sustainable & Circular Product Development</div>
     <div class="row" style="display: flex; flex-direction: column;">
-      <a href="/01-MSDS/SI2/" class="btn box1"><span class="btn box2">C01</span>Probability Theory</a>
-      <a href="/01-MSDS/SI2/" class="btn box1"><span class="btn box2">C02</span>Parametric Estimation</a>
-      <a href="/01-MSDS/SI3/" class="btn box1"><span class="btn box2">C03</span>Hypothesis Testing</a>
-      <a href="/01-MSDS/SI4/" class="btn box1"><span class="btn box2">C04</span>X X</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
     </div>
   </div>
-  <div class="btn text"><div class="btn name">S03 - Statistical Modeling</div>
+  <div class="btn text"><div class="btn name">S03 - Sustainable & Circular Product Development</div>
     <div class="row" style="display: flex; flex-direction: column;">
-      <a href="/01-MSDS/SM1/" class="btn box1"><span class="btn box2">C01</span>Linear Regression</a>
-      <a href="/01-MSDS/SM2/" class="btn box1"><span class="btn box2">C02</span>ANOVA Experiment</a>
-      <a href="/01-MSDS/SM3/" class="btn box1"><span class="btn box2">C03</span>Nonlinear Regression</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
+      <a href="/01-MSDS/DSA1/" class="btn box1">C1 Autonomous Systems Verification & Synthesis</a>
     </div>
   </div>
 </div>
